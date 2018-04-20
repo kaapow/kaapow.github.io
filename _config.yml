@@ -1,0 +1,36 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Khaled Abou Alfa"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/kaa\">@kaa on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/kaa\">@kaa on Micro.blog</a>."
+baseurl: ""
+url: "https://www.kaa.bz"
+markdown: "kramdown"
+username: "kaa"
+microblog_user: "kaa"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Khaled Abou Alfa"
+name: "Khaled Abou Alfa"
+gravatar_hash: "4e4b258e5f4871a78578e2833c62120c"
+avatar: "https://micro.blog/kaa/avatar.jpg"
+full_name: "Khaled Abou Alfa"
+bio: ""
+twitter_username: "@kaa_pow"
+github_username: "kaapow"
+instagram_username: "kaa.pow"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "W-SU"
+site_id: "2509"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
