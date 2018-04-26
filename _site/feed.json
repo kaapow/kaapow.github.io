@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/04/26/every-month-the.html",
+	      	
+			"content_html": "<p>Every month the Dropbox team have been adding new features to Paper. The new <a href=\"https://blogs.dropbox.com/dropbox/2018/04/dropbox-paper-templates/\">templates feature</a> is a welcome addition. <em>However</em> the fact that you still cannot control the email notifications you get when you share a document truly baffles me.</p>\n",
+			"date_published": "2018-04-26T20:41:43+04:00",
+			"url": "https://www.kaa.bz/2018/04/26/every-month-the.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/04/25/160526.html",
 	      	
 			"content_html": "<p>After listening to the <a href=\"https://craigmod.com/onmargins/003/\">Kevin Kelly episode</a> of Craig Mod’s podcast <em>On Margins</em> you might find yourself thinking about listening to more from this Kevin Kelly fella. Thankfully he’s got you <a href=\"http://kk.org/interviews\">covered</a>.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/487e8d4f25.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-09T21:16:37+04:00",
 			"url": "https://www.kaa.bz/2018/04/09/171637.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/08/174013.html",
-	      	
-			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/3b1f2e3fbc.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T21:40:13+04:00",
-			"url": "https://www.kaa.bz/2018/04/08/174013.html"
 		}
 		
 	]
