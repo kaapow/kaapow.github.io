@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/04/29/of-all-the.html",
+	      	
+			"content_html": "<p>Of all the things that I’ve learnt this year, the <strong>power</strong> of creating a project by building a wall of notes, sketches and ideas is easily the most intoxicating. I honestly can’t get enough of this thing as I mould this project, one idea and thought, at at time.</p>\n",
+			"date_published": "2018-04-29T21:47:27+04:00",
+			"url": "https://www.kaa.bz/2018/04/29/of-all-the.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/04/27/the-modest-guide.html",
 	      	
 			"content_html": "<p>The <a href=\"https://frankchimero.com/blog/2018/productivity-guide/\">modest guide to productivity</a> by Frank Chimero has come at the perfect time for me. I’ve also nicked his idea of putting ideas for my next project on the wall, <em>literally</em> as a way to keep me moving on the project.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>So the new Oman airport is actually pretty nice. They’ve got some nice touches, except as someone in the industry, I can’t help but notice the lack of attention to certain detail. Also the bathrooms aren’t going to age very well…</p>\n",
 			"date_published": "2018-04-15T10:11:46+04:00",
 			"url": "https://www.kaa.bz/2018/04/15/so-the-new.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/13/153602.html",
-	      	
-			"content_html": "<p>The <a href=\"https://mailchi.mp/kottke/blogging-is-not-dead-edition-2575912502?e=7db4117771\">latest</a> issue of Kottke’s <em>Noticing</em> newsletter is an ode to bloggers and blogging. Definitely bookmark this for future reference. Especially loved the key quotes which centred on the question of <em>why</em> we blog.</p>\n",
-			"date_published": "2018-04-13T19:36:02+04:00",
-			"url": "https://www.kaa.bz/2018/04/13/153602.html"
 		}
 		
 	]
