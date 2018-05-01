@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/01/little-strokes-fell.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Little strokes fell great oaks.<br />\n— Benjamin Franklin</p>\n</blockquote>\n\n<p>Showing up every day and moving the needle forward.</p>\n",
+			"date_published": "2018-05-01T22:42:06+04:00",
+			"url": "https://www.kaa.bz/2018/05/01/little-strokes-fell.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/01/i-have-been.html",
 	      	
 			"content_html": "<p>I have been using the <em>Bullet Journal Method</em> for over 4 years (I know because I’ve kept them all). I’m going to buy the <a href=\"https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=as_li_ss_tl?ie=UTF8&amp;qid=1524864141&amp;sr=8-1&amp;keywords=the+bullet+journal+method&amp;dpID=61ANWIaIbeL&amp;preST=_SY291_BO1,204,203,200_QL40_&amp;dpSrc=srch&amp;linkCode=sl1&amp;tag=thebulletjournal-20&amp;linkId=9d926320d4bac582c5d4d5554e62a9ed\">book</a> in part to see if I’ve missed anything new as the method has matured and in part to hand out to people who still don’t know about it.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Related to the previous post, <a href=\"https://www.theringer.com/2017/2/1/16041010/image-comics-25-year-anniversary-the-walking-dead-e4774b7bffcd#.jmezhg9bu\">this article</a> by David Harper is <strong>essential</strong> reading for anyone interested in Image Comics.</p>\n",
 			"date_published": "2018-04-17T11:44:38+04:00",
 			"url": "https://www.kaa.bz/2018/04/17/related-to-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/17/064325.html",
-	      	
-			"content_html": "<p>Just finished listening to the <a href=\"http://sktchd.com/podcast/off-panel-84-the-story-of-image-with-todd-mcfarlane/\">Todd Mcfarlane episode</a> on the <em>Off Panel</em> podcast. I’d never <strong>heard</strong> him in an interview but this captures a lot of his views that I’ve read before.</p>\n",
-			"date_published": "2018-04-17T10:43:25+04:00",
-			"url": "https://www.kaa.bz/2018/04/17/064325.html"
 		}
 		
 	]
