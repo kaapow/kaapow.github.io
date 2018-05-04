@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/04/ive-been-thinking.html",
+	      	
+			"content_html": "<p>I’ve been thinking about why something like Micro.blog has caught on with me, when Twitter before it didn’t naturally fit and I think it’s down to the ‘arbitrary’ character length. 140 characters was too much friction for me. 280 allows my thoughts to spread a little bit further.</p>\n",
+			"date_published": "2018-05-04T15:52:13+04:00",
+			"url": "https://www.kaa.bz/2018/05/04/ive-been-thinking.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/04/importing-my-data.html",
 	      	
 			"content_html": "<p>Importing my data from the various edges of the internet continues. Tumblr fell pretty quickly,  Medium is <em>half</em> way there and now <a href=\"https://www.manton.org/2018/05/instagram-import-in-micro-blog.html\">Instagram</a>. My Twitter account is going to require some work, as are my historic .md files (from my older blogs). Having everything under one roof however, is <strong>amazing</strong>, highly recommend it.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://www.bbc.co.uk/news/resources/idt-sh/Cuba_after_the_Castros\">Cuba After the Castros</a> is an incredible photo essay on the BBC. In my 20s I spent a lot of time reading about the Cuban Revolution and it’s players, so I found this article fascinating.</p>\n",
 			"date_published": "2018-04-18T20:11:24+04:00",
 			"url": "https://www.kaa.bz/2018/04/18/cuba-after-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/17/struggling-with-the.html",
-	      	
-			"content_html": "<p>Struggling with the Sunlit app. The app allows me to post multiple photos &amp; add text. With the HTML off limits in the themes, I can’t define <em>how</em> I’d like these stories displayed on my site. I don’t want 20 photos in a long vertical line. Need more display options for the site.</p>\n",
-			"date_published": "2018-04-17T21:12:24+04:00",
-			"url": "https://www.kaa.bz/2018/04/17/struggling-with-the.html"
 		}
 		
 	]
