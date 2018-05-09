@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/09/now-that-the.html",
+	      	
+			"content_html": "<p>Now that the initial euphoria is over and I’m knee deep in the production side of things on the <em>Project</em>, you enter the realisation part. This is going to take dedication, hard work and most importantly, <strong>focus</strong>.</p>\n",
+			"date_published": "2018-05-09T12:52:41+04:00",
+			"url": "https://www.kaa.bz/2018/05/09/now-that-the.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/07/seven-no-not.html",
 	      	
 			"content_html": "<p>Seven. No, not the admittedly awesome David Fincher movie rather the number of years I’ve been married. The last few years since Zane was born have been more hard than easy but nothing worthwhile comes easily.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Finally wrote my third article on RMO, <a href=\"http://www.rmo.life/physical-digital-and-mind\">Physical, Digital &amp; Mind</a>. I’m mindful of sharing this at the moment as I’m still working through it all, but feedback is important to me at this early stage.</p>\n",
 			"date_published": "2018-04-19T20:57:27+04:00",
 			"url": "https://www.kaa.bz/2018/04/19/finally-wrote-my.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/19/for-my-short.html",
-	      	
-			"content_html": "<p>For my short strings of words on the internet, I’ve consolidated to using Micro.blog. For all my long form writing, it’s absolutely impossible to beat <a href=\"http://blot.im\">Blot</a>. Posting has a low barrier; editing something however is truly frictionless.</p>\n",
-			"date_published": "2018-04-19T20:44:25+04:00",
-			"url": "https://www.kaa.bz/2018/04/19/for-my-short.html"
 		}
 		
 	]
