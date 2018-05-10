@@ -6,14 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://kaa.micro.blog/2018/05/10/weekend-is-upon.html",
-	      	
-			"content_html": "<p>Weekend is upon me and I’ve got some <strong>major</strong> work to get on with. This week has kicked my ass in a few ways, so hoping to regain some of my energy and not let everything get derailed like it usually does.</p>\n",
-			"date_published": "2018-05-10T20:51:08+04:00",
-			"url": "https://www.kaa.bz/2018/05/10/weekend-is-upon.html"
-		},
-		
-		{
 			"id": "http://kaa.micro.blog/2018/05/09/now-that-the.html",
 	      	
 			"content_html": "<p>Now that the initial euphoria is over and I’m knee deep in the production side of things on the <em>Project</em>, you enter the realisation part. This is going to take dedication, hard work and most importantly, <strong>focus</strong>.</p>\n",
@@ -203,6 +195,14 @@
 			"content_html": "<p>The <a href=\"https://www.gimletmedia.com/\">Gimlet Media website</a> is how a podcast network should be <em>displayed</em>, all about the art (along with 4 links at the top). I’d recommend starting with <a href=\"https://www.gimletmedia.com/mystery-show\">Mystery Show</a>.</p>\n",
 			"date_published": "2018-04-20T06:50:02+04:00",
 			"url": "https://www.kaa.bz/2018/04/20/the-gimlet-media.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/04/19/finally-wrote-my.html",
+	      	
+			"content_html": "<p>Finally wrote my third article on RMO, <a href=\"http://www.rmo.life/physical-digital-and-mind\">Physical, Digital &amp; Mind</a>. I’m mindful of sharing this at the moment as I’m still working through it all, but feedback is important to me at this early stage.</p>\n",
+			"date_published": "2018-04-19T20:57:27+04:00",
+			"url": "https://www.kaa.bz/2018/04/19/finally-wrote-my.html"
 		}
 		
 	]
