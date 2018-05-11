@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/11/we-really-do.html",
+	      	
+			"content_html": "<p>We really do live in a world with a cornucopia of excellent text editors available on the Mac. My favourite editors are:</p>\n\n<ol>\n  <li><a href=\"https://zettelkasten.de/the-archive/\">The Archive</a> - for short snippets of text.</li>\n  <li><a href=\"https://ia.net/writer\">iA Writer 4</a> - for most written projects</li>\n  <li><a href=\"https://quoteunquoteapps.com/highland-2/\">Highland 2</a> - for scripts</li>\n  <li><a href=\"https://panic.com/coda/\">Coda 2</a> - for coding</li>\n</ol>\n",
+			"date_published": "2018-05-11T12:38:12+04:00",
+			"url": "https://www.kaa.bz/2018/05/11/we-really-do.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/09/now-that-the.html",
 	      	
 			"content_html": "<p>Now that the initial euphoria is over and I’m knee deep in the production side of things on the <em>Project</em>, you enter the realisation part. This is going to take dedication, hard work and most importantly, <strong>focus</strong>.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>The <a href=\"https://www.gimletmedia.com/\">Gimlet Media website</a> is how a podcast network should be <em>displayed</em>, all about the art (along with 4 links at the top). I’d recommend starting with <a href=\"https://www.gimletmedia.com/mystery-show\">Mystery Show</a>.</p>\n",
 			"date_published": "2018-04-20T06:50:02+04:00",
 			"url": "https://www.kaa.bz/2018/04/20/the-gimlet-media.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/19/finally-wrote-my.html",
-	      	
-			"content_html": "<p>Finally wrote my third article on RMO, <a href=\"http://www.rmo.life/physical-digital-and-mind\">Physical, Digital &amp; Mind</a>. I’m mindful of sharing this at the moment as I’m still working through it all, but feedback is important to me at this early stage.</p>\n",
-			"date_published": "2018-04-19T20:57:27+04:00",
-			"url": "https://www.kaa.bz/2018/04/19/finally-wrote-my.html"
 		}
 		
 	]
