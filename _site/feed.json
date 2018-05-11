@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/11/these-yellow-kaweco.html",
+	      	
+			"content_html": "<p>These yellow <a href=\"https://fontoplumo.nl/2018/05/09/kaweco-special-edition-sunrise-and-sunset/\">Kaweco special editions</a> (Sunrise and Sunset) are pretty amazing. Just as good looking as the <a href=\"https://www.penchalet.com/fine_pens/fountain_pens/kaweco_al_sport_fountain_pen.html\">Red version</a> of the AL Sport (which is a North American exclusive?)</p>\n",
+			"date_published": "2018-05-11T22:00:28+04:00",
+			"url": "https://www.kaa.bz/2018/05/11/these-yellow-kaweco.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/05/11/bought-the-mi.html",
+	      	
+			"content_html": "<p>Bought the <a href=\"http://www.mi.com/mea/miband2/\">Mi Band 2</a> today. The main reasons being the price, 20 day battery life and limited functionality. Hopefully it will change my current behaviour and make me be more active than I have been recently.</p>\n",
+			"date_published": "2018-05-11T21:48:35+04:00",
+			"url": "https://www.kaa.bz/2018/05/11/bought-the-mi.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/11/we-really-do.html",
 	      	
 			"content_html": "<p>We really do live in a world with a cornucopia of excellent text editors available on the Mac. My favourite editors are:</p>\n\n<ol>\n  <li><a href=\"https://zettelkasten.de/the-archive/\">The Archive</a> - for short snippets of text.</li>\n  <li><a href=\"https://ia.net/writer\">iA Writer 4</a> - for most written projects</li>\n  <li><a href=\"https://quoteunquoteapps.com/highland-2/\">Highland 2</a> - for scripts</li>\n  <li><a href=\"https://panic.com/coda/\">Coda 2</a> - for coding</li>\n</ol>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/0729d8b181.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-04-20T20:11:17+04:00",
 			"url": "https://www.kaa.bz/2018/04/20/miracle-gardens.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/20/looking-at-getting.html",
-	      	
-			"content_html": "<p>Looking at getting a 3D printer,  either the <a href=\"https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3-3d-printer.html\">Prusa i3 MK3</a> or the <a href=\"https://robo3d.com/products/robo-r2\">Robo R2</a>. The issue is you’ve got to drop in excess of $1000 to start the journey — going cheaper apparently will turn you off the whole experience entirely.</p>\n",
-			"date_published": "2018-04-20T08:19:22+04:00",
-			"url": "https://www.kaa.bz/2018/04/20/looking-at-getting.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/20/the-gimlet-media.html",
-	      	
-			"content_html": "<p>The <a href=\"https://www.gimletmedia.com/\">Gimlet Media website</a> is how a podcast network should be <em>displayed</em>, all about the art (along with 4 links at the top). I’d recommend starting with <a href=\"https://www.gimletmedia.com/mystery-show\">Mystery Show</a>.</p>\n",
-			"date_published": "2018-04-20T06:50:02+04:00",
-			"url": "https://www.kaa.bz/2018/04/20/the-gimlet-media.html"
 		}
 		
 	]
