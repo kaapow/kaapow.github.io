@@ -30,7 +30,7 @@ h1 									{ font-family: 'Archivo Narrow', san-serif; color: var(--title); fon
 h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-weight: 700;}
 h2							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
 h3, h4	    { font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
-.avatar img 						{ height:75px; max-width: 75px;}
+.avatar img 						{ height:60px; max-width: 60px;}
 .site__name							{ color: var(--site-name); font-size:1.8rem; font-weight:900;  font-feature-settings: "smcp" 1;}
 .post__footer a, .copyright, .post__footer 		{ padding-top: 0.5rem; }
 .copyright 							{ line-height: 1.4rem; font-size: 1.0rem;}
