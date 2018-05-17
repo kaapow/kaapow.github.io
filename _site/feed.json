@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/17/finally-ever-since.html",
+	      	
+			"content_html": "<p><em>Finally!</em> Ever since moving over to the UAE, I’ve sorely missed having FaceTime on my iPhones although I have had some success in using it on my Mac. With the (<em>hopefully</em>) imminent <a href=\"http://gulfbusiness.com/uaes-telecoms-regulator-talks-lift-skype-facetime-ban/\">ban being lifted</a>, communication might be going back to normal with the outside world.</p>\n",
+			"date_published": "2018-05-17T15:56:11+04:00",
+			"url": "https://www.kaa.bz/2018/05/17/finally-ever-since.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/14/173325.html",
 	      	
 			"content_html": "<p>Although Dropbox Paper is exceptionally well designed and is receives updates regularly, it’s lack of proper Dropbox integration and lack of 3rd party apps is <strong>mighty</strong> annoying. Is the API garbage to support?  No idea. Wish they would sort it out though.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/28dcccbbd7.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-23T21:53:52+04:00",
 			"url": "https://www.kaa.bz/2018/04/23/175352.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/23/time-for-an.html",
-	      	
-			"content_html": "<p>Time for an evening walk. Need to chase away these demons. Plus I ate too much crap this <strong>year</strong> and really need to loose some weight.</p>\n",
-			"date_published": "2018-04-23T21:37:23+04:00",
-			"url": "https://www.kaa.bz/2018/04/23/time-for-an.html"
 		}
 		
 	]
