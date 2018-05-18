@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/18/this-article-by.html",
+	      	
+			"content_html": "<p><a href=\"https://thoughtcatalog.com/ryan-holiday/2018/05/22-rules-for-creating-work-that-stands-the-test-of-time/\">This article</a> by Ryan Holiday has seriously hit home at the moment as I move through my current project…which I shared a snippet of <a href=\"https://www.kaa.bz/2018/05/17/140957.html\">yesterday</a>. I’ve written the list out and put it on my wall.</p>\n",
+			"date_published": "2018-05-18T06:31:21+04:00",
+			"url": "https://www.kaa.bz/2018/05/18/this-article-by.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/17/140957.html",
 	      	
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/cb944c1658.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>After listening to the <a href=\"https://craigmod.com/onmargins/003/\">Kevin Kelly episode</a> of Craig Mod’s podcast <em>On Margins</em> you might find yourself thinking about listening to more from this Kevin Kelly fella. Thankfully he’s got you <a href=\"http://kk.org/interviews\">covered</a>.</p>\n",
 			"date_published": "2018-04-25T20:05:26+04:00",
 			"url": "https://www.kaa.bz/2018/04/25/160526.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/24/can-someone-please.html",
-	      	
-			"content_html": "<p>Can someone please explain to me why Dropbox in <a href=\"https://ia.net/writer\">iA Writer</a> doesn’t work like it used to (i.e file access), even though the original functionality exists in other apps? Why has Dropbox’s changes to their API affected some apps on iOS and not others?</p>\n",
-			"date_published": "2018-04-24T06:42:34+04:00",
-			"url": "https://www.kaa.bz/2018/04/24/can-someone-please.html"
 		}
 		
 	]
