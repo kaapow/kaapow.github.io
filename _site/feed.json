@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/22/my-wife-every.html",
+	      	
+			"content_html": "<p>My wife (every wife?) has been complaining that I spend too much time on my iPhone (she’s <em>probably</em> right). This <a href=\"https://www.punkt.ch/en/products/mp01-mobile-phone/#null\">Punkt mobile phone</a> looks like something I will invest in (if I can get a twin sim in Dubai).</p>\n",
+			"date_published": "2018-05-22T11:28:21+04:00",
+			"url": "https://www.kaa.bz/2018/05/22/my-wife-every.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/22/im-so-deflated.html",
 	      	
 			"content_html": "<p>I’m so deflated right now. Got a lot of <strong>shit</strong> going on inside and outside work. Saw this quote this morning which I thought was pretty apt:</p>\n\n<blockquote>\n  <p>You may not control all the events that happen to you, but you can decide not to be reduced by them.<br />\n— <em>Maya Angelou</em></p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Absolutely love this time in a project’s life. The very start, where the battleground is being drawn, the enthusiasm is at an absolute high and the ideas are just flooding in; as they get massaged and expanded upon constantly.</p>\n",
 			"date_published": "2018-04-27T18:43:55+04:00",
 			"url": "https://www.kaa.bz/2018/04/27/144355.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/27/085708.html",
-	      	
-			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/7f9ec5b488.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-27T12:57:08+04:00",
-			"url": "https://www.kaa.bz/2018/04/27/085708.html"
 		}
 		
 	]
