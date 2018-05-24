@@ -4,17 +4,8 @@
     <title>Khaled Abou Alfa</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/kaa&quot;&gt;@kaa on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.kaa.bz/</link>
-    <pubDate>Thu, 24 May 2018 07:03:58 +0400</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 07:03:58 +0400</lastBuildDate>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Being able to see all your photos in a nice simple grid (like on Instagram) is very compelling. I’d love an option to have a separate photo page (similar to the About page), posting could be triggered from an option in the post page maybe. &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt; thoughts?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 May 2018 07:01:22 +0400</pubDate>
-        <link>https://www.kaa.bz/2018/05/24/being-able-to.html</link>
-        <guid isPermaLink="true">http://kaa.micro.blog/2018/05/24/being-able-to.html</guid>
-      </item>
+    <pubDate>Thu, 24 May 2018 20:11:47 +0400</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 20:11:47 +0400</lastBuildDate>
     
       <item>
       	
@@ -480,6 +471,102 @@
         <pubDate>Fri, 13 Apr 2018 19:36:02 +0400</pubDate>
         <link>https://www.kaa.bz/2018/04/13/153602.html</link>
         <guid isPermaLink="true">http://kaa.micro.blog/2018/04/13/153602.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Perspective</title>
+        
+        <description>&lt;p&gt;You may have noticed &lt;em&gt;discontent&lt;/em&gt; amongst some Micro.blog users, in reaction to the latest iOS app addition, &lt;a href=&quot;http://www.manton.org/2018/04/wavelength-for-micro-blog.html&quot;&gt;Wavelength&lt;/a&gt;, to the Micro.blog ecosystem.&lt;/p&gt;
+
+&lt;p&gt;The “argument” goes that 3 iOS apps and 1 Mac app later with no love for Windows, Linux or most &lt;em&gt;glaringly&lt;/em&gt; Android is a sure sign that the network is doomed (or something else equally as dramatic). Then the knives started coming out, calling the apps suboptimal, which I feel to be insensitive and insulting. Manton’s actually handling this pretty gracefully, which is exactly the attitude I believe is necessary to shepherd the nerds without upsetting them.&lt;/p&gt;
+
+&lt;p&gt;I think it’s important for everyone to maintain some perspective. The Kickstarter ended a little over a year ago (back on the 1st of February). The actual service didn’t start opening up to register for a few months after that. This service has only been live for &lt;em&gt;around&lt;/em&gt; a year. Lets review what’s happened in that time:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;No.&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Project/Update&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Date&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Micro.blog released&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;29 April 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Jean MacDonald announced as Community Manager&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21 March 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Micro.blog iOS app goes Universal&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21 June 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Updated Markdown Support for Web&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;14 August 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Custom Web pages&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25 August 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Overhaul of Web posting/editing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;22 September 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Mac App released&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;17 November 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Micro.blog opens up past Kickstarter&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;19 December 2017&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sunlit iOS app&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;07 March 2018&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Multiple Accounts&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26 March 2018&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Wavelength iOS app&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;12 April 2018&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Clearly&lt;/strong&gt; the guy is a complete slacker. Clearly.&lt;/p&gt;
+
+&lt;p&gt;I can understand people being ‘upset’ about not having an Android app, but my view is this, if there is enough request then it will make &lt;em&gt;business&lt;/em&gt; sense to officially support this platform. However, give the man some time to get there!&lt;/p&gt;
+
+&lt;p&gt;I would like Manton’s to spend time and complete the book. The reason for this is so that he can close last year’s Kickstarter and look to having another Kickstarter to maybe bring someone else to help him full-time with the development cycles.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I received my invite on this date. It was only 6-8 months later that I actually started using Micro.blog in any &lt;em&gt;meaningful&lt;/em&gt; way. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 13 Apr 2018 10:30:08 +0400</pubDate>
+        <link>https://www.kaa.bz/2018/04/13/perspective.html</link>
+        <guid isPermaLink="true">http://kaa.micro.blog/2018/04/13/perspective.html</guid>
       </item>
     
   </channel>
