@@ -6,19 +6,11 @@
 	"items": [
 		
 		{
-			"id": "http://kaa.micro.blog/2018/05/23/you-may-have.html",
+			"id": "http://kaa.micro.blog/2018/05/24/being-able-to.html",
 	      	
-			"content_html": "<p>You may have noticed that I’ve slowed down my posting on Instagram, likely not :). Either way my new preferred home on the internet is my own site, link in bio or go to www.kaa.bz</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8219965029.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-23T17:24:47+04:00",
-			"url": "https://www.kaa.bz/2018/05/23/you-may-have.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/23/114942.html",
-	      	
-			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/23d426a459.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-23T15:49:42+04:00",
-			"url": "https://www.kaa.bz/2018/05/23/114942.html"
+			"content_html": "<p>Being able to see all your photos in a nice simple grid (like on Instagram) is very compelling. I’d love an option to have a separate photo page (similar to the About page), posting could be triggered from an option in the post page maybe. <a href=\"https://micro.blog/manton\">@manton</a> thoughts?</p>\n",
+			"date_published": "2018-05-24T07:01:22+04:00",
+			"url": "https://www.kaa.bz/2018/05/24/being-able-to.html"
 		},
 		
 		{
@@ -203,6 +195,14 @@
 			"content_html": "<p>It appears that my hunt for a Gel ink refill capable of fitting into a Rotring 600 is over…<em>mostly</em>. While the <a href=\"https://fromthepencup.wordpress.com/2018/04/29/is-this-thing-on/\">Premec G2</a> refill seems to tick all the boxes; the only issue being trying to find a viable distributor that ships outside the US?</p>\n",
 			"date_published": "2018-04-30T17:10:44+04:00",
 			"url": "https://www.kaa.bz/2018/04/30/it-appears-that.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/04/29/of-all-the.html",
+	      	
+			"content_html": "<p>Of all the things that I’ve learnt this year, the <strong>power</strong> of creating a project by building a wall of notes, sketches and ideas is easily the most intoxicating. I honestly can’t get enough of this thing as I mould this project, one idea and thought, at at time.</p>\n",
+			"date_published": "2018-04-29T21:47:27+04:00",
+			"url": "https://www.kaa.bz/2018/04/29/of-all-the.html"
 		}
 		
 	]
