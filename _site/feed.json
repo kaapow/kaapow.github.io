@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/24/ive-spent-all.html",
+	      	
+			"content_html": "<p>I’ve spent all of 5 minutes with the new <em>Obscura 2</em> app and have been really impressed with what’s been created here. Can’t wait to try it out tomorrow. The <a href=\"[medium.com](https://medium.com/)[@benricem](https://micro.blog/benricem)/obscura-2-announcement-a927b0c2943b\">write up</a> by the app’s creator Ben McCarthy deserves your attention.</p>\n",
+			"date_published": "2018-05-24T20:28:23+04:00",
+			"url": "https://www.kaa.bz/2018/05/24/ive-spent-all.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/23/to-say-that.html",
 	      	
 			"content_html": "<p>To say that I am excited about the new iA Writer 5 is a <em>complete</em> understatement. Thankfully the <a href=\"https://twitter.com/iAWriter/status/998956469268680704\">wait seems to be nearly over</a>.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Of all the things that I’ve learnt this year, the <strong>power</strong> of creating a project by building a wall of notes, sketches and ideas is easily the most intoxicating. I honestly can’t get enough of this thing as I mould this project, one idea and thought, at at time.</p>\n",
 			"date_published": "2018-04-29T21:47:27+04:00",
 			"url": "https://www.kaa.bz/2018/04/29/of-all-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/27/the-modest-guide.html",
-	      	
-			"content_html": "<p>The <a href=\"https://frankchimero.com/blog/2018/productivity-guide/\">modest guide to productivity</a> by Frank Chimero has come at the perfect time for me. I’ve also nicked his idea of putting ideas for my next project on the wall, <em>literally</em> as a way to keep me moving on the project.</p>\n",
-			"date_published": "2018-04-27T21:03:46+04:00",
-			"url": "https://www.kaa.bz/2018/04/27/the-modest-guide.html"
 		}
 		
 	]
