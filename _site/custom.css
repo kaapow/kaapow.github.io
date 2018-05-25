@@ -53,7 +53,8 @@ hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
- li									{ margin-left: -20px;}
+ ol li									{ margin-left: -20px;}
+  ul li {margin-left: -23px}
 figure.avatar 						{ width: 60px; padding: 0; margin: 10px 0 0 -7em; float: left;}
 .site__page 						{ padding: 20px 15px 0 0;}
 .header 							{ text-align: left;}
