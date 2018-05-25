@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/25/033829.html",
+	      	
+			"content_html": "<p>Currently listening to <a href=\"http://www.fatoumatadiawara.com\">Fatoumata Diawara</a>’s new <em>Fenfo</em> album. Highly recommended.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/c2e9cf7895.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-05-25T07:38:29+04:00",
+			"url": "https://www.kaa.bz/2018/05/25/033829.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/05/25/ryan-is-absolutely.html",
+	      	
+			"content_html": "<p>Ryan is absolutely <strong>fascinated</strong> by music.</p>\n\n<p>I stumbled onto this fact by mistake (it feels that parenting is a series of mistakes upwards). When he was only a couple of months old I would sing to calm him down. I chose songs I knew by Smashing Pumpkins, Soundgarden and Metallica.</p>\n\n<p>We’ve now transitioned to the real thing which has (obviously) increased his verve for beautiful sounds, rather than his dad’s poor screetching.</p>\n",
+			"date_published": "2018-05-25T07:27:12+04:00",
+			"url": "https://www.kaa.bz/2018/05/25/ryan-is-absolutely.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/24/ive-spent-all.html",
 	      	
-			"content_html": "<p>I’ve spent all of 5 minutes with the new <em>Obscura 2</em> app and have been really impressed with what’s been created here. Can’t wait to try it out tomorrow. The <a href=\"[medium.com](https://medium.com/)[@benricem](https://micro.blog/benricem)/obscura-2-announcement-a927b0c2943b\">write up</a> by the app’s creator Ben McCarthy deserves your attention.</p>\n",
+			"content_html": "<p>I’ve spent all of 5 min with the new <em>Obscura 2</em> app, but coloured impressed with what’s been created. Can’t wait to try it out more tomorrow. The <a href=\"[medium.com](https://medium.com/)[@benricem](https://micro.blog/benricem)/obscura-2-announcement-a927b0c2943b\">write up</a> by the app’s creator Ben McCarthy also deserves your attention.</p>\n",
 			"date_published": "2018-05-24T20:28:23+04:00",
 			"url": "https://www.kaa.bz/2018/05/24/ive-spent-all.html"
 		},
@@ -187,22 +203,6 @@
 			"content_html": "<p>I have been using the <em>Bullet Journal Method</em> for over 4 years (I know because I’ve kept them all). I’m going to buy the <a href=\"https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=as_li_ss_tl?ie=UTF8&amp;qid=1524864141&amp;sr=8-1&amp;keywords=the+bullet+journal+method&amp;dpID=61ANWIaIbeL&amp;preST=_SY291_BO1,204,203,200_QL40_&amp;dpSrc=srch&amp;linkCode=sl1&amp;tag=thebulletjournal-20&amp;linkId=9d926320d4bac582c5d4d5554e62a9ed\">book</a> in part to see if I’ve missed anything new as the method has matured and in part to hand out to people who still don’t know about it.</p>\n",
 			"date_published": "2018-05-01T19:13:11+04:00",
 			"url": "https://www.kaa.bz/2018/05/01/i-have-been.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/30/it-appears-that.html",
-	      	
-			"content_html": "<p>It appears that my hunt for a Gel ink refill capable of fitting into a Rotring 600 is over…<em>mostly</em>. While the <a href=\"https://fromthepencup.wordpress.com/2018/04/29/is-this-thing-on/\">Premec G2</a> refill seems to tick all the boxes; the only issue being trying to find a viable distributor that ships outside the US?</p>\n",
-			"date_published": "2018-04-30T17:10:44+04:00",
-			"url": "https://www.kaa.bz/2018/04/30/it-appears-that.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/04/29/of-all-the.html",
-	      	
-			"content_html": "<p>Of all the things that I’ve learnt this year, the <strong>power</strong> of creating a project by building a wall of notes, sketches and ideas is easily the most intoxicating. I honestly can’t get enough of this thing as I mould this project, one idea and thought, at at time.</p>\n",
-			"date_published": "2018-04-29T21:47:27+04:00",
-			"url": "https://www.kaa.bz/2018/04/29/of-all-the.html"
 		}
 		
 	]
