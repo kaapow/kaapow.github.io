@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/28/so-many-excellent.html",
+	      	
+			"content_html": "<p>So many excellent thoughts and ideas to consider in <a href=\"https://medium.com/the-mission/here-with-2-years-of-exhausting-photographic-detail-is-how-to-write-a-book-fda1a6b40802\">this article</a> by Ryan Holiday about <em>How to write a book</em>. Being knee deep in the process at the moment, this is a pretty amazing resource.</p>\n",
+			"date_published": "2018-05-28T20:23:54+04:00",
+			"url": "https://www.kaa.bz/2018/05/28/so-many-excellent.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/28/does-anyone-know.html",
 	      	
 			"content_html": "<p>Does anyone know how to show the <strong>real</strong> return symbol on iOS? It currently outputs this monstrosity instead. I’m sure <a href=\"https://micro.blog/gruber\">@gruber</a> had written about this a while ago but I can’t seem to find it.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/645cc14611.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Importing my data from the various edges of the internet continues. Tumblr fell pretty quickly,  Medium is <em>half</em> way there and now <a href=\"https://www.manton.org/2018/05/instagram-import-in-micro-blog.html\">Instagram</a>. My Twitter account is going to require some work, as are my historic .md files (from my older blogs). Having everything under one roof however, is <strong>amazing</strong>, highly recommend it.</p>\n",
 			"date_published": "2018-05-04T06:44:40+04:00",
 			"url": "https://www.kaa.bz/2018/05/04/importing-my-data.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/01/little-strokes-fell.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Little strokes fell great oaks.<br />\n— Benjamin Franklin</p>\n</blockquote>\n\n<p>Showing up every day and moving the needle forward.</p>\n",
-			"date_published": "2018-05-01T22:42:06+04:00",
-			"url": "https://www.kaa.bz/2018/05/01/little-strokes-fell.html"
 		}
 		
 	]
