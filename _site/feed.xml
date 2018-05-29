@@ -4,8 +4,8 @@
     <title>Khaled Abou Alfa</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/kaa&quot;&gt;@kaa on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.kaa.bz/</link>
-    <pubDate>Tue, 29 May 2018 13:27:28 +0400</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 13:27:28 +0400</lastBuildDate>
+    <pubDate>Tue, 29 May 2018 16:36:07 +0400</pubDate>
+    <lastBuildDate>Tue, 29 May 2018 16:36:07 +0400</lastBuildDate>
     
       <item>
       	
@@ -30,6 +30,9 @@
         <description>&lt;p&gt;Does anyone know how to show the &lt;strong&gt;real&lt;/strong&gt; return symbol on iOS? It currently outputs this monstrosity instead. I’m sure &lt;a href=&quot;https://micro.blog/gruber&quot;&gt;@gruber&lt;/a&gt; had written about this a while ago but I can’t seem to find it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www.kaa.bz/uploads/2018/645cc14611.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt;&lt;br /&gt;
+I researched a little bit harder and found this &lt;a href=&quot;https://stackoverflow.com/questions/32915485/how-to-prevent-unicode-characters-from-rendering-as-emoji-in-html-from-javascrip&quot;&gt;thread&lt;/a&gt;. Basically you have to append a unicode variation selector after the html character. This forces the previous character to be rendered as text rather than as an Emoji Symbol.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 May 2018 17:46:34 +0400</pubDate>
         <link>https://www.kaa.bz/2018/05/28/does-anyone-know.html</link>
