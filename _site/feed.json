@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/05/29/poochytown-is-coming.html",
+	      	
+			"content_html": "<p><a href=\"http://www.fantagraphics.com/poochytown/\">Poochytown</a> is coming out in July. If you’ve never <em>experienced</em> a Jim Woodring story you are doing yourself a disservice. If you’re looking to start early, make sure to pick up <em>The Portable Frank</em>, <em>Congress of the Animals</em> and <em>Fran</em>.</p>\n",
+			"date_published": "2018-05-29T06:52:09+04:00",
+			"url": "https://www.kaa.bz/2018/05/29/poochytown-is-coming.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/05/28/so-many-excellent.html",
 	      	
-			"content_html": "<p>So many excellent thoughts and ideas to consider in <a href=\"https://medium.com/the-mission/here-with-2-years-of-exhausting-photographic-detail-is-how-to-write-a-book-fda1a6b40802\">this article</a> by Ryan Holiday about <em>How to write a book</em>. Being knee deep in the process at the moment, this is a pretty amazing resource.</p>\n",
+			"content_html": "<p>So many excellent thoughts and ideas to consider in <a href=\"https://medium.com/the-mission/here-with-2-years-of-exhausting-photographic-detail-is-how-to-write-a-book-fda1a6b40802\">this article</a> by Ryan Holiday about <em>how to write a book</em>. Being knee deep in the process at the moment, this is a pretty amazing resource.</p>\n",
 			"date_published": "2018-05-28T20:23:54+04:00",
 			"url": "https://www.kaa.bz/2018/05/28/so-many-excellent.html"
 		},
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’ve been thinking about why something like Micro.blog has caught on with me, when Twitter before it didn’t naturally fit and I think it’s down to the ‘arbitrary’ character length. 140 characters was too much friction for me. 280 allows my thoughts to spread a little bit further.</p>\n",
 			"date_published": "2018-05-04T15:52:13+04:00",
 			"url": "https://www.kaa.bz/2018/05/04/ive-been-thinking.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/04/importing-my-data.html",
-	      	
-			"content_html": "<p>Importing my data from the various edges of the internet continues. Tumblr fell pretty quickly,  Medium is <em>half</em> way there and now <a href=\"https://www.manton.org/2018/05/instagram-import-in-micro-blog.html\">Instagram</a>. My Twitter account is going to require some work, as are my historic .md files (from my older blogs). Having everything under one roof however, is <strong>amazing</strong>, highly recommend it.</p>\n",
-			"date_published": "2018-05-04T06:44:40+04:00",
-			"url": "https://www.kaa.bz/2018/05/04/importing-my-data.html"
 		}
 		
 	]
