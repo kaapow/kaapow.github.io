@@ -24,7 +24,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/05/28/does-anyone-know.html",
 	      	
-			"content_html": "<p>Does anyone know how to show the <strong>real</strong> return symbol on iOS? It currently outputs this monstrosity instead. I’m sure <a href=\"https://micro.blog/gruber\">@gruber</a> had written about this a while ago but I can’t seem to find it.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/645cc14611.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Does anyone know how to show the <strong>real</strong> return symbol on iOS? It currently outputs this monstrosity instead. I’m sure <a href=\"https://micro.blog/gruber\">@gruber</a> had written about this a while ago but I can’t seem to find it.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/645cc14611.jpg\" width=\"600\" height=\"600\" /></p>\n\n<p><strong>Updated:</strong><br />\nI researched a little bit harder and found this <a href=\"https://stackoverflow.com/questions/32915485/how-to-prevent-unicode-characters-from-rendering-as-emoji-in-html-from-javascrip\">thread</a>. Basically you have to append a unicode variation selector after the html character. This forces the previous character to be rendered as text rather than as an Emoji Symbol.</p>\n",
 			"date_published": "2018-05-28T17:46:34+04:00",
 			"url": "https://www.kaa.bz/2018/05/28/does-anyone-know.html"
 		},
