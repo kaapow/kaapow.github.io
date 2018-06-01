@@ -13,7 +13,7 @@ I’ve spent around $1300 over 3½ years and 19 Kickstarter projects.
 
 Breaking all the projects down by _loose_ categories, it’s clear I go through waves of interest. Currently I’m in a book and software buying phase and over the stationary phase.
 
-| Category | Number of Projects Backed |
+| Category | No. |
 |:--|:--|
 | Accessory | 7 |
 | Stationary| 5 |
