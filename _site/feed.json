@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/05/this-episode-of.html",
+	      	
+			"content_html": "<p>This episode of <a href=\"http://revisionisthistory.com/episodes/22-burden-of-proof\">Revisionist History</a> reminded me exactly why Malcolm Gladwell remains as one of my current favourite <em>thinkers</em>, (I include Ryan Holiday in that category as well). Go listen to the whole thing.</p>\n",
+			"date_published": "2018-06-05T22:10:30+04:00",
+			"url": "https://www.kaa.bz/2018/06/05/this-episode-of.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/04/this-is-the.html",
+	      	
+			"content_html": "<p>This is the first time that I get to watch WWDC on my Apple TV.</p>\n",
+			"date_published": "2018-06-04T20:38:55+04:00",
+			"url": "https://www.kaa.bz/2018/06/04/this-is-the.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/02/we-made-zanes.html",
 	      	
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/468027d9b1.jpg\" width=\"600\" height=\"600\" /></p>\n\n<p>We made Zane’s first robot 🤖 that he could actually wear. It was all a bit last minute but I promised him we’d make more next week. Time to get some supplies in.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>My engineering brain is thoroughly blown away by the <a href=\"http://www.morpholioapps.com/trace/\">Morpholio Trace</a> app. I’ve been meaning to <strong>find</strong> a reason to buy an iPad Pro. I have literally no excuse now. WWDC cannot come soon enough.</p>\n",
 			"date_published": "2018-05-12T16:04:18+04:00",
 			"url": "https://www.kaa.bz/2018/05/12/my-engineering-brain.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/11/these-yellow-kaweco.html",
-	      	
-			"content_html": "<p>These yellow <a href=\"https://fontoplumo.nl/2018/05/09/kaweco-special-edition-sunrise-and-sunset/\">Kaweco special editions</a> (Sunrise and Sunset) are pretty amazing. Just as good looking as the <a href=\"https://www.penchalet.com/fine_pens/fountain_pens/kaweco_al_sport_fountain_pen.html\">Red version</a> of the AL Sport (which is a North American exclusive?)</p>\n",
-			"date_published": "2018-05-11T22:00:28+04:00",
-			"url": "https://www.kaa.bz/2018/05/11/these-yellow-kaweco.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/11/bought-the-mi.html",
-	      	
-			"content_html": "<p>Bought the <a href=\"http://www.mi.com/mea/miband2/\">Mi Band 2</a> today. The main reasons being the price, 20 day battery life and limited functionality. Hopefully it will change my current behaviour and make me be more active than I have been recently.</p>\n",
-			"date_published": "2018-05-11T21:48:35+04:00",
-			"url": "https://www.kaa.bz/2018/05/11/bought-the-mi.html"
 		}
 		
 	]
