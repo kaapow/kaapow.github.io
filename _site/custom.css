@@ -42,7 +42,7 @@ h3, h4	    { font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: 
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
 table 								{ width: 100%; margin-bottom:20px;}
-thead								{ font-weight: 700; background-color: #194FF1; color: white; border-top: 1px solid var(--table-line);}
+thead								{ font-weight: 700; background-color: var(--link); color: white; border-top: 1px solid var(--table-line);}
 th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px; line-height: 1.8em;}
 tr:nth-child(even)	 				{ background-color: var(--table);}
 hr          						{ border: none; padding: 30px 0; text-align: center;}
