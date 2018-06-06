@@ -3,16 +3,17 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
 :root {
---bg: #fafafa;
---text: #3b3b3b;
---site-name: #3b3b3b;
---link: #053ef4;
---link-hover: #05acf4;
---date: #d1d1d1;
---table:#DFE5F8;
+--bg: #262E37;
+--text: #A6AAAE;
+--site-name: #FFF;
+--link: #15acf4;
+--link-hover: #FC5169;
+--date: #727B85;
+--table: #232A33;
 --table-line: #3b3b3b;
+--thread: #1D2229;
 --title: #FC5169;
---header:  #9DB4F6;
+--header: #9DB4F6;
 }
 
 body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
@@ -42,7 +43,7 @@ h3, h4	    { font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: 
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
 table 								{ width: 100%; margin-bottom:20px;}
-thead								{ font-weight: 700; background-color: var(--link); color: white; border-top: 1px solid var(--table-line);}
+thead								{ font-weight: 700; background-color: var(--thread); color: white; border-top: 1px solid var(--table-line);}
 th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px; line-height: 1.8em;}
 tr:nth-child(even)	 				{ background-color: var(--table);}
 hr          						{ border: none; padding: 30px 0; text-align: center;}
