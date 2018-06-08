@@ -1,17 +1,18 @@
-/* Used Primrose as a base. */
+/* Dark Mode - Version 0.1 */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
 :root {
---bg: #fafafa;
---text: #3b3b3b;
---site-name: #3b3b3b;
---link: #053ef4;
---link-hover: #05acf4;
---date: #d1d1d1;
---table:#DFE5F8;
---table-line: #3b3b3b;
---title: #FC5169;
+--bg: #262E37;
+--text: #A6AAAE;
+--site-name: #A6AAAE;
+--link: #dddddd;
+--link-hover: #75D0F6;
+--date: #727B85;
+--table: #232A33;
+--table-line: #1F1F1F;
+--thread: #1D2229;
+--title: #FFF;
 }
 
 body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
@@ -27,7 +28,8 @@ a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted
 a:hover					  			{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
 h1 									{ font-family: 'Archivo Narrow', san-serif; color: var(--title); font-size: 1.8rem; font-weight: 700;}
 h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-weight: 700;}
-h2, h3, h4							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
+h2							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
+h3, h4	    { font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
 .avatar img 						{ height:100px; max-width: 100px;}
 .site__name							{ color: var(--site-name); font-size:1.8rem; font-weight:900;  font-feature-settings: "smcp" 1;}
 .post__footer a, .copyright, .post__footer 		{ padding-top: 0.5rem; }
@@ -40,19 +42,20 @@ h2, h3, h4							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
 table 								{ width: 100%; margin-bottom:20px;}
-thead								{ font-weight: 700; background-color: #194FF1; color: white; border-top: 1px solid var(--table-line);}
-th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px;}
+thead								{ font-weight: 700; background-color: var(--thread); color: white; border-top: 1px solid var(--table-line);}
+th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px; line-height: 1.8em;}
 tr:nth-child(even)	 				{ background-color: var(--table);}
 hr          						{ border: none; padding: 30px 0; text-align: center;}
-hr:before  							{ content: "✤"; text-align: center; font-size: 30px;}
+hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 .footnotes:before                   { content: "❧"; text-align: center; font-size: 30px; padding: 0 0 0 46%}
 .footnotes 							{ margin-top: 30px;}
 .footnotes ol 						{ margin-top: 30px;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
- li									{ margin-left: -20px;}
-figure.avatar 						{ width: 100px; padding: 0; margin: -10px 0 0 -7em; float: left;}
+ ol li									{ margin-left: -20px;}
+  ul li {margin-left: -23px}
+figure.avatar 						{ width: 100px; padding: 0; margin: -0.2em 0 0 -8em; float: left;}
 .site__page 						{ padding: 20px 15px 0 0;}
 .header 							{ text-align: left;}
 }
