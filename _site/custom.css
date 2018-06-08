@@ -1,19 +1,18 @@
-/* Used Primrose as a base. */
+/* Dark Mode - Version 0.1 */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
 :root {
 --bg: #262E37;
 --text: #A6AAAE;
---site-name: #FFF;
---link: #3797ca;
---link-hover: #FC5169;
+--site-name: #A6AAAE;
+--link: #dddddd;
+--link-hover: #75D0F6;
 --date: #727B85;
 --table: #232A33;
---table-line: #3b3b3b;
+--table-line: #1F1F1F;
 --thread: #1D2229;
---title: #FC5169;
---header: #9DB4F6;
+--title: #FFF;
 }
 
 body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
