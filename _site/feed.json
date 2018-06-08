@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/08/my-enjoyment-of.html",
+	      	
+			"content_html": "<p>My enjoyment of images is linked to presentation. A simple grid of thumbnails, not too small or large. Let the colours wash over me and <em>transport</em> me to that time and place. What I was doing? Where was I? With whom?</p>\n\n<p>Dribbble and Instagram strike the right balance for this.</p>\n",
+			"date_published": "2018-06-08T05:55:34+04:00",
+			"url": "https://www.kaa.bz/2018/06/08/my-enjoyment-of.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/07/this-world-cup.html",
 	      	
 			"content_html": "<p>This <a href=\"https://www.theguardian.com/football/ng-interactive/2018/jun/05/world-cup-2018-complete-guide-players-ratings-goals-caps\">World Cup guide to all 736 players</a> on the Guardian website is nothing short of astounding. Works amazingly on an iPhone and will be used extensively over the coming month.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Although Dropbox Paper is exceptionally well designed and is receives updates regularly, it’s lack of proper Dropbox integration and lack of 3rd party apps is <strong>mighty</strong> annoying. Is the API garbage to support?  No idea. Wish they would sort it out though.</p>\n",
 			"date_published": "2018-05-14T21:33:25+04:00",
 			"url": "https://www.kaa.bz/2018/05/14/173325.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/13/070605.html",
-	      	
-			"content_html": "<p>One of the prices you pay for living in the Gulf are <a href=\"https://gulfnews.com/news/uae/weather/unstable-weather-continues-in-uae-1.2220433\">dust storms</a>. This is by far the worst I’ve experienced since moving over to Dubai 2½ years ago.</p>\n",
-			"date_published": "2018-05-13T11:06:05+04:00",
-			"url": "https://www.kaa.bz/2018/05/13/070605.html"
 		}
 		
 	]
