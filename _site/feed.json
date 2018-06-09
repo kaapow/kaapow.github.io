@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/09/so-the-heat.html",
+	      	
+			"content_html": "<p>So the heat 🔥 has officially kicked into overdrive in Dubai, with the temperature hitting 45°C. No complaints from me as we had a pretty decent May, just need to get my good parenting hat on and come up with engaging activities that the boys can get into.</p>\n",
+			"date_published": "2018-06-09T16:37:20+04:00",
+			"url": "https://www.kaa.bz/2018/06/09/so-the-heat.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/08/vertigo-relaunches-under.html",
+	      	
+			"content_html": "<p><a href=\"http://www.comicsbeat.com/dont-call-it-a-comeback-vertigo-relaunches-under-mark-doyle-with-seven-new-series/\">Vertigo relaunches under Mark Doyle</a> with seven new series. The three series that jumped out at me were <em>American Carnage</em>, <em>Goddess Mode</em> and especially <em>High Level</em>. Love the trade dress which is very <em>Vertigo</em>.</p>\n",
+			"date_published": "2018-06-08T12:34:06+04:00",
+			"url": "https://www.kaa.bz/2018/06/08/vertigo-relaunches-under.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/08/my-enjoyment-of.html",
 	      	
 			"content_html": "<p>My enjoyment of images is linked to presentation. A simple grid of thumbnails, not too small or large. Let the colours wash over me and <em>transport</em> me to that time and place. What I was doing? Where was I? With whom?</p>\n\n<p>Dribbble and Instagram strike the right balance for this.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><img src=\"http://www.kaa.bz/uploads/2018/cb944c1658.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-05-17T18:09:57+04:00",
 			"url": "https://www.kaa.bz/2018/05/17/140957.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/17/finally-ever-since.html",
-	      	
-			"content_html": "<p><em>Finally!</em> Ever since moving over to the UAE, I’ve sorely missed having FaceTime on my iPhones although I have had some success in using it on my Mac. With the (<em>hopefully</em>) imminent <a href=\"http://gulfbusiness.com/uaes-telecoms-regulator-talks-lift-skype-facetime-ban/\">ban being lifted</a>, communication might be going back to normal with the outside world.</p>\n",
-			"date_published": "2018-05-17T15:56:11+04:00",
-			"url": "https://www.kaa.bz/2018/05/17/finally-ever-since.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/14/173325.html",
-	      	
-			"content_html": "<p>Although Dropbox Paper is exceptionally well designed and is receives updates regularly, it’s lack of proper Dropbox integration and lack of 3rd party apps is <strong>mighty</strong> annoying. Is the API garbage to support?  No idea. Wish they would sort it out though.</p>\n",
-			"date_published": "2018-05-14T21:33:25+04:00",
-			"url": "https://www.kaa.bz/2018/05/14/173325.html"
 		}
 		
 	]
