@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/12/165530.html",
+	      	
+			"content_html": "<p>When I was a child, I used to be in complete awe of the thundering father clap 👏. The kind that only a <strong>father</strong> can create. Yesterday at my son’s pre-school ‘graduation’ (any reason to celebrate), I’m glad to report that <strong>I</strong> was that father and my clap did thunder!</p>\n",
+			"date_published": "2018-06-12T20:55:30+04:00",
+			"url": "https://www.kaa.bz/2018/06/12/165530.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/11/as-we-approach.html",
 	      	
 			"content_html": "<p>As we approach just 4 days before the start of the World Cup ⚽, these <a href=\"https://www.bbc.co.uk/sport/football/44388118\">handy charts</a> will be nice to keep in mind as the stats (and goals) start rolling in.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>After nearly 1½ years, I finally posted onto my <a href=\"https://dribbble.com/kaa\">Dribbble account</a>. I like that it’s dedicated to the work I’ve carried out over the years as I moved from project to project (truth is had I used it more, it would have been a better record of all my projects).</p>\n",
 			"date_published": "2018-05-18T09:47:57+04:00",
 			"url": "https://www.kaa.bz/2018/05/18/after-nearly-years.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/18/this-article-by.html",
-	      	
-			"content_html": "<p><a href=\"https://thoughtcatalog.com/ryan-holiday/2018/05/22-rules-for-creating-work-that-stands-the-test-of-time/\">This article</a> by Ryan Holiday has seriously hit home at the moment as I move through my current project…which I shared a snippet of <a href=\"https://www.kaa.bz/2018/05/17/140957.html\">yesterday</a>. I’ve written the list out and put it on my wall.</p>\n",
-			"date_published": "2018-05-18T06:31:21+04:00",
-			"url": "https://www.kaa.bz/2018/05/18/this-article-by.html"
 		}
 		
 	]
