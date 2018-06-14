@@ -1,18 +1,19 @@
-/* Dark Mode - Version 0.1 */
+/* Used Primrose as a base. */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
 :root {
---bg: #262E37;
---text: #A6AAAE;
---site-name: #A6AAAE;
---link: #dddddd;
---link-hover: #518199/*#75D0F6*/;
---date: #727B85;
---table: #232A33;
---table-line: #1F1F1F;
---thread: #1D2229;
---title: #518199;
+--bg: #fafafa;
+--text: #3b3b3b;
+--site-name: #3b3b3b;
+--link: #053ef4;
+--link-hover: #05acf4;
+--date: #d1d1d1;
+--table:#DFE5F8;
+--table-line: #3b3b3b;
+--thread: #053ef4; 
+--title: #FC5169;
+--header:  #9DB4F6;
 }
 
 body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
@@ -26,7 +27,6 @@ p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
 a:hover					  			{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
-/*a:hover					  			{ color: var(--text); border-bottom: none; background-color: var(--date);}*/
 h1 									{ font-family: 'Archivo Narrow', san-serif; color: var(--title); font-size: 1.8rem; font-weight: 700;}
 h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-weight: 700;}
 h2							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
