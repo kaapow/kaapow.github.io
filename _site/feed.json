@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/15/after-a-pretty.html",
+	      	
+			"content_html": "<p>After a pretty heartbreaking matches for Egypt and Morocco, we’ve got the very first <strong>super</strong> match of the World Cup between Portugal and Spain. My money’s on Spain.</p>\n",
+			"date_published": "2018-06-15T21:57:46+04:00",
+			"url": "https://www.kaa.bz/2018/06/15/after-a-pretty.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/12/manhood-for-amateurs.html",
 	      	
 			"title": "Manhood for Amateurs",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I’m so deflated right now. Got a lot of <strong>shit</strong> going on inside and outside work. Saw this quote this morning which I thought was pretty apt:</p>\n\n<blockquote>\n  <p>You may not control all the events that happen to you, but you can decide not to be reduced by them.<br />\n— <em>Maya Angelou</em></p>\n</blockquote>\n",
 			"date_published": "2018-05-22T07:27:35+04:00",
 			"url": "https://www.kaa.bz/2018/05/22/im-so-deflated.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/19/gulf-summer-reading.html",
-	      	
-			"content_html": "<p><em>Gulf</em> Summer reading list.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/9133f6d634.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-19T15:19:41+04:00",
-			"url": "https://www.kaa.bz/2018/05/19/gulf-summer-reading.html"
 		}
 		
 	]
