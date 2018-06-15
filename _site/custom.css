@@ -18,7 +18,7 @@
 
 body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
 .header, body.single header 		{ margin:100px 0 100px 0;}
-.site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1;}
+.site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
 body.home, body.single 				{ max-width:680px; width:90%;}
 body.single main 					{ width:100%;}
