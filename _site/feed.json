@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/15/ive-struggled-to.html",
+	      	
+			"content_html": "<p>I’ve struggled to define how I would use emoji on Micro.blog. I’ve decided that when I use them as a form of tagging, these will appear at the start of a post. Makes for more considerate reading when you can scan and decide if what comes next is of any interest.</p>\n",
+			"date_published": "2018-06-16T00:07:15+04:00",
+			"url": "https://www.kaa.bz/2018/06/16/ive-struggled-to.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/15/this-match-is.html",
+	      	
+			"content_html": "<p>⚽ This match is turning out to be a complete <em>classico</em>. This is what the world cup is all about. I’ve watched more football in the last 2 days than I’ve watched over the last 4 years combined. Totally worth it.</p>\n",
+			"date_published": "2018-06-15T23:25:04+04:00",
+			"url": "https://www.kaa.bz/2018/06/15/this-match-is.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/15/after-a-pretty.html",
 	      	
-			"content_html": "<p>After a pretty heartbreaking matches for Egypt and Morocco, we’ve got the very first <strong>super</strong> match of the World Cup between Portugal and Spain. My money’s on Spain.</p>\n",
+			"content_html": "<p>⚽ After some pretty heartbreaking matches for Egypt and Morocco, we’ve got the very first <strong>super</strong> match of the World Cup between Portugal and Spain. My money’s on Spain.</p>\n",
 			"date_published": "2018-06-15T21:57:46+04:00",
 			"url": "https://www.kaa.bz/2018/06/15/after-a-pretty.html"
 		},
@@ -18,7 +34,7 @@
 	      	
 			"title": "Manhood for Amateurs",
 			
-			"content_html": "<p>I <em>finally</em> finished a book 📚 this year, Michael Chabon’s <em>Manhood for Amateurs</em>. The book was written back in 2009 (which I believe is now being followed up with a sequel of sorts) and was the right book to read, as the words have resonated with me, as a newly minted father of a second son.</p>\n\n<p>I started it around the time my Ryan was born and it’s taken me 6 months to complete these 300 pages. I love to read, but <strong>clearly</strong> I don’t carve enough time to carry the action out. My reading has been pretty scattered across multiple books that I never seem to finish. I’m hoping this signals a return to a more regular reading pattern.</p>\n\n<p>What I also realised was that I’m not happy with how I’m reading. Or more accurately, the lack of taking notes or capturing the most interesting parts of books I read.</p>\n\n<hr />\n\n<p>Here are some key quotes:</p>\n\n<blockquote>\n  <p>Art is a form of exploration, of sailing off into the unknown alone, heading for those unmarked places on the map. If children are not permitted - not taught - to be adventurers and explorers as children, what will become of the world of adventure, of stories, of literature itself?</p>\n</blockquote>\n\n<blockquote>\n  <p>Why else had they done it - built it all up so they could then knock it all down? After a marriage breaks, there is nothing more pointless than the child, to that child, of that marriage.</p>\n</blockquote>\n\n<blockquote>\n  <p>The song has to take you by surprise, catch you when your guard is down, when you aren’t expecting it - ideally, when you aren’t even listening to the radio at all. A bright little piece of your life passes you by in a car with the windows rolled down, wells up in the pain-relief aisle of a Rite-Aid. That kind of chance encouter can’t happen as readily on an iPod you’ve programmed yourslf.</p>\n</blockquote>\n",
+			"content_html": "<p>📚 I <em>finally</em> finished a book this year, Michael Chabon’s <em>Manhood for Amateurs</em>. The book was written back in 2009 (which I believe is now being followed up with a sequel of sorts) and was the right book to read, as the words have resonated with me, as a newly minted father of a second son.</p>\n\n<p>I started it around the time my Ryan was born and it’s taken me 6 months to complete these 300 pages. I love to read, but <strong>clearly</strong> I don’t carve enough time to carry the action out. My reading has been pretty scattered across multiple books that I never seem to finish. I’m hoping this signals a return to a more regular reading pattern.</p>\n\n<p>What I also realised was that I’m not happy with how I’m reading. Or more accurately, the lack of taking notes or capturing the most interesting parts of books I read.</p>\n\n<hr />\n\n<p>Here are some key quotes:</p>\n\n<blockquote>\n  <p>Art is a form of exploration, of sailing off into the unknown alone, heading for those unmarked places on the map. If children are not permitted - not taught - to be adventurers and explorers as children, what will become of the world of adventure, of stories, of literature itself?</p>\n</blockquote>\n\n<blockquote>\n  <p>Why else had they done it - built it all up so they could then knock it all down? After a marriage breaks, there is nothing more pointless than the child, to that child, of that marriage.</p>\n</blockquote>\n\n<blockquote>\n  <p>The song has to take you by surprise, catch you when your guard is down, when you aren’t expecting it - ideally, when you aren’t even listening to the radio at all. A bright little piece of your life passes you by in a car with the windows rolled down, wells up in the pain-relief aisle of a Rite-Aid. That kind of chance encouter can’t happen as readily on an iPod you’ve programmed yourslf.</p>\n</blockquote>\n",
 			"date_published": "2018-06-12T22:39:07+04:00",
 			"url": "https://www.kaa.bz/2018/06/12/manhood-for-amateurs.html"
 		},
@@ -34,7 +50,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/11/as-we-approach.html",
 	      	
-			"content_html": "<p>As we approach just 4 days before the start of the World Cup ⚽, these <a href=\"https://www.bbc.co.uk/sport/football/44388118\">handy charts</a> will be nice to keep in mind as the stats (and goals) start rolling in.</p>\n",
+			"content_html": "<p>⚽ As we approach just 4 days before the start of the World Cup, these <a href=\"https://www.bbc.co.uk/sport/football/44388118\">handy charts</a> will be nice to keep in mind as the stats (and goals) start rolling in.</p>\n",
 			"date_published": "2018-06-11T07:04:13+04:00",
 			"url": "https://www.kaa.bz/2018/06/11/as-we-approach.html"
 		},
@@ -66,7 +82,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/07/this-world-cup.html",
 	      	
-			"content_html": "<p>This <a href=\"https://www.theguardian.com/football/ng-interactive/2018/jun/05/world-cup-2018-complete-guide-players-ratings-goals-caps\">World Cup guide to all 736 players</a> on the Guardian website is nothing short of astounding. Works amazingly on an iPhone and will be used extensively over the coming month.</p>\n",
+			"content_html": "<p>⚽ This <a href=\"https://www.theguardian.com/football/ng-interactive/2018/jun/05/world-cup-2018-complete-guide-players-ratings-goals-caps\">World Cup guide to all 736 players</a> on the Guardian website is nothing short of astounding. Works amazingly on an iPhone and will be used extensively over the coming month.</p>\n",
 			"date_published": "2018-06-07T15:34:47+04:00",
 			"url": "https://www.kaa.bz/2018/06/07/this-world-cup.html"
 		},
@@ -191,22 +207,6 @@
 			"content_html": "<p>My inbox has been <strong>absolutely</strong> hammered these last few weeks in the lead up to some email privacy law changes in Europe. Hammered. Please stop.</p>\n",
 			"date_published": "2018-05-23T14:30:52+04:00",
 			"url": "https://www.kaa.bz/2018/05/23/my-inbox-has.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/22/my-wife-every.html",
-	      	
-			"content_html": "<p>My wife (every wife?) has been complaining that I spend too much time on my iPhone (she’s <em>probably</em> right). This <a href=\"https://www.punkt.ch/en/products/mp01-mobile-phone/#null\">Punkt mobile phone</a> looks like something I will invest in (if I can get a twin sim in Dubai).</p>\n",
-			"date_published": "2018-05-22T11:28:21+04:00",
-			"url": "https://www.kaa.bz/2018/05/22/my-wife-every.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/22/im-so-deflated.html",
-	      	
-			"content_html": "<p>I’m so deflated right now. Got a lot of <strong>shit</strong> going on inside and outside work. Saw this quote this morning which I thought was pretty apt:</p>\n\n<blockquote>\n  <p>You may not control all the events that happen to you, but you can decide not to be reduced by them.<br />\n— <em>Maya Angelou</em></p>\n</blockquote>\n",
-			"date_published": "2018-05-22T07:27:35+04:00",
-			"url": "https://www.kaa.bz/2018/05/22/im-so-deflated.html"
 		}
 		
 	]
