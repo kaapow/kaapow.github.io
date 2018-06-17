@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/17/ive-been-going.html",
+	      	
+			"content_html": "<p>I’ve been going through my Twitter archive, to determine what I should ultimately import and keep. A few points:</p>\n\n<ol>\n  <li>So many links are obsolete. This means the line I wrote is meaningless.</li>\n  <li>The 140 character limit makes for overtly simple communication.\n3.Is it worth importing?</li>\n</ol>\n",
+			"date_published": "2018-06-17T06:28:07+04:00",
+			"url": "https://www.kaa.bz/2018/06/17/ive-been-going.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/15/ive-struggled-to.html",
 	      	
 			"content_html": "<p>I’ve struggled to define how I would use emoji on Micro.blog. I’ve decided that when I use them as a form of tagging, these will appear at the start of a post. Makes for more considerate reading when you can scan and decide if what comes next is of any interest.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>To say that I am excited about the new iA Writer 5 is a <em>complete</em> understatement. Thankfully the <a href=\"https://twitter.com/iAWriter/status/998956469268680704\">wait seems to be nearly over</a>.</p>\n",
 			"date_published": "2018-05-23T14:44:28+04:00",
 			"url": "https://www.kaa.bz/2018/05/23/to-say-that.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/23/my-inbox-has.html",
-	      	
-			"content_html": "<p>My inbox has been <strong>absolutely</strong> hammered these last few weeks in the lead up to some email privacy law changes in Europe. Hammered. Please stop.</p>\n",
-			"date_published": "2018-05-23T14:30:52+04:00",
-			"url": "https://www.kaa.bz/2018/05/23/my-inbox-has.html"
 		}
 		
 	]
