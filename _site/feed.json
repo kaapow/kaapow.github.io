@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/18/a-new-edition.html",
+	      	
+			"content_html": "<p>A <a href=\"https://blackwing602.com/volume-10001-puzzle-pencil/\">new edition</a> of Blackwing volumes was just released, Vol.10001. Love the story behind it, but not really excited by the pencil’s stylings. Once I’m done with my current box, I think I’ll go for a box of the new 602s.</p>\n",
+			"date_published": "2018-06-18T21:55:05+04:00",
+			"url": "https://www.kaa.bz/2018/06/18/a-new-edition.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/17/ive-been-going.html",
 	      	
 			"content_html": "<p>💬 I’ve been going through my Twitter archive, to determine what I should ultimately import and keep. A few points:</p>\n\n<ol>\n  <li>So many links are obsolete. This means the line I wrote is meaningless.</li>\n  <li>The 140 character limit makes for overtly simple communication.</li>\n  <li>Is it worth importing?</li>\n</ol>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I’ve spent all of 5 min with the new <em>Obscura 2</em> app, but coloured impressed with what’s been created. Can’t wait to try it out more tomorrow. The <a href=\"[medium.com](https://medium.com/)[@benricem](https://micro.blog/benricem)/obscura-2-announcement-a927b0c2943b\">write up</a> by the app’s creator Ben McCarthy also deserves your attention.</p>\n",
 			"date_published": "2018-05-24T20:28:23+04:00",
 			"url": "https://www.kaa.bz/2018/05/24/ive-spent-all.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/23/to-say-that.html",
-	      	
-			"content_html": "<p>To say that I am excited about the new iA Writer 5 is a <em>complete</em> understatement. Thankfully the <a href=\"https://twitter.com/iAWriter/status/998956469268680704\">wait seems to be nearly over</a>.</p>\n",
-			"date_published": "2018-05-23T14:44:28+04:00",
-			"url": "https://www.kaa.bz/2018/05/23/to-say-that.html"
 		}
 		
 	]
