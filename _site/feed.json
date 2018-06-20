@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/20/i-have-a.html",
+	      	
+			"content_html": "<p>I have a <strong>ton</strong> of books to get through this summer. One that has catapulted up the list is Ben Rhode’s <a href=\"[www.amazon.co.uk/World-As-...](https://www.amazon.co.uk/World-As-Inside-Obama-White-ebook/dp/B079M3BQD8/ref=sr_1_1?ie=UTF8&amp;qid=1529511474&amp;sr=8-1&amp;keywords=the) world as it is\">The World As It Is</a>. As a bonus check out his interview on <a href=\"https://crooked.com/podcast/obamas-legacy-after-trump/\">Pod Save the World</a>.</p>\n",
+			"date_published": "2018-06-20T22:02:46+04:00",
+			"url": "https://www.kaa.bz/2018/06/20/i-have-a.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/20/these-latest-iteration.html",
+	      	
+			"content_html": "<p>⌚ These <a href=\"https://www.mondaine.com/watches/mondaine-helvetica/helvetica-1-smartwatch.html\">latest iteration</a> of Mondaine’s <em>smart</em> watch is a solid design iteration on the previous model (the dial at the bottom looked cramped) - although not sure how the mechanism works now. I have been coveting one of the <a href=\"https://www.mondaine.com/watches/mondaine-helvetica/helvetica-spiekermann-edition.html\">Erik Spiekermann</a> editions for nearly a year now.</p>\n",
+			"date_published": "2018-06-20T20:15:01+04:00",
+			"url": "https://www.kaa.bz/2018/06/20/these-latest-iteration.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/19/bookending-my-black.html",
 	      	
 			"content_html": "<p>Bookending my black and white series of photos with Ryan in his feeding chair.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/3fa31b106b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>So many excellent thoughts and ideas to consider in <a href=\"https://medium.com/the-mission/here-with-2-years-of-exhausting-photographic-detail-is-how-to-write-a-book-fda1a6b40802\">this article</a> by Ryan Holiday about <em>how to write a book</em>. Being knee deep in the process at the moment, this is a pretty amazing resource.</p>\n",
 			"date_published": "2018-05-28T20:23:54+04:00",
 			"url": "https://www.kaa.bz/2018/05/28/so-many-excellent.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/28/does-anyone-know.html",
-	      	
-			"content_html": "<p>Does anyone know how to show the <strong>real</strong> return symbol on iOS? It currently outputs this monstrosity instead. I’m sure <a href=\"https://micro.blog/gruber\">@gruber</a> had written about this a while ago but I can’t seem to find it.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/645cc14611.jpg\" width=\"600\" height=\"600\" /></p>\n\n<p><strong>Updated:</strong><br />\nI researched a little bit harder and found this <a href=\"https://stackoverflow.com/questions/32915485/how-to-prevent-unicode-characters-from-rendering-as-emoji-in-html-from-javascrip\">thread</a>. Basically you have to append a unicode variation selector after the html character. This forces the previous character to be rendered as text rather than as an Emoji Symbol.</p>\n",
-			"date_published": "2018-05-28T17:46:34+04:00",
-			"url": "https://www.kaa.bz/2018/05/28/does-anyone-know.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/25/033829.html",
-	      	
-			"content_html": "<p>Currently listening to <a href=\"http://www.fatoumatadiawara.com\">Fatoumata Diawara</a>’s new <em>Fenfo</em> album. Highly recommended.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/c2e9cf7895.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-05-25T07:38:29+04:00",
-			"url": "https://www.kaa.bz/2018/05/25/033829.html"
 		}
 		
 	]
