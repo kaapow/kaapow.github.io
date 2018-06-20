@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/19/bookending-my-black.html",
+	      	
+			"content_html": "<p>Bookending my black and white series of photos with Ryan in his feeding chair.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/3fa31b106b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-19T21:02:49+04:00",
+			"url": "https://www.kaa.bz/2018/06/19/bookending-my-black.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/18/reading-intergalactic-ed.html",
+	      	
+			"content_html": "<p>Reading ‘Intergalactic Ed’ with the boys.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/824f40fc8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-18T23:19:05+04:00",
+			"url": "https://www.kaa.bz/2018/06/18/reading-intergalactic-ed.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/18/a-new-edition.html",
 	      	
 			"content_html": "<p>A <a href=\"https://blackwing602.com/volume-10001-puzzle-pencil/\">new edition</a> of Blackwing volumes was just released, Vol.10001. Love the story behind it, but not really excited by the pencil’s stylings. Once I’m done with my current box, I think I’ll go for a box of the new 602s.</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Currently listening to <a href=\"http://www.fatoumatadiawara.com\">Fatoumata Diawara</a>’s new <em>Fenfo</em> album. Highly recommended.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/c2e9cf7895.jpg\" width=\"600\" height=\"400\" /></p>\n",
 			"date_published": "2018-05-25T07:38:29+04:00",
 			"url": "https://www.kaa.bz/2018/05/25/033829.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/25/ryan-is-absolutely.html",
-	      	
-			"content_html": "<p>Ryan is absolutely <strong>fascinated</strong> by music.</p>\n\n<p>I stumbled onto this fact by mistake (it feels that parenting is a series of mistakes upwards). When he was only a couple of months old I would sing to calm him down. I chose songs I knew by Smashing Pumpkins, Soundgarden and Metallica.</p>\n\n<p>We’ve now transitioned to the real thing which has (obviously) increased his verve for beautiful sounds, rather than his dad’s poor screetching.</p>\n",
-			"date_published": "2018-05-25T07:27:12+04:00",
-			"url": "https://www.kaa.bz/2018/05/25/ryan-is-absolutely.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/05/24/ive-spent-all.html",
-	      	
-			"content_html": "<p>I’ve spent all of 5 min with the new <em>Obscura 2</em> app, but coloured impressed with what’s been created. Can’t wait to try it out more tomorrow. The <a href=\"[medium.com](https://medium.com/)[@benricem](https://micro.blog/benricem)/obscura-2-announcement-a927b0c2943b\">write up</a> by the app’s creator Ben McCarthy also deserves your attention.</p>\n",
-			"date_published": "2018-05-24T20:28:23+04:00",
-			"url": "https://www.kaa.bz/2018/05/24/ive-spent-all.html"
 		}
 		
 	]
