@@ -51,10 +51,11 @@ hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 .footnotes:before                   { content: "❧"; text-align: center; font-size: 30px; padding: 0 0 0 46%}
 .footnotes 							{ margin-top: 30px;}
 .footnotes ol 						{ margin-top: 30px;}
+blockquote {padding: 20px; margin: 20px; background-color: var(--table); border-left: none;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
- ol li									{ margin-left: -20px; text-indent: -1em; padding-left: 1em;}
+ ol li									{ margin-left: -20px; }
   ul li {margin-left: -23px; text-indent: -1em; padding-left: 1em;}
 figure.avatar 						{ width: 100px; padding: 0; margin: -0.2em 0 0 -8em; float: left;}
 .site__page 						{ padding: 20px 15px 0 0;}
