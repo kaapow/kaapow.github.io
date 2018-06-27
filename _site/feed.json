@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/27/yup-were-finally.html",
+	      	
+			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-27T21:16:59+04:00",
+			"url": "https://www.kaa.bz/2018/06/27/yup-were-finally.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/26/really-looking-forward.html",
 	      	
 			"content_html": "<p>⚽ Really looking forward to the Argentina vs Nigeria game. Has all the ingredients to be one of the classic games of this tournament.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"http://www.comicsbeat.com/dont-call-it-a-comeback-vertigo-relaunches-under-mark-doyle-with-seven-new-series/\">Vertigo relaunches under Mark Doyle</a> with seven new series. The three series that jumped out at me were <em>American Carnage</em>, <em>Goddess Mode</em> and especially <em>High Level</em>. Love the trade dress which is very <em>Vertigo</em>.</p>\n",
 			"date_published": "2018-06-08T12:34:06+04:00",
 			"url": "https://www.kaa.bz/2018/06/08/vertigo-relaunches-under.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/08/my-enjoyment-of.html",
-	      	
-			"content_html": "<p>My enjoyment of images is linked to presentation. A simple grid of thumbnails, not too small or large. Let the colours wash over me and <em>transport</em> me to that time and place. What I was doing? Where was I? With whom?</p>\n\n<p>Dribbble and Instagram strike the right balance for this.</p>\n",
-			"date_published": "2018-06-08T05:55:34+04:00",
-			"url": "https://www.kaa.bz/2018/06/08/my-enjoyment-of.html"
 		}
 		
 	]
