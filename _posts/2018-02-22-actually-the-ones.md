@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-22 05:37:47 +0400
+date: 2018-02-22 04:37:47 +0300
 guid: http://kaa.micro.blog/2018/02/22/actually-the-ones.html
 ---
 Actually the series that jumped out at me are:
