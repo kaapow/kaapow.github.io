@@ -3,7 +3,7 @@ layout: post
 title: "10 Minutes Per Year"
 microblog: false
 audio: 
-date: 2013-05-19 19:36:29 +0400
+date: 2013-05-19 18:36:29 +0300
 guid: http://kaa.micro.blog/2013/05/19/minutes-per-year.html
 ---
 <p><a href="http://www.jamesallenonf1.com/2013/05/formula-e-series-targets-reverse-calendar-for-debut-season-in-2014/">Fascinating post by James Allen</a> which gives more details on how the Formula E series (debuting in 2014) will address the issue of range for the all EV racing series.</p>
