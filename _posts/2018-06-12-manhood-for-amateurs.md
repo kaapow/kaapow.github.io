@@ -3,7 +3,7 @@ layout: post
 title: "Manhood for Amateurs"
 microblog: false
 audio: 
-date: 2018-06-12 22:39:07 +0400
+date: 2018-06-12 21:39:07 +0300
 guid: http://kaa.micro.blog/2018/06/12/manhood-for-amateurs.html
 ---
 📚 I _finally_ finished a book this year, Michael Chabon's _Manhood for Amateurs_. The book was written back in 2009 (which I believe is now being followed up with a sequel of sorts) and was the right book to read, as the words have resonated with me, as a newly minted father of a second son. 
