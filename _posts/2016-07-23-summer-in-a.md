@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-07-24 03:14:06 +0400
+date: 2016-07-24 02:14:06 +0300
 guid: http://kaa.micro.blog/2016/07/23/summer-in-a.html
 ---
 Summer - in a plate #greeksalad
