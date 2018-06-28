@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-01-21 22:06:30 +0400
+date: 2015-01-21 21:06:30 +0300
 guid: http://kaa.micro.blog/2015/01/21/view-of-the.html
 ---
 View of the compound clubhouse at night.
