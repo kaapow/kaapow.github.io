@@ -3,7 +3,7 @@ layout: post
 title: "Fresh Starts"
 microblog: false
 audio: 
-date: 2013-11-20 19:47:00 +0400
+date: 2013-11-20 18:47:00 +0300
 guid: http://kaa.micro.blog/2013/11/20/fresh-starts.html
 ---
 <p>Earlier this year I contemplated shutting down Broken Kode, a site that has been part of the internet landscape since January 2004, a total of nearly 10 years online. In a last attempt to keep the name and the site alive I tried changing things around to see if I could maintain my enthusiasm for it.</p>
