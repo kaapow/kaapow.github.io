@@ -3,7 +3,7 @@ title: "Projects"
 permalink: "/projects/"
 layout: page
 order: 3
-date: 2018-05-29 13:27:25 +0400
+date: 2018-05-29 12:27:25 +0300
 ---
 This page captures the projects I've worked on, across both my professional life and my _spare_ time. This list is not exhaustive, but it does show that I have limited output that I can call my very own.
 
