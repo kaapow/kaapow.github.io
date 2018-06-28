@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-05-28 12:00:55 +0400
+date: 2015-05-28 11:00:55 +0300
 guid: http://kaa.micro.blog/2015/05/28/since-i-did.html
 ---
 Since I did Corgan, thought I'd try a new pose for Alfie as well #moonracket #comics #characters #characterdesign #characterart
