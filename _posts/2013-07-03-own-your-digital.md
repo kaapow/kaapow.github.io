@@ -3,7 +3,7 @@ layout: post
 title: "Own your Digital Image Comics"
 microblog: false
 audio: 
-date: 2013-07-03 09:31:00 +0400
+date: 2013-07-03 08:31:00 +0300
 guid: http://kaa.micro.blog/2013/07/03/own-your-digital.html
 ---
 <p>Image Comics is now allowing you to keep the digital copies of the comics you buy from them - about bloody time. What&rsquo;s also incredibly interesting however is the percentage of the sales that the digital copies account for the overall sales of the publisher. Last year it was 12%, this year they&rsquo;re projecting 15%.</p>
