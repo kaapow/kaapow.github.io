@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-01 06:53:48 +0400
+date: 2017-04-01 05:53:48 +0300
 guid: http://kaa.micro.blog/2017/04/01/how-my-youth.html
 ---
 How my youth was spent - some amazing works, along with some pure garbage. Will dig deeper #comics #imagecomics #wildstorm #marvelcomics #dccomics
