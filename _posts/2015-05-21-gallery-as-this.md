@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-05-21 07:00:38 +0400
+date: 2015-05-21 06:00:38 +0300
 guid: http://kaa.micro.blog/2015/05/21/gallery-as-this.html
 ---
 As this is a process site after all, I’ll be posting many more of these collections as I start to publish the new season.
