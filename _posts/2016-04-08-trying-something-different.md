@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-04-08 11:30:00 +0400
+date: 2016-04-08 10:30:00 +0300
 guid: http://kaa.micro.blog/2016/04/08/trying-something-different.html
 ---
 Trying something different with the inking for Moon Racket! #nocrosshatching
