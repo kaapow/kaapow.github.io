@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-11-03 10:15:18 +0400
+date: 2014-11-03 09:15:18 +0300
 guid: http://kaa.micro.blog/2014/11/03/getting-back-into.html
 ---
 Getting back into Instagram. It's all about Moon Racket www.moonracket.com
