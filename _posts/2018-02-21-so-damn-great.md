@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-21 20:46:08 +0400
+date: 2018-02-21 19:46:08 +0300
 guid: http://kaa.micro.blog/2018/02/21/so-damn-great.html
 ---
 So. Damn. Great. 
