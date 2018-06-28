@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-03-18 01:57:01 +0400
+date: 2017-03-18 00:57:01 +0300
 guid: http://kaa.micro.blog/2017/03/17/picnics-dubai-style.html
 ---
 Picnics - Dubai style.
