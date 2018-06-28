@@ -3,7 +3,7 @@ layout: post
 title: "Ephemeral Life Diaries"
 microblog: false
 audio: 
-date: 2015-05-18 14:53:21 +0400
+date: 2015-05-18 13:53:21 +0300
 guid: http://kaa.micro.blog/2015/05/18/ephemeral-life-diaries.html
 ---
 <p>You know what I miss? I miss <em>daily</em> blogging.</p>
