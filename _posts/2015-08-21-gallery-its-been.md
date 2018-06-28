@@ -3,7 +3,7 @@ layout: post
 title: "Hobonichi Techo 2016"
 microblog: false
 audio: 
-date: 2015-08-22 00:58:39 +0400
+date: 2015-08-21 23:58:39 +0300
 guid: http://kaa.micro.blog/2015/08/21/gallery-its-been.html
 ---
 It’s been a year already? The latest lineup for the Hobonichi Techo 2016 (in Japanese for now) is <a href="http://www.1101.com/store/techo/">online</a>. Unlike last year, where I was completely taken by the buzz and the excitement of something new, I now know what to expect and more crucially what I like and need.
