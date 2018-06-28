@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-03 14:55:40 +0400
+date: 2018-03-03 13:55:40 +0300
 guid: http://kaa.micro.blog/2018/03/03/good-to-know.html
 ---
 Good to know there is a place nearby with Moroccan tea.
