@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-04-08 06:07:59 +0400
+date: 2015-04-08 05:07:59 +0300
 guid: http://kaa.micro.blog/2015/04/08/something-ive-been.html
 ---
 Something I've been working on for Zane. First piece of digital art I've done in a real long time. #baby #babyeinstein #disney #affinitydesigner #vector
