@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to RMO"
 microblog: false
 audio: 
-date: 2018-02-13 09:48:12 +0400
+date: 2018-02-13 08:48:12 +0300
 guid: http://kaa.micro.blog/2018/02/13/welcome-to-rmo.html
 ---
 One of the fundamental challenges I faced towards the twilight years of my original stint of writing and publishing on the internet (that was nearly 10 years ago now) was the very fact that I didn’t have a singular focus. As my focus meandered, it became a challenge to continue writing meaningful words to capture those ideas with any regularity.
