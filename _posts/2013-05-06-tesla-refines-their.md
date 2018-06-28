@@ -3,7 +3,7 @@ layout: post
 title: "Tesla refines their finance markerting"
 microblog: false
 audio: 
-date: 2013-05-06 12:52:00 +0400
+date: 2013-05-06 11:52:00 +0300
 guid: http://kaa.micro.blog/2013/05/06/tesla-refines-their.html
 ---
 <blockquote><p>They were right, so we are fixing it and, moreover, upping the ante by providing the best resale value guarantee in the automotive industry.</p></blockquote>
