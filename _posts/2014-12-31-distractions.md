@@ -3,7 +3,7 @@ layout: post
 title: "Distractions"
 microblog: false
 audio: 
-date: 2014-12-31 10:31:27 +0400
+date: 2014-12-31 09:31:27 +0300
 guid: http://kaa.micro.blog/2014/12/31/distractions.html
 ---
 <p>I&rsquo;m currently on holiday, which typically means that I have enough time to consider various aspects of my life. For this trip I decided to leave my computer at home.The reason for this were two-fold.</p>
