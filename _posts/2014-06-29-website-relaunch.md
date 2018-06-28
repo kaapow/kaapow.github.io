@@ -3,7 +3,7 @@ layout: post
 title: "Website Relaunch"
 microblog: false
 audio: 
-date: 2014-06-30 01:05:00 +0400
+date: 2014-06-30 00:05:00 +0300
 guid: http://kaa.micro.blog/2014/06/29/website-relaunch.html
 ---
 <p>When I released <em><a href="http://moonracket.com">Moon Racket!</a></em> I was never happy with the website, as I felt it wasn&rsquo;t a particularly good showcase of the work. While the general presentation of the same exact strips on both <a href="http://facebook.com/moonracket">Facebook</a> and <a href="http://tapastic.com/series/moonracket">Tapastic</a> was marginally better, I&rsquo;ve wanted to make sure that I addressed this issue before starting to release Season Two.</p>
