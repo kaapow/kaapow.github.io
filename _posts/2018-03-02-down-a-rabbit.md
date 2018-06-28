@@ -3,7 +3,7 @@ layout: post
 title: "Down a Rabbit Hole"
 microblog: false
 audio: 
-date: 2018-03-02 09:25:05 +0400
+date: 2018-03-02 08:25:05 +0300
 guid: http://kaa.micro.blog/2018/03/02/down-a-rabbit.html
 ---
 Seriously fell down a rabbit hole yesterday. 
