@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-10-15 14:28:00 +0400
+date: 2014-10-15 13:28:00 +0300
 guid: http://kaa.micro.blog/2014/10/15/inktober-me-and.html
 ---
 <img src="http://www.kaa.bz/uploads/2018/b807abcc4d.jpg" alt="" width="840" height="627" class="alignnone size-full wp-image-367" /><strong>Inktober #2</strong> - <em>Me and my buddies</em>
