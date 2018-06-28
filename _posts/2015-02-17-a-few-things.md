@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-02-17 08:56:16 +0400
+date: 2015-02-17 07:56:16 +0300
 guid: http://kaa.micro.blog/2015/02/17/a-few-things.html
 ---
 A few things about this pen holder from @clickypost :
