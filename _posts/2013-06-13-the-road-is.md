@@ -3,7 +3,7 @@ layout: post
 title: "The Road is Long"
 microblog: false
 audio: 
-date: 2013-06-13 18:01:44 +0400
+date: 2013-06-13 17:01:44 +0300
 guid: http://kaa.micro.blog/2013/06/13/the-road-is.html
 ---
 <p>Having not had a chance to play with iOS7 (yet), I can only go on what others who have tried it are saying.</p>
