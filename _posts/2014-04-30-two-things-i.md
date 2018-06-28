@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-04-30 08:55:00 +0400
+date: 2014-04-30 07:55:00 +0300
 guid: http://kaa.micro.blog/2014/04/30/two-things-i.html
 ---
 <img src="http://www.kaa.bz/uploads/2018/4473d78925.jpg" alt="" width="840" height="477" class="alignnone size-full wp-image-232" /><p>Two things I take from the cast photo for the new <a href="http://facebook.com/starwars">Star Wars</a> movie:</p>
