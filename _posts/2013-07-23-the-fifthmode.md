@@ -3,7 +3,7 @@ layout: post
 title: "The Fifth Mode"
 microblog: false
 audio: 
-date: 2013-07-23 08:00:00 +0400
+date: 2013-07-23 07:00:00 +0300
 guid: http://kaa.micro.blog/2013/07/23/the-fifthmode.html
 ---
 <p>Always start with a name. A good name.</p>
