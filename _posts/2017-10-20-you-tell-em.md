@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-20 06:43:36 +0400
+date: 2017-10-20 05:43:36 +0300
 guid: http://kaa.micro.blog/2017/10/20/you-tell-em.html
 ---
 You tell em Socrates! #inktober #inktober2017 #inktober2017day15
