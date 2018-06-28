@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-09-30 09:58:25 +0400
+date: 2014-09-30 08:58:25 +0300
 guid: http://kaa.micro.blog/2014/09/30/gallery-incredible-collection.html
 ---
 [gallery]
