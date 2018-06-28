@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-30 08:01:34 +0400
+date: 2018-05-30 07:01:34 +0300
 guid: http://kaa.micro.blog/2018/05/30/today-is-zanes.html
 ---
 Today is Zane’s 4th birthday. 
