@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-07-13 08:01:11 +0400
+date: 2015-07-13 07:01:11 +0300
 guid: http://kaa.micro.blog/2015/07/13/i-just-published.html
 ---
 <img src="http://www.kaa.bz/uploads/2018/f57c8d0cdb.jpg" alt="" width="840" height="420" class="alignnone size-full wp-image-115" /> I just published the first full colour <em>Moon Racket!</em> strip, <a href="http://moonracket.com/post/123948318799/taking-a-minute" class="tumblr_blog">Taking a Minute</a>. I’ll be getting into my overall setup at some point, but this is a decided shift from me as I have until now published only in black and white.
