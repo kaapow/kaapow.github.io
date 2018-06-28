@@ -3,7 +3,7 @@ layout: post
 title: "Routine &amp; Constraint"
 microblog: false
 audio: 
-date: 2015-06-03 07:00:00 +0400
+date: 2015-06-03 06:00:00 +0300
 guid: http://kaa.micro.blog/2015/06/03/routine-amp-constraint.html
 ---
 <p><em>Routine</em> is everything when you&rsquo;re trying to develop and build something. To aid the routine from happening and not being taken off the rails, <em>constraints</em> are typically added into the mix.</p>
