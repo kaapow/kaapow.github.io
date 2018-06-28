@@ -3,7 +3,7 @@ layout: post
 title: "Perspective"
 microblog: false
 audio: 
-date: 2018-04-13 10:30:08 +0400
+date: 2018-04-13 09:30:08 +0300
 guid: http://kaa.micro.blog/2018/04/13/perspective.html
 ---
 You may have noticed _discontent_ amongst some Micro.blog users, in reaction to the latest iOS app addition, [Wavelength](http://www.manton.org/2018/04/wavelength-for-micro-blog.html), to the Micro.blog ecosystem. 
