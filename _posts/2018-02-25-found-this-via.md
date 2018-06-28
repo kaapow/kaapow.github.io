@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-25 21:36:43 +0400
+date: 2018-02-25 20:36:43 +0300
 guid: http://kaa.micro.blog/2018/02/25/found-this-via.html
 ---
 Found this via [Josh Ginter](https://thenewsprint.co/2018/02/25/sunday-edition-022518/). 
