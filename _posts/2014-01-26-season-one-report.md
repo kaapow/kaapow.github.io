@@ -3,7 +3,7 @@ layout: post
 title: "Season One Report Card"
 microblog: false
 audio: 
-date: 2014-01-26 17:12:00 +0400
+date: 2014-01-26 16:12:00 +0300
 guid: http://kaa.micro.blog/2014/01/26/season-one-report.html
 ---
 <p>Today marks 20 consecutive weeks that I&rsquo;ve published a new episode for my online comic <a href="http://moonracket.com">Moon Racket</a>, so I thought it would be nice to take stock and review the experience.</p>
