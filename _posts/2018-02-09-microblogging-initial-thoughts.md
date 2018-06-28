@@ -3,7 +3,7 @@ layout: post
 title: "Micro.blog Initial Thoughts"
 microblog: false
 audio: 
-date: 2018-02-09 21:08:59 +0400
+date: 2018-02-09 20:08:59 +0300
 guid: http://kaa.micro.blog/2018/02/09/microblogging-initial-thoughts.html
 ---
 Now that I've kicked the micro.blog tires for a few days, I can safely say a couple of things:
