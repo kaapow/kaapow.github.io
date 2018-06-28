@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2010-10-06 21:24:35 +0400
+date: 2010-10-06 20:24:35 +0300
 guid: http://kaa.micro.blog/2010/10/06/from-my-desk.html
 ---
 From my desk where I draw every morning
