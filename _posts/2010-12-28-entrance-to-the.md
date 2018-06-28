@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2010-12-28 07:42:54 +0400
+date: 2010-12-28 06:42:54 +0300
 guid: http://kaa.micro.blog/2010/12/28/entrance-to-the.html
 ---
 Entrance to the office
