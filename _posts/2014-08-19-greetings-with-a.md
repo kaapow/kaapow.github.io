@@ -3,7 +3,7 @@ layout: post
 title: "Greetings with a smile"
 microblog: false
 audio: 
-date: 2014-08-19 22:21:00 +0400
+date: 2014-08-19 21:21:00 +0300
 guid: http://kaa.micro.blog/2014/08/19/greetings-with-a.html
 ---
 <p>A while back (must be over 6 years ago), I remember asking Christos how things were going with his then newborn child Amelia. I&rsquo;d noticed that this tiny little human had mellowed my friend a little and instilled a sense of patience that I had not known him for. One of the take backs from that conversation was him explaining how much work it really was but how the smile and recognition he received from his baby when he arrived home always made his heart melt and washed away all the difficult times.</p>
