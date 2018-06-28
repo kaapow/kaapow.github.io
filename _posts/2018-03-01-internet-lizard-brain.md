@@ -3,7 +3,7 @@ layout: post
 title: "Internet Lizard Brain"
 microblog: false
 audio: 
-date: 2018-03-01 21:54:51 +0400
+date: 2018-03-01 20:54:51 +0300
 guid: http://kaa.micro.blog/2018/03/01/internet-lizard-brain.html
 ---
 It does feel refreshing to be back online and actually enjoying the process. I'm enjoying writing on a regular basis. I'm enjoying the conversations I'm having online, as people share links and thoughts that I might not have considered or known about.
