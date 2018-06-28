@@ -3,7 +3,7 @@ layout: post
 title: "Internet Life"
 microblog: false
 audio: 
-date: 2018-02-07 20:47:33 +0400
+date: 2018-02-07 19:47:33 +0300
 guid: http://kaa.micro.blog/2018/02/07/internet-life.html
 ---
 It's been a super interesting week for my internet life. After pulling away from it all for a significant amount of time, I now believe I've found the necessary tools to get something out of it. This micro.blog is my therapy of sorts (some of the more deeply personal stuff is bound to stay hidden somewhere in my journal), and [RMO](http://rmo.life) is pretty much my ideal setup for writing and editing long form (mainly due to the control the app affords me over the layout).
