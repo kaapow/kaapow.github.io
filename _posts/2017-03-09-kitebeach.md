@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-03-10 00:45:53 +0400
+date: 2017-03-09 23:45:53 +0300
 guid: http://kaa.micro.blog/2017/03/09/kitebeach.html
 ---
 #kitebeach
