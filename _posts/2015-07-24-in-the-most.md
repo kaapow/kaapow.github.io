@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-07-24 13:56:17 +0400
+date: 2015-07-24 12:56:17 +0300
 guid: http://kaa.micro.blog/2015/07/24/in-the-most.html
 ---
 In the most over the top Mall in Qatar. Still though liked the colours
