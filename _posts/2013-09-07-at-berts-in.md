@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-09-07 09:10:41 +0400
+date: 2013-09-07 08:10:41 +0300
 guid: http://kaa.micro.blog/2013/09/07/at-berts-in.html
 ---
 At Berts in Lagoona Mall doing a session. Writing, drawing, chilling with my Moroccan tea.
