@@ -3,7 +3,7 @@ layout: post
 title: "Moon Racket Website Update"
 microblog: false
 audio: 
-date: 2015-06-09 11:26:20 +0400
+date: 2015-06-09 10:26:20 +0300
 guid: http://kaa.micro.blog/2015/06/09/gallery-moon-racket.html
 ---
 Ever since I ‘relaunched’ the <em>Moon Racket!</em> <a href="http://www.moonracket.com">website</a> I’ve not been particularly happy with the footer. I always knew that it would have to change. My initial use of the footer was to effectively send people to different parts of the net that related to all things <em>Moon Racket!</em> - the <a href="http://www.twitter.com/moonracket">Twitter</a> account, the facebook account, the <a href="http://www.tinyletter.com/moonracket">newsletter</a> and this <a href="http://www.procssr.tumblr.com">process blog</a>. All of these links have now moved to the very top of the website, in a nice menu bar, that’s out of the way, but fully accessible if needed.
