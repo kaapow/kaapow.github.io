@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-06-26 05:52:14 +0400
+date: 2016-06-26 04:52:14 +0300
 guid: http://kaa.micro.blog/2016/06/26/qatar-airways-lounge.html
 ---
 Qatar Airways lounge - serious Bond villain lair aesthetics
