@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-07-13 00:04:00 +0400
+date: 2014-07-12 23:04:00 +0300
 guid: http://kaa.micro.blog/2014/07/12/gallery-ive-launched.html
 ---
 [gallery]
