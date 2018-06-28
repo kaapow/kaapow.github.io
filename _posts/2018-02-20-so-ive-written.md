@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-20 20:09:09 +0400
+date: 2018-02-20 19:09:09 +0300
 guid: http://kaa.micro.blog/2018/02/20/so-ive-written.html
 ---
 So I've written the [second chapter](http://www.rmo.life/categories-compartments) in my online book RMO. This sketch was the first attempt at images to accompany the articles. Keeping this for postperity - still need to work on the alternative.
