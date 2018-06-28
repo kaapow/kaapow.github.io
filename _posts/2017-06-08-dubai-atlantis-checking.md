@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-09 00:16:47 +0400
+date: 2017-06-08 23:16:47 +0300
 guid: http://kaa.micro.blog/2017/06/08/dubai-atlantis-checking.html
 ---
 #dubai #atlantis checking out some fish on a Friday morning
