@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-17 21:06:59 +0400
+date: 2017-10-17 20:06:59 +0300
 guid: http://kaa.micro.blog/2017/10/17/inktober-inktoberday-inktober.html
 ---
 #inktober #inktober2017day13 #inktober2017
