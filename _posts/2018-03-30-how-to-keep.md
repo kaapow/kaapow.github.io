@@ -3,7 +3,7 @@ layout: post
 title: "How to keep going"
 microblog: false
 audio: 
-date: 2018-03-30 21:11:45 +0400
+date: 2018-03-30 20:11:45 +0300
 guid: http://kaa.micro.blog/2018/03/30/how-to-keep.html
 ---
 I've been struggling with thoughts and issues on how to keep going (for a number of aspects in my life). [This talk](https://austinkleon.com/2018/03/28/how-to-keep-going/) by Austin Kleon tackles this topic head first. His answer is found across 10 points ; you should watch the video to get a proper explanation on each:
