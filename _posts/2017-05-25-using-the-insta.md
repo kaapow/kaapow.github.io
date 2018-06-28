@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-26 00:30:14 +0400
+date: 2017-05-25 23:30:14 +0300
 guid: http://kaa.micro.blog/2017/05/25/using-the-insta.html
 ---
 Using the Insta part of Instagram a little more
