@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-10-26 22:26:48 +0400
+date: 2016-10-26 21:26:48 +0300
 guid: http://kaa.micro.blog/2016/10/26/the-pencil-tower.html
 ---
 The pencil tower - time to start taking photos around Dubai now that the weather is ok
