@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-06 22:12:52 +0400
+date: 2018-02-06 21:12:52 +0300
 guid: http://kaa.micro.blog/2018/02/06/its-that-time.html
 ---
 It's that time of the year again. New [Kickstarter](https://www.kickstarter.com/projects/637878316/the-pen-addict-live-2018-relaycon-atlanta-and-toro) for the Pen Addict live show. Quick thoughts:
