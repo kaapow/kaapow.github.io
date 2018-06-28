@@ -3,7 +3,7 @@ layout: post
 title: "Kickstarter & Me"
 microblog: false
 audio: 
-date: 2018-06-01 15:25:50 +0400
+date: 2018-06-01 14:25:50 +0300
 guid: http://kaa.micro.blog/2018/06/01/kickstarter-me.html
 ---
 I thought it would be interesting to run some numbers on all the Kickstarter projects that I have backed over the years.
