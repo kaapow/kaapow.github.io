@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-01 22:42:06 +0400
+date: 2018-05-01 21:42:06 +0300
 guid: http://kaa.micro.blog/2018/05/01/little-strokes-fell.html
 ---
 > Little strokes fell great oaks.  
