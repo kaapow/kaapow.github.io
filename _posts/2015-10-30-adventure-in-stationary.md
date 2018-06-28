@@ -3,7 +3,7 @@ layout: post
 title: "Adventure in Stationary"
 microblog: false
 audio: 
-date: 2015-10-30 23:50:06 +0400
+date: 2015-10-30 22:50:06 +0300
 guid: http://kaa.micro.blog/2015/10/30/adventure-in-stationary.html
 ---
 <p>For years I&rsquo;ve been exceptionally content with my choice of pen, the Muji 0.38mm gel ink pen, in <strong>black</strong>. The main issue with the pen was the cheap plastic enclosure that held that wonderful refill. I grew exceptionally bored of it and I was willing to splurge some money on something that was better.</p>
