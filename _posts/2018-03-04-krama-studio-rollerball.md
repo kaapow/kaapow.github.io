@@ -3,7 +3,7 @@ layout: post
 title: "Krama Studio Rollerball"
 microblog: false
 audio: 
-date: 2018-03-04 21:22:23 +0400
+date: 2018-03-04 20:22:23 +0300
 guid: http://kaa.micro.blog/2018/03/04/krama-studio-rollerball.html
 ---
 The [Krama](https://www.kramastudio.com) pen I [mentioned](https://www.kaa.bz/2018/02/23/finally-got-my.html) 10 days ago, arrived today. I've not had much time to play with it yet, but my initial impressions are that the reasons for me backing the Kickstarter were valid. 
