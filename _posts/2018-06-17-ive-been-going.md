@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 06:28:07 +0400
+date: 2018-06-17 05:28:07 +0300
 guid: http://kaa.micro.blog/2018/06/17/ive-been-going.html
 ---
 💬 I’ve been going through my Twitter archive, to determine what I should ultimately import and keep. A few points:
