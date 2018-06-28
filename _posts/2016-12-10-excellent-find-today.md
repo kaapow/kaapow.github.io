@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-12-11 02:37:29 +0400
+date: 2016-12-11 01:37:29 +0300
 guid: http://kaa.micro.blog/2016/12/10/excellent-find-today.html
 ---
 Excellent find today - Taste of Italy. That's the beauty of Dubai, you can live here for a year and every single weekend you can discover new things and places.
