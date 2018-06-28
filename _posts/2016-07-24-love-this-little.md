@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-07-24 09:48:42 +0400
+date: 2016-07-24 08:48:42 +0300
 guid: http://kaa.micro.blog/2016/07/24/love-this-little.html
 ---
 Love this little guy #zane
