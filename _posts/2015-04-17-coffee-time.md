@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-04-17 08:01:13 +0400
+date: 2015-04-17 07:01:13 +0300
 guid: http://kaa.micro.blog/2015/04/17/coffee-time.html
 ---
 Coffee time!
