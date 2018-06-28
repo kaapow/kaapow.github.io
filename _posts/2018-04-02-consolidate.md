@@ -3,7 +3,7 @@ layout: post
 title: "Consolidate"
 microblog: false
 audio: 
-date: 2018-04-02 13:22:27 +0400
+date: 2018-04-02 12:22:27 +0300
 guid: http://kaa.micro.blog/2018/04/02/consolidate.html
 ---
 I feel like I need to quantify that previous statement, because I might not be alone.
