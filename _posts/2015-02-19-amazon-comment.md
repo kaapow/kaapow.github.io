@@ -3,7 +3,7 @@ layout: post
 title: "Amazon Comment"
 microblog: false
 audio: 
-date: 2015-02-19 22:51:00 +0400
+date: 2015-02-19 21:51:00 +0300
 guid: http://kaa.micro.blog/2015/02/19/amazon-comment.html
 ---
 <p>How often do you read a comment to a review on Amazon and can&rsquo;t stop laugh? This comment for the <a href="http://www.amazon.com/dp/B00HYOGTTG">Zojirushi SM-SA48-BA Stainless Steel Mug</a> is one of those.</p>
