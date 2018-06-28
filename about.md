@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 0
-date: 2018-06-22 20:11:55 +0400
+date: 2018-06-22 19:11:55 +0300
 ---
 I'm a Chartered Engineer living in Dubai and working for [Arup](http://www.arup.com) with my wife and two sons. We are an [Apple](https://www.kaa.bz/2018/02/07/apple.html) family and frankly like it that way.
 
