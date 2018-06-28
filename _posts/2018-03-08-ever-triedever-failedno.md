@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-08 15:08:29 +0400
+date: 2018-03-08 14:08:29 +0300
 guid: http://kaa.micro.blog/2018/03/08/ever-triedever-failedno.html
 ---
 > Ever tried.  
