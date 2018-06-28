@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-10-07 14:26:00 +0400
+date: 2014-10-07 13:26:00 +0300
 guid: http://kaa.micro.blog/2014/10/07/inktober-eastman-sketch.html
 ---
 <img src="http://www.kaa.bz/uploads/2018/984115ba10.jpg" alt="" width="840" height="1072" class="alignnone size-full wp-image-372" /><strong>Inktober #1</strong> - <em>Eastman</em>
