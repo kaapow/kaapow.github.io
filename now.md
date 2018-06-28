@@ -3,7 +3,7 @@ title: "Now"
 permalink: "/now/"
 layout: page
 order: 2
-date: 2018-05-16 21:13:23 +0400
+date: 2018-05-16 20:13:23 +0300
 ---
 Everyone has a passion to keep them sane as they meander through life's routines. These are some of the projects that are occupying my mind, _now_.
 
