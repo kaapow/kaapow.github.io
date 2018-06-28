@@ -3,7 +3,7 @@ layout: post
 title: "My thoughts on Brexit"
 microblog: false
 audio: 
-date: 2017-01-04 09:00:00 +0400
+date: 2017-01-04 08:00:00 +0300
 guid: http://kaa.micro.blog/2017/01/04/my-thoughts-onbrexit.html
 ---
 <p>So I honestly didn’t think that the first series that I would be writing about is Brexit. I thought I’d be talking about something simple like waste in the house, energy efficiencies and creativity. No instead I get to delve into what happens after the referendum of 23rd of June, 2016.</p>
