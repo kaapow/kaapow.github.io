@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-19 15:19:41 +0400
+date: 2018-05-19 14:19:41 +0300
 guid: http://kaa.micro.blog/2018/05/19/gulf-summer-reading.html
 ---
 _Gulf_ Summer reading list.
