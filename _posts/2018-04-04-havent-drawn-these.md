@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-04 22:00:52 +0400
+date: 2018-04-04 21:00:52 +0300
 guid: http://kaa.micro.blog/2018/04/04/havent-drawn-these.html
 ---
 Haven’t drawn these dudes in a while. Actually really missed them.
