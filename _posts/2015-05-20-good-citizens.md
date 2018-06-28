@@ -3,7 +3,7 @@ layout: post
 title: "Good Citizens"
 microblog: false
 audio: 
-date: 2015-05-20 08:35:56 +0400
+date: 2015-05-20 07:35:56 +0300
 guid: http://kaa.micro.blog/2015/05/20/good-citizens.html
 ---
 <p>There is much to like about Tumblr and publishing on Tumblr. There are however some constraints that I have been trying to work my way through. <em>High resolution</em> images on Tumblr are constrained in size to 1280px for normal high res photos and 2560x500px for panorama photos.</p>
