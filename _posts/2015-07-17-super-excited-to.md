@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-07-18 03:56:43 +0400
+date: 2015-07-18 02:56:43 +0300
 guid: http://kaa.micro.blog/2015/07/17/super-excited-to.html
 ---
 Super excited to finally get some #boulet - sure it's in French but I'm not even letting the language I know the worst stop me from tearing through this #forthewin
