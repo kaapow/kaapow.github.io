@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-03-12 23:56:02 +0400
+date: 2015-03-12 22:56:02 +0300
 guid: http://kaa.micro.blog/2015/03/12/love-customising-my.html
 ---
 Love customising my memo books. First time I do something to a Fieldnotes #fieldnotes #memobook #gellypen #whiteink
