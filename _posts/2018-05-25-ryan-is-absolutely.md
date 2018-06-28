@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-25 07:27:12 +0400
+date: 2018-05-25 06:27:12 +0300
 guid: http://kaa.micro.blog/2018/05/25/ryan-is-absolutely.html
 ---
 Ryan is absolutely **fascinated** by music. 
