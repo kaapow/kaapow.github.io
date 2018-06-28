@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-22 20:36:28 +0400
+date: 2018-06-22 19:36:28 +0300
 guid: http://kaa.micro.blog/2018/06/22/iceland-vs-nigeria.html
 ---
 ⚽ Notes on the Iceland vs Nigeria game:
