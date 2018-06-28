@@ -3,7 +3,7 @@ layout: post
 title: "Opens Flat"
 microblog: false
 audio: 
-date: 2014-10-05 23:06:55 +0400
+date: 2014-10-05 22:06:55 +0300
 guid: http://kaa.micro.blog/2014/10/05/opens-flat.html
 ---
 <p>If you enjoyed my last couple of posts, then you&rsquo;ll love my new tumblr, <a href="http://opensflat.tumblr.com">Opens Flat</a>, dedicated to stationary &amp; accessories.</p>
