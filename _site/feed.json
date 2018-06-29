@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/06/29/current-view.html",
+	      	
+			"content_html": "<p>Current view.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-29T13:42:45+03:00",
+			"url": "https://www.kaa.bz/2018/06/29/current-view.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/29/i-noticed-something.html",
+	      	
+			"content_html": "<p>I noticed something on Instagram today which signalled the beginning of the end. Endless account settings, IGTV, business accounts, metrics and then there is the ability to sell stuff. It’s becoming more Facebook and straying away from photo sharing; which was to be expected.</p>\n",
+			"date_published": "2018-06-29T09:16:33+03:00",
+			"url": "https://www.kaa.bz/2018/06/29/i-noticed-something.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/06/29/there-are-views.html",
+	      	
+			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-29T05:52:01+03:00",
+			"url": "https://www.kaa.bz/2018/06/29/there-are-views.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/06/27/yup-were-finally.html",
 	      	
 			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p>When I was a child, I used to be in complete awe of the thundering father clap 👏. The kind that only a <strong>father</strong> can create. Yesterday at my son’s pre-school ‘graduation’ (any reason to celebrate), I’m glad to report that <strong>I</strong> was that father and my clap did thunder!</p>\n",
 			"date_published": "2018-06-12T19:55:30+03:00",
 			"url": "https://www.kaa.bz/2018/06/12/165530.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/11/as-we-approach.html",
-	      	
-			"content_html": "<p>⚽ As we approach just 4 days before the start of the World Cup, these <a href=\"https://www.bbc.co.uk/sport/football/44388118\">handy charts</a> will be nice to keep in mind as the stats (and goals) start rolling in.</p>\n",
-			"date_published": "2018-06-11T06:04:13+03:00",
-			"url": "https://www.kaa.bz/2018/06/11/as-we-approach.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/09/so-the-heat.html",
-	      	
-			"content_html": "<p>So the heat 🔥 has officially kicked into overdrive in Dubai, with the temperature hitting 45°C. No complaints from me as we had a pretty decent May, just need to get my good parenting hat on and come up with engaging activities that the boys can get into.</p>\n",
-			"date_published": "2018-06-09T15:37:20+03:00",
-			"url": "https://www.kaa.bz/2018/06/09/so-the-heat.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/08/vertigo-relaunches-under.html",
-	      	
-			"content_html": "<p><a href=\"http://www.comicsbeat.com/dont-call-it-a-comeback-vertigo-relaunches-under-mark-doyle-with-seven-new-series/\">Vertigo relaunches under Mark Doyle</a> with seven new series. The three series that jumped out at me were <em>American Carnage</em>, <em>Goddess Mode</em> and especially <em>High Level</em>. Love the trade dress which is very <em>Vertigo</em>.</p>\n",
-			"date_published": "2018-06-08T11:34:06+03:00",
-			"url": "https://www.kaa.bz/2018/06/08/vertigo-relaunches-under.html"
 		}
 		
 	]
