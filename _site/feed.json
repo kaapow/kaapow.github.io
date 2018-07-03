@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/02/currently-reading-purple.html",
+	      	
+			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
+			"date_published": "2018-07-02T19:45:05+03:00",
+			"url": "https://www.kaa.bz/2018/07/02/currently-reading-purple.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/01/050353.html",
+	      	
+			"content_html": "<p>One of the things that characterise holidays for me, is the ability to catch up on my reading. Top of my pile is extensibly an issue of <em>The Economist</em> which I generally lament not having the time to read more regularly when I’m not on holiday.</p>\n",
+			"date_published": "2018-07-01T08:03:53+03:00",
+			"url": "https://www.kaa.bz/2018/07/01/050353.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/01/went-to-a.html",
 	      	
 			"content_html": "<p>Went to a few of my old stationary haunting grounds. I came away with literally nothing. Either I’ve reached peak stationary or I’m content with everything that I have at the moment. <em>Having</em> said that there are few more places that will put that conviction to the test.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>💬 I’ve struggled to define how I would use emoji on Micro.blog. I’ve decided that when I use them as a form of tagging, these will appear at the start of a post. Makes for more considerate reading when you can scan and decide if what comes next is of any interest.</p>\n",
 			"date_published": "2018-06-15T23:07:15+03:00",
 			"url": "https://www.kaa.bz/2018/06/15/ive-struggled-to.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/15/this-match-is.html",
-	      	
-			"content_html": "<p>⚽ This match is turning out to be a complete <em>classico</em>. This is what the world cup is all about. I’ve watched more football in the last 2 days than I’ve watched over the last 4 years combined. Totally worth it.</p>\n",
-			"date_published": "2018-06-15T22:25:04+03:00",
-			"url": "https://www.kaa.bz/2018/06/15/this-match-is.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/15/after-a-pretty.html",
-	      	
-			"content_html": "<p>⚽ After some pretty heartbreaking matches for Egypt and Morocco, we’ve got the very first <strong>super</strong> match of the World Cup between Portugal and Spain. My money’s on Spain.</p>\n",
-			"date_published": "2018-06-15T20:57:46+03:00",
-			"url": "https://www.kaa.bz/2018/06/15/after-a-pretty.html"
 		}
 		
 	]
