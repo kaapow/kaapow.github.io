@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Khaled Abou Alfa",
-	"home_page_url": "https://www.kaa.bz/",
-	"feed_url": "https://www.kaa.bz/feed.json",
+	"home_page_url": "https://micro.kaa.bz/",
+	"feed_url": "https://micro.kaa.bz/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
 			"date_published": "2018-07-02T19:45:05+03:00",
-			"url": "https://www.kaa.bz/2018/07/02/currently-reading-purple.html"
+			"url": "https://micro.kaa.bz/2018/07/02/currently-reading-purple.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p>One of the things that characterise holidays for me, is the ability to catch up on my reading. Top of my pile is extensibly an issue of <em>The Economist</em> which I generally lament not having the time to read more regularly when I’m not on holiday.</p>\n",
 			"date_published": "2018-07-01T08:03:53+03:00",
-			"url": "https://www.kaa.bz/2018/07/01/050353.html"
+			"url": "https://micro.kaa.bz/2018/07/01/050353.html"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 	      	
 			"content_html": "<p>Went to a few of my old stationary haunting grounds. I came away with literally nothing. Either I’ve reached peak stationary or I’m content with everything that I have at the moment. <em>Having</em> said that there are few more places that will put that conviction to the test.</p>\n",
 			"date_published": "2018-07-01T06:43:42+03:00",
-			"url": "https://www.kaa.bz/2018/07/01/went-to-a.html"
+			"url": "https://micro.kaa.bz/2018/07/01/went-to-a.html"
 		},
 		
 		{
@@ -34,7 +34,7 @@
 	      	
 			"content_html": "<p>Sitting. Slumped. Forward. His arms crossed over the back of a yellow plastic chair. His head buried in his arms. It’s 7am in the morning but to him it could be any time of the day. Everything feels the same to him. Is he sleeping or has life defeated him? Broken.</p>\n",
 			"date_published": "2018-06-30T12:52:37+03:00",
-			"url": "https://www.kaa.bz/2018/06/30/sitting-slumped-forward.html"
+			"url": "https://micro.kaa.bz/2018/06/30/sitting-slumped-forward.html"
 		},
 		
 		{
@@ -42,7 +42,7 @@
 	      	
 			"content_html": "<p>Current view.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-29T13:42:45+03:00",
-			"url": "https://www.kaa.bz/2018/06/29/current-view.html"
+			"url": "https://micro.kaa.bz/2018/06/29/current-view.html"
 		},
 		
 		{
@@ -50,7 +50,7 @@
 	      	
 			"content_html": "<p>I noticed something on Instagram today which signalled the beginning of the end. Endless account settings, IGTV, business accounts, metrics and then there is the ability to sell stuff. It’s becoming more Facebook and straying away from photo sharing; which was to be expected.</p>\n",
 			"date_published": "2018-06-29T09:16:33+03:00",
-			"url": "https://www.kaa.bz/2018/06/29/i-noticed-something.html"
+			"url": "https://micro.kaa.bz/2018/06/29/i-noticed-something.html"
 		},
 		
 		{
@@ -58,7 +58,7 @@
 	      	
 			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-29T05:52:01+03:00",
-			"url": "https://www.kaa.bz/2018/06/29/there-are-views.html"
+			"url": "https://micro.kaa.bz/2018/06/29/there-are-views.html"
 		},
 		
 		{
@@ -66,7 +66,7 @@
 	      	
 			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-27T20:16:59+03:00",
-			"url": "https://www.kaa.bz/2018/06/27/yup-were-finally.html"
+			"url": "https://micro.kaa.bz/2018/06/27/yup-were-finally.html"
 		},
 		
 		{
@@ -74,7 +74,7 @@
 	      	
 			"content_html": "<p>⚽ Really looking forward to the Argentina vs Nigeria game. Has all the ingredients to be one of the classic games of this tournament.</p>\n",
 			"date_published": "2018-06-26T20:59:31+03:00",
-			"url": "https://www.kaa.bz/2018/06/26/really-looking-forward.html"
+			"url": "https://micro.kaa.bz/2018/06/26/really-looking-forward.html"
 		},
 		
 		{
@@ -82,7 +82,7 @@
 	      	
 			"content_html": "<p>Awesome write up from <a href=\"https://micro.blog/cm\">@cm</a> on <a href=\"http://wherethelightgathers.com/setting-up-blot-im-and-micro-blog\">how to use Blot with Micro.blog</a>. I have a lot more to write about this subject, but I’ve been considering making the jump, mainly due to limited customisation options available for hosted sites.</p>\n",
 			"date_published": "2018-06-26T13:01:39+03:00",
-			"url": "https://www.kaa.bz/2018/06/26/awesome-write-up.html"
+			"url": "https://micro.kaa.bz/2018/06/26/awesome-write-up.html"
 		},
 		
 		{
@@ -90,7 +90,7 @@
 	      	
 			"content_html": "<p>✈️ I remember when we used to travel as a family, my dad would get properly stressed out and wouldn’t let a sigh of relief until he arrived and sat at the boarding gate. As a father myself, I’ve decided to take a different approach, <a href=\"https://craigmod.com/essays/lets_fly/\">with some of this</a> mixed in for good measure.</p>\n",
 			"date_published": "2018-06-26T05:48:16+03:00",
-			"url": "https://www.kaa.bz/2018/06/26/i-remember-when.html"
+			"url": "https://micro.kaa.bz/2018/06/26/i-remember-when.html"
 		},
 		
 		{
@@ -98,7 +98,7 @@
 	      	
 			"content_html": "<p>Been on a bit of a <em>deep dive</em> with <a href=\"https://seths.blog\">Seth Godin</a>. This <a href=\"https://www.moo.com/uk/products/notebooks/seth-godin-notebook.html\">Ship It journal</a> looks like a great way of allowing you to work through your thoughts to get to <a href=\"https://www.kaa.bz/2018/04/27/ive-not-been.html\">your reason</a>.</p>\n",
 			"date_published": "2018-06-25T04:26:44+03:00",
-			"url": "https://www.kaa.bz/2018/06/25/012644.html"
+			"url": "https://micro.kaa.bz/2018/06/25/012644.html"
 		},
 		
 		{
@@ -108,7 +108,7 @@
 			
 			"content_html": "<p>I’ve now been wearing the <a href=\"https://www.mi.com/en/miband2/\">Mi Band 2</a> for a couple of months. The data has given me the agency to <em>try</em> and change my nature tendencies.</p>\n\n<p>Unsurprisingly the most useful metric I’ve found is sleep logging. When did I go to sleep? When did I wake up? How long was my deep sleep for - that’s the good kind of sleep right? Right?</p>\n\n<p>Sleep or the lack of it definitely is what affects me the most throughout my day - I might eat more or less, I might have a headache or not.</p>\n\n<p>The behaviour that I was hoping for the most influence is the amount of exercise I carry out. This is still an ongoing project as I need to carve the correct time in my schedule to do the exercise. <strong>Operation summer</strong> is going to try and finally get into shape.</p>\n",
 			"date_published": "2018-06-25T03:50:19+03:00",
-			"url": "https://www.kaa.bz/2018/06/25/fitness.html"
+			"url": "https://micro.kaa.bz/2018/06/25/fitness.html"
 		},
 		
 		{
@@ -116,7 +116,7 @@
 	      	
 			"content_html": "<p>The latest version of <a href=\"http://www.ia.net/writer\">iA Writer</a> for iOS is out. The two new features of note are changing the icon colour and being able to save favourite folders. Both additions only solidify this text editor as the finest on the platform.</p>\n",
 			"date_published": "2018-06-23T15:43:35+03:00",
-			"url": "https://www.kaa.bz/2018/06/23/the-latest-version.html"
+			"url": "https://micro.kaa.bz/2018/06/23/the-latest-version.html"
 		},
 		
 		{
@@ -124,7 +124,7 @@
 	      	
 			"content_html": "<p>That <a href=\"https://www.cjchilvers.com/blog/seth-godin-to-the-world-youre-still-not-blogging-daily?\">quote from Seth Godin</a> is possibly the single best description of why you should blog every day. You write primarily for <strong>yourself</strong>. The fact that you <em>might</em> reach an audience is either irrelevant or a side bonus.</p>\n\n<p>First, find a system with the least friction and then write.</p>\n",
 			"date_published": "2018-06-23T06:58:56+03:00",
-			"url": "https://www.kaa.bz/2018/06/23/that-quote-from.html"
+			"url": "https://micro.kaa.bz/2018/06/23/that-quote-from.html"
 		},
 		
 		{
@@ -132,7 +132,7 @@
 	      	
 			"content_html": "<p>⚽ Notes on the Iceland vs Nigeria game:</p>\n<ul>\n  <li>Hoping Iceland pull an equaliser against Nigeria, along with Mexico they’re my two favourite <em>underdog</em> teams.</li>\n  <li>How the hell did Nigeria just score twice in 20 minutes? Where Argentina had no way in?</li>\n  <li>VAR comes to their rescue…and he hoofs the penalty. What is going on with the penalties this World Cup?</li>\n  <li>Argentina can actually make it through to the next round now, after their abysmal performance yesterday to Croatia.</li>\n  <li>Both goals by Musa are some of the best <em>individual</em> performance goals I’ve seen in the world cup. Didn’t think they had it in them to be honest.</li>\n  <li>A great second half in this game, makes this group qualifying a fascinating one to watch.</li>\n</ul>\n",
 			"date_published": "2018-06-22T19:36:28+03:00",
-			"url": "https://www.kaa.bz/2018/06/22/iceland-vs-nigeria.html"
+			"url": "https://micro.kaa.bz/2018/06/22/iceland-vs-nigeria.html"
 		},
 		
 		{
@@ -140,7 +140,7 @@
 	      	
 			"content_html": "<p>I’ve never been one to look up to people as role models and yet this quote, from Seneca, has stuck with me these last few days:</p>\n\n<blockquote>\n  <p>There is a need, in my view, for someone as a standard against which our characters can measure themselves. Without a ruler to do it against you won’t make the crooked straight.<br />\n— <em>Seneca</em></p>\n</blockquote>\n\n<p>Such a great metaphor to capture one’s struggle to improve yourself, or <strong>straighten</strong> yourself.</p>\n",
 			"date_published": "2018-06-22T07:39:07+03:00",
-			"url": "https://www.kaa.bz/2018/06/22/ive-never-been.html"
+			"url": "https://micro.kaa.bz/2018/06/22/ive-never-been.html"
 		},
 		
 		{
@@ -148,7 +148,7 @@
 	      	
 			"content_html": "<p>I stopped understanding this world back in 2016. The world’s tolerance to each other is exceedingly fraught and strained. This separating parents/kids shit in America is abhorrent but unfortunately just another example of the madness. And so my lack of understanding <em>continues</em>.</p>\n",
 			"date_published": "2018-06-21T07:27:46+03:00",
-			"url": "https://www.kaa.bz/2018/06/21/i-stopped-understanding.html"
+			"url": "https://micro.kaa.bz/2018/06/21/i-stopped-understanding.html"
 		},
 		
 		{
@@ -156,7 +156,7 @@
 	      	
 			"content_html": "<p>I have a <strong>ton</strong> of books to get through this summer. One that has catapulted up the list is Ben Rhode’s <a href=\"[www.amazon.co.uk/World-As-...](https://www.amazon.co.uk/World-As-Inside-Obama-White-ebook/dp/B079M3BQD8/ref=sr_1_1?ie=UTF8&amp;qid=1529511474&amp;sr=8-1&amp;keywords=the) world as it is\">The World As It Is</a>. As a bonus check out his interview on <a href=\"https://crooked.com/podcast/obamas-legacy-after-trump/\">Pod Save the World</a>.</p>\n",
 			"date_published": "2018-06-20T21:02:46+03:00",
-			"url": "https://www.kaa.bz/2018/06/20/i-have-a.html"
+			"url": "https://micro.kaa.bz/2018/06/20/i-have-a.html"
 		},
 		
 		{
@@ -164,7 +164,7 @@
 	      	
 			"content_html": "<p>⌚ The <a href=\"https://www.mondaine.com/watches/mondaine-helvetica/helvetica-1-smartwatch.html\">latest iteration</a> of Mondaine’s <em>smart</em> watch concept is a solid design iteration on the previous model (the dial at the bottom always looked cramped). Definitely goes onto the same wantlist as the <a href=\"https://www.mondaine.com/watches/mondaine-helvetica/helvetica-spiekermann-edition.html\">Erik Spiekermann</a> editions I have coveted for a while.</p>\n",
 			"date_published": "2018-06-20T19:15:01+03:00",
-			"url": "https://www.kaa.bz/2018/06/20/these-latest-iteration.html"
+			"url": "https://micro.kaa.bz/2018/06/20/these-latest-iteration.html"
 		},
 		
 		{
@@ -172,7 +172,7 @@
 	      	
 			"content_html": "<p>Bookending my black and white series of photos with Ryan in his feeding chair.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/3fa31b106b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-19T20:02:49+03:00",
-			"url": "https://www.kaa.bz/2018/06/19/bookending-my-black.html"
+			"url": "https://micro.kaa.bz/2018/06/19/bookending-my-black.html"
 		},
 		
 		{
@@ -180,7 +180,7 @@
 	      	
 			"content_html": "<p>Reading ‘Intergalactic Ed’ with the boys.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/824f40fc8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-18T22:19:05+03:00",
-			"url": "https://www.kaa.bz/2018/06/18/reading-intergalactic-ed.html"
+			"url": "https://micro.kaa.bz/2018/06/18/reading-intergalactic-ed.html"
 		},
 		
 		{
@@ -188,7 +188,7 @@
 	      	
 			"content_html": "<p>A <a href=\"https://blackwing602.com/volume-10001-puzzle-pencil/\">new edition</a> of Blackwing volumes was just released, Vol.10001. Love the story behind it, but not really excited by the pencil’s stylings. Once I’m done with my current box, I think I’ll go for a box of the new 602s.</p>\n",
 			"date_published": "2018-06-18T20:55:05+03:00",
-			"url": "https://www.kaa.bz/2018/06/18/a-new-edition.html"
+			"url": "https://micro.kaa.bz/2018/06/18/a-new-edition.html"
 		},
 		
 		{
@@ -196,7 +196,7 @@
 	      	
 			"content_html": "<p>💬 I’ve been going through my Twitter archive, to determine what I should ultimately import and keep. A few points:</p>\n\n<ol>\n  <li>So many links are obsolete. This means the line I wrote is meaningless.</li>\n  <li>The 140 character limit makes for overtly simple communication.</li>\n  <li>Is it worth importing?</li>\n</ol>\n",
 			"date_published": "2018-06-17T05:28:07+03:00",
-			"url": "https://www.kaa.bz/2018/06/17/ive-been-going.html"
+			"url": "https://micro.kaa.bz/2018/06/17/ive-been-going.html"
 		},
 		
 		{
@@ -204,7 +204,7 @@
 	      	
 			"content_html": "<p>💬 I’ve struggled to define how I would use emoji on Micro.blog. I’ve decided that when I use them as a form of tagging, these will appear at the start of a post. Makes for more considerate reading when you can scan and decide if what comes next is of any interest.</p>\n",
 			"date_published": "2018-06-15T23:07:15+03:00",
-			"url": "https://www.kaa.bz/2018/06/15/ive-struggled-to.html"
+			"url": "https://micro.kaa.bz/2018/06/15/ive-struggled-to.html"
 		}
 		
 	]
