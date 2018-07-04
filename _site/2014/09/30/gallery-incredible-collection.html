@@ -12,8 +12,8 @@
   <link rel="stylesheet" href="/assets/stylesheets/global.css" />
   <link rel="stylesheet" href="/custom.css" />
 
-  <link rel="alternate" type="application/rss+xml" title="Khaled Abou Alfa" href="https://www.kaa.bz/feed.xml" />
-  <link rel="alternate" type="application/json" title="Khaled Abou Alfa" href="https://www.kaa.bz/feed.json" />
+  <link rel="alternate" type="application/rss+xml" title="Khaled Abou Alfa" href="https://micro.kaa.bz/feed.xml" />
+  <link rel="alternate" type="application/json" title="Khaled Abou Alfa" href="https://micro.kaa.bz/feed.json" />
   <link rel="EditURI" type="application/rsd+xml" href="/rsd.xml" />
 
   <link rel="me" href="https://micro.blog/kaa" />
@@ -155,10 +155,17 @@
     </main>
 
     <footer class="footer footer--single" role="contentinfo">
-  <small class="copyright">&copy; 2018 <a href="https://www.kaa.bz">Khaled Abou Alfa</a>. Follow <a href="https://micro.blog/kaa">@kaa on Micro.blog</a>.</small>
+  <small class="copyright">&copy; 2018 <a href="https://micro.kaa.bz">Khaled Abou Alfa</a>. Follow <a href="https://micro.blog/kaa">@kaa on Micro.blog</a>.</small>
 </footer>
 
-    
+    <form method="get" id="search" action="http://duckduckgo.com/">
+  <input type="hidden" name="sites" value="kaa.bz"/>
+  <input type="hidden" name="k8" value="#444444"/>
+  <input type="hidden" name="k9" value="#D51920"/>
+  <input type="hidden" name="kt" value="h"/>
+  <input type="text" name="q" maxlength="255" placeholder="Search…"/>
+  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+</form>
     
   </body>
 </html>
