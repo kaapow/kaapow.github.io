@@ -14,25 +14,31 @@
 --thread: #053ef4; 
 --title: #FC5169;
 --header:  #9DB4F6;
+--copyright: #789AF6;
 }
 
-body,  body.single					{ background-color: var(--bg); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
-.header, body.single header 		{ margin:100px 0 100px 0;}
+figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
+
+main 								{ background-color: var(--bg); }
+.header 							{ margin: 0; height: 20px; background: url("http://www.kaa.bz/_images/header.png") no-repeat left; background-size: 239px 20px; }
+footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
+.posts.h-feed 						{ padding-top: 3rem; }
+.posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
+
+body,  body.single					{ background-color: var(--link); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
 .site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
-body.home, body.single 				{ max-width:680px; width:90%;}
-body.single main 					{ width:100%;}
+body.home, body.single, body.single main { width:100%; max-width: 100%}
 .post--single 						{ margin:0 auto 2rem auto;}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
+li 									{ margin: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
 a:hover					  			{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
 h1 									{ font-family: 'Archivo Narrow', san-serif; color: var(--title); font-size: 1.8rem; font-weight: 700;}
 h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-weight: 700;}
-h2							{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
-h3, h4	    { font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
-.avatar img 						{ height:100px; max-width: 100px;}
-.site__name							{ color: var(--site-name); font-size:1.8rem; font-weight:900;  font-feature-settings: "smcp" 1;}
+h2									{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
+h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
 .post__footer a, .copyright, .post__footer 		{ padding-top: 0.5rem; }
 .copyright 							{ line-height: 1.4rem; font-size: 1.0rem;}
 .post__footer a 					{ color: var(--date); border-bottom: 1px dotted var(--date);}
@@ -51,13 +57,45 @@ hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 .footnotes:before                   { content: "❧"; text-align: center; font-size: 30px; padding: 0 0 0 46%}
 .footnotes 							{ margin-top: 30px;}
 .footnotes ol 						{ margin-top: 30px;}
-blockquote {padding: 20px; margin: 20px; background-color: var(--table); border-left: none;}
+blockquote 							{ padding: 20px; margin: 20px; background-color: var(--table); border-left: none;}
+
+.NewFooter							{ margin: 0;}
+ul.External 						{ margin-top: 30px;}
+ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-align:middle;}
+ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
+ul.External li 						{ list-style-type: none;    display: inline;}
+footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg);}
+#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 30px 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date);}
+nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
+nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
+nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
+.NewCopyright 						{ color: var(--copyright);     margin: 0 0 70px 0;    }
+img.Sig 							{ width: 225px;}    
+section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none;}  
+body.single section.AboutFooter img { display: inline;}
+body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px; width: 90%; }
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
- ol li									{ margin-left: -20px; }
-  ul li {margin-left: -23px; text-indent: -1em; padding-left: 1em;}
+ol li								{ margin-left: -20px; }
+ul li 								{ margin-left: -23px; text-indent: -1em; padding-left: 1em;}
 figure.avatar 						{ width: 100px; padding: 0; margin: -0.2em 0 0 -8em; float: left;}
 .site__page 						{ padding: 20px 15px 0 0;}
 .header 							{ text-align: left;}
+section.AboutFooter 				{ width: 580px;    overflow: hidden;    float: left;}  
+nav.NavFooter 						{ float: right;    width: 100px;    text-align: right;}
+ul.External li a img 				{ height: 64px;}
+ul.External li.MoonRacket a img 	{ height: 136px;}
+
+
+
+}
+
+
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+.header 							{ background: url("http://www.kaa.bz/_images/header@2x.png") no-repeat left;  background-size: 239px 20px ; border-top: 1px solid var(--link);}
 }
