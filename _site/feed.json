@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/07/every-rd-of.html",
+	      	
+			"content_html": "<p>Every 3rd of July my <a href=\"http://feedbin.com\">Feedbin</a> subscription is up for renewal. Since July 2013, I have relied on this service and happily pay the price of admission for a products that continues to improve year on year for the same price. Best RSS reader on the market.</p>\n",
+			"date_published": "2018-07-07T13:09:01+03:00",
+			"url": "https://micro.kaa.bz/2018/07/07/every-rd-of.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/07/for-me-the.html",
+	      	
+			"content_html": "<p>For me the unmistakable sound of Beirut is the car horn which begins to propagate throughout the city early.  The horn is used for everything -</p>\n<blockquote>\n  <p>Watch out!<br />\nCome down, I’m here.<br />\nOutta the way buddy, I wanna park.<br />\nCome take my order please, I’m waiting.<br />\nWant a taxi somewhere?</p>\n</blockquote>\n",
+			"date_published": "2018-07-07T07:25:51+03:00",
+			"url": "https://micro.kaa.bz/2018/07/07/for-me-the.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/05/finished-reading-purple.html",
+	      	
+			"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
+			"date_published": "2018-07-05T22:48:20+03:00",
+			"url": "https://micro.kaa.bz/2018/07/05/finished-reading-purple.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/02/currently-reading-purple.html",
 	      	
 			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
@@ -40,7 +64,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/29/current-view.html",
 	      	
-			"content_html": "<p>Current view.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Current view.</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-29T13:42:45+03:00",
 			"url": "https://micro.kaa.bz/2018/06/29/current-view.html"
 		},
@@ -56,7 +80,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/29/there-are-views.html",
 	      	
-			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-29T05:52:01+03:00",
 			"url": "https://micro.kaa.bz/2018/06/29/there-are-views.html"
 		},
@@ -64,7 +88,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/27/yup-were-finally.html",
 	      	
-			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-27T20:16:59+03:00",
 			"url": "https://micro.kaa.bz/2018/06/27/yup-were-finally.html"
 		},
@@ -170,7 +194,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/19/bookending-my-black.html",
 	      	
-			"content_html": "<p>Bookending my black and white series of photos with Ryan in his feeding chair.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/3fa31b106b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Bookending my black and white series of photos with Ryan in his feeding chair.</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/3fa31b106b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-19T20:02:49+03:00",
 			"url": "https://micro.kaa.bz/2018/06/19/bookending-my-black.html"
 		},
@@ -178,33 +202,9 @@
 		{
 			"id": "http://kaa.micro.blog/2018/06/18/reading-intergalactic-ed.html",
 	      	
-			"content_html": "<p>Reading ‘Intergalactic Ed’ with the boys.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/824f40fc8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Reading ‘Intergalactic Ed’ with the boys.</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/824f40fc8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-18T22:19:05+03:00",
 			"url": "https://micro.kaa.bz/2018/06/18/reading-intergalactic-ed.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/18/a-new-edition.html",
-	      	
-			"content_html": "<p>A <a href=\"https://blackwing602.com/volume-10001-puzzle-pencil/\">new edition</a> of Blackwing volumes was just released, Vol.10001. Love the story behind it, but not really excited by the pencil’s stylings. Once I’m done with my current box, I think I’ll go for a box of the new 602s.</p>\n",
-			"date_published": "2018-06-18T20:55:05+03:00",
-			"url": "https://micro.kaa.bz/2018/06/18/a-new-edition.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/17/ive-been-going.html",
-	      	
-			"content_html": "<p>💬 I’ve been going through my Twitter archive, to determine what I should ultimately import and keep. A few points:</p>\n\n<ol>\n  <li>So many links are obsolete. This means the line I wrote is meaningless.</li>\n  <li>The 140 character limit makes for overtly simple communication.</li>\n  <li>Is it worth importing?</li>\n</ol>\n",
-			"date_published": "2018-06-17T05:28:07+03:00",
-			"url": "https://micro.kaa.bz/2018/06/17/ive-been-going.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/15/ive-struggled-to.html",
-	      	
-			"content_html": "<p>💬 I’ve struggled to define how I would use emoji on Micro.blog. I’ve decided that when I use them as a form of tagging, these will appear at the start of a post. Makes for more considerate reading when you can scan and decide if what comes next is of any interest.</p>\n",
-			"date_published": "2018-06-15T23:07:15+03:00",
-			"url": "https://micro.kaa.bz/2018/06/15/ive-struggled-to.html"
 		}
 		
 	]
