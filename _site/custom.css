@@ -29,7 +29,7 @@ body,  body.single					{ background-color: var(--link); color: var(--text); font
 .site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
 body.home, body.single, body.single main { width:100%; max-width: 100%}
-.post--single 						{ margin:0 auto 2rem auto;}
+.post--single 						{ margin:0 auto 2rem auto; width: 90%; max-width: 680px;}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 li 									{ margin: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
@@ -65,7 +65,7 @@ ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-al
 ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
 ul.External li 						{ list-style-type: none;    display: inline;}
 footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg);}
-#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 30px 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date);}
+#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 30px 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
 nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
 nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
@@ -73,7 +73,10 @@ nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0
 img.Sig 							{ width: 225px;}    
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none;}  
 body.single section.AboutFooter img { display: inline;}
-body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px; width: 90%; }
+body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote { width: 100%;}
+
+body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px; width:90%;}
+.post--single img {max-width: 100%;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
