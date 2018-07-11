@@ -71,7 +71,8 @@ nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
 .NewCopyright 						{ color: var(--copyright);     margin: 0 0 70px 0;    }
 img.Sig 							{ width: 225px;}    
-section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none;}  
+section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
+section.AboutFooter a { color:var(--bg);}
 body.single section.AboutFooter img { display: inline;}
 body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote { width: 100%;}
 
