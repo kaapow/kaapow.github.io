@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/11/whos-next.html",
+	      	
+			"title": "Who's Next?",
+			
+			"content_html": "<p>It’s been 3½ years since I came to Lebanon. I’d like to say that things have changed here, but they really haven’t. The poor and tired infrastructure has been left in complete disrepair and it’s crumbling. Creaking under it’s own weight. The lack of town planning and proper governmental checks and balances continues to produce…ugliness.</p>\n\n<p>The situation has been exacerbated by the influx of Syrian refugees. The sectarian wars that used to be played out in Lebanon have now achieved a much larger platform in Syria and the evil has spread far and wide. 12M displaced people and a whole generation of children being raised in poor conditions.</p>\n\n<p>My fear is that if the situation doesn’t improve in a meaningful way, this region will only get worse and wars will eventually play out on an even larger scale. The region has been ripped apart for over 60 years, one country at a time (Palestine, Lebanon, Iraq, Syria and Yemen have all fallen). Who’s next?</p>\n",
+			"date_published": "2018-07-11T11:22:55+03:00",
+			"url": "https://micro.kaa.bz/2018/07/11/whos-next.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/10/ive-been-decompressing.html",
 	      	
 			"content_html": "<p>I’ve been decompressing these last two weeks. Part of my brain is getting a little antsy but as I have an intense period coming up, taking things slowly (and frankly lazily) might be the best preparation for the month ahead.</p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>I’ve never been one to look up to people as role models and yet this quote, from Seneca, has stuck with me these last few days:</p>\n\n<blockquote>\n  <p>There is a need, in my view, for someone as a standard against which our characters can measure themselves. Without a ruler to do it against you won’t make the crooked straight.<br />\n— <em>Seneca</em></p>\n</blockquote>\n\n<p>Such a great metaphor to capture one’s struggle to improve yourself, or <strong>straighten</strong> yourself.</p>\n",
 			"date_published": "2018-06-22T07:39:07+03:00",
 			"url": "https://micro.kaa.bz/2018/06/22/ive-never-been.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/21/i-stopped-understanding.html",
-	      	
-			"content_html": "<p>I stopped understanding this world back in 2016. The world’s tolerance to each other is exceedingly fraught and strained. This separating parents/kids shit in America is abhorrent but unfortunately just another example of the madness. And so my lack of understanding <em>continues</em>.</p>\n",
-			"date_published": "2018-06-21T07:27:46+03:00",
-			"url": "https://micro.kaa.bz/2018/06/21/i-stopped-understanding.html"
 		}
 		
 	]
