@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/13/action-shot.html",
+	      	
+			"content_html": "<p>Action shot!</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/14402f839a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-13T21:21:27+03:00",
+			"url": "https://micro.kaa.bz/2018/07/13/action-shot.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/13/an-example-of.html",
+	      	
+			"content_html": "<p>An example of what’s great about Lebanon…</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/9d4d7c3d3d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-13T20:57:52+03:00",
+			"url": "https://micro.kaa.bz/2018/07/13/an-example-of.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/12/233939.html",
+	      	
+			"content_html": "<p>Last day of my holidays (tomorrow is a travel day so doesn’t <em>really</em> count). It’s been a bit short in parts but overall I think I’ve reset my brain a little bit. Spent a decent amount of time with the family (new and old), read a book and updated my Micro.blog.</p>\n",
+			"date_published": "2018-07-13T02:39:39+03:00",
+			"url": "https://micro.kaa.bz/2018/07/13/233939.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/12/133543.html",
 	      	
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/10cc87c85e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p>I’ve now been wearing the <a href=\"https://www.mi.com/en/miband2/\">Mi Band 2</a> for a couple of months. The data has given me the agency to <em>try</em> and change my nature tendencies.</p>\n\n<p>Unsurprisingly the most useful metric I’ve found is sleep logging. When did I go to sleep? When did I wake up? How long was my deep sleep for - that’s the good kind of sleep right? Right?</p>\n\n<p>Sleep or the lack of it definitely is what affects me the most throughout my day - I might eat more or less, I might have a headache or not.</p>\n\n<p>The behaviour that I was hoping for the most influence is the amount of exercise I carry out. This is still an ongoing project as I need to carve the correct time in my schedule to do the exercise. <strong>Operation summer</strong> is going to try and finally get into shape.</p>\n",
 			"date_published": "2018-06-25T03:50:19+03:00",
 			"url": "https://micro.kaa.bz/2018/06/25/fitness.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/23/the-latest-version.html",
-	      	
-			"content_html": "<p>The latest version of <a href=\"http://www.ia.net/writer\">iA Writer</a> for iOS is out. The two new features of note are changing the icon colour and being able to save favourite folders. Both additions only solidify this text editor as the finest on the platform.</p>\n",
-			"date_published": "2018-06-23T15:43:35+03:00",
-			"url": "https://micro.kaa.bz/2018/06/23/the-latest-version.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/23/that-quote-from.html",
-	      	
-			"content_html": "<p>That <a href=\"https://www.cjchilvers.com/blog/seth-godin-to-the-world-youre-still-not-blogging-daily?\">quote from Seth Godin</a> is possibly the single best description of why you should blog every day. You write primarily for <strong>yourself</strong>. The fact that you <em>might</em> reach an audience is either irrelevant or a side bonus.</p>\n\n<p>First, find a system with the least friction and then write.</p>\n",
-			"date_published": "2018-06-23T06:58:56+03:00",
-			"url": "https://micro.kaa.bz/2018/06/23/that-quote-from.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/22/iceland-vs-nigeria.html",
-	      	
-			"content_html": "<p>⚽ Notes on the Iceland vs Nigeria game:</p>\n<ul>\n  <li>Hoping Iceland pull an equaliser against Nigeria, along with Mexico they’re my two favourite <em>underdog</em> teams.</li>\n  <li>How the hell did Nigeria just score twice in 20 minutes? Where Argentina had no way in?</li>\n  <li>VAR comes to their rescue…and he hoofs the penalty. What is going on with the penalties this World Cup?</li>\n  <li>Argentina can actually make it through to the next round now, after their abysmal performance yesterday to Croatia.</li>\n  <li>Both goals by Musa are some of the best <em>individual</em> performance goals I’ve seen in the world cup. Didn’t think they had it in them to be honest.</li>\n  <li>A great second half in this game, makes this group qualifying a fascinating one to watch.</li>\n</ul>\n",
-			"date_published": "2018-06-22T19:36:28+03:00",
-			"url": "https://micro.kaa.bz/2018/06/22/iceland-vs-nigeria.html"
 		}
 		
 	]
