@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/14/also-using-wifi.html",
+	      	
+			"content_html": "<p>Also using wifi from within the airplane is crazy…I guess technology is bound to move forward wherever it can.</p>\n",
+			"date_published": "2018-07-14T14:30:41+03:00",
+			"url": "https://micro.kaa.bz/2018/07/14/also-using-wifi.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/14/finally-watched-thor.html",
+	      	
+			"content_html": "<p>🎥 <strong>Finally</strong> watched <em>Thor: Ragnarok</em>. It’s everything you can expect and so much more (characters, story, visuals, humour, imagination). Haven’t had this much fun with a movie in a really long time. Big thumbs up 👍.</p>\n",
+			"date_published": "2018-07-14T14:29:49+03:00",
+			"url": "https://micro.kaa.bz/2018/07/14/finally-watched-thor.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/13/action-shot.html",
 	      	
 			"content_html": "<p>Action shot!</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/14402f839a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -189,24 +205,6 @@
 			"content_html": "<p>✈️ I remember when we used to travel as a family, my dad would get properly stressed out and wouldn’t let a sigh of relief until he arrived and sat at the boarding gate. As a father myself, I’ve decided to take a different approach, <a href=\"https://craigmod.com/essays/lets_fly/\">with some of this</a> mixed in for good measure.</p>\n",
 			"date_published": "2018-06-26T05:48:16+03:00",
 			"url": "https://micro.kaa.bz/2018/06/26/i-remember-when.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/25/012644.html",
-	      	
-			"content_html": "<p>Been on a bit of a <em>deep dive</em> with <a href=\"https://seths.blog\">Seth Godin</a>. This <a href=\"https://www.moo.com/uk/products/notebooks/seth-godin-notebook.html\">Ship It journal</a> looks like a great way of allowing you to work through your thoughts to get to <a href=\"https://www.kaa.bz/2018/04/27/ive-not-been.html\">your reason</a>.</p>\n",
-			"date_published": "2018-06-25T04:26:44+03:00",
-			"url": "https://micro.kaa.bz/2018/06/25/012644.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/25/fitness.html",
-	      	
-			"title": "Fitness",
-			
-			"content_html": "<p>I’ve now been wearing the <a href=\"https://www.mi.com/en/miband2/\">Mi Band 2</a> for a couple of months. The data has given me the agency to <em>try</em> and change my nature tendencies.</p>\n\n<p>Unsurprisingly the most useful metric I’ve found is sleep logging. When did I go to sleep? When did I wake up? How long was my deep sleep for - that’s the good kind of sleep right? Right?</p>\n\n<p>Sleep or the lack of it definitely is what affects me the most throughout my day - I might eat more or less, I might have a headache or not.</p>\n\n<p>The behaviour that I was hoping for the most influence is the amount of exercise I carry out. This is still an ongoing project as I need to carve the correct time in my schedule to do the exercise. <strong>Operation summer</strong> is going to try and finally get into shape.</p>\n",
-			"date_published": "2018-06-25T03:50:19+03:00",
-			"url": "https://micro.kaa.bz/2018/06/25/fitness.html"
 		}
 		
 	]
