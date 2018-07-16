@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/16/last-few-days.html",
+	      	
+			"content_html": "<p>Last few days have been a bit all over the place, which was not helped by the world cup final, but the excuse being it comes around every 4 years.  Super excited about the possibilities for the coming month, hit my training hard and achieve a major milestone on my project. Go!</p>\n",
+			"date_published": "2018-07-16T18:49:28+04:00",
+			"url": "https://micro.kaa.bz/2018/07/16/last-few-days.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/14/back-in-dubai.html",
+	      	
+			"content_html": "<p>Back in Dubai without the kids and wife is weird. This is the first time since the kids were born that I’m away from them for an extended period of time. I guess I’m in good company considering how all the fathers follow a very similar line.</p>\n",
+			"date_published": "2018-07-14T18:18:32+04:00",
+			"url": "https://micro.kaa.bz/2018/07/14/back-in-dubai.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/14/also-using-wifi.html",
 	      	
 			"content_html": "<p>Also using wifi from within the airplane is crazy…I guess technology is bound to move forward wherever it can.</p>\n",
-			"date_published": "2018-07-14T14:30:41+03:00",
+			"date_published": "2018-07-14T15:30:41+04:00",
 			"url": "https://micro.kaa.bz/2018/07/14/also-using-wifi.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://kaa.micro.blog/2018/07/14/finally-watched-thor.html",
 	      	
 			"content_html": "<p>🎥 <strong>Finally</strong> watched <em>Thor: Ragnarok</em>. It’s everything you can expect and so much more (characters, story, visuals, humour, imagination). Haven’t had this much fun with a movie in a really long time. Big thumbs up 👍.</p>\n",
-			"date_published": "2018-07-14T14:29:49+03:00",
+			"date_published": "2018-07-14T15:29:49+04:00",
 			"url": "https://micro.kaa.bz/2018/07/14/finally-watched-thor.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://kaa.micro.blog/2018/07/13/action-shot.html",
 	      	
 			"content_html": "<p>Action shot!</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/14402f839a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-13T21:21:27+03:00",
+			"date_published": "2018-07-13T22:21:27+04:00",
 			"url": "https://micro.kaa.bz/2018/07/13/action-shot.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://kaa.micro.blog/2018/07/13/an-example-of.html",
 	      	
 			"content_html": "<p>An example of what’s great about Lebanon…</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/9d4d7c3d3d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-13T20:57:52+03:00",
+			"date_published": "2018-07-13T21:57:52+04:00",
 			"url": "https://micro.kaa.bz/2018/07/13/an-example-of.html"
 		},
 		
@@ -41,7 +57,7 @@
 			"id": "http://kaa.micro.blog/2018/07/12/233939.html",
 	      	
 			"content_html": "<p>Last day of my holidays (tomorrow is a travel day so doesn’t <em>really</em> count). It’s been a bit short in parts but overall I think I’ve reset my brain a little bit. Spent a decent amount of time with the family (new and old), read a book and updated my Micro.blog.</p>\n",
-			"date_published": "2018-07-13T02:39:39+03:00",
+			"date_published": "2018-07-13T03:39:39+04:00",
 			"url": "https://micro.kaa.bz/2018/07/13/233939.html"
 		},
 		
@@ -49,7 +65,7 @@
 			"id": "http://kaa.micro.blog/2018/07/12/133543.html",
 	      	
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/10cc87c85e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-12T16:35:43+03:00",
+			"date_published": "2018-07-12T17:35:43+04:00",
 			"url": "https://micro.kaa.bz/2018/07/12/133543.html"
 		},
 		
@@ -59,7 +75,7 @@
 			"title": "Who's Next?",
 			
 			"content_html": "<p>It’s been 3½ years since I came to Lebanon. I’d like to say that things have changed here, but they really haven’t. The poor and tired infrastructure has been left in complete disrepair and it’s crumbling. Creaking under it’s own weight. The lack of town planning and proper governmental checks and balances continues to produce…ugliness.</p>\n\n<p>The situation has been exacerbated by the influx of Syrian refugees. The sectarian wars that used to be played out in Lebanon have now achieved a much larger platform in Syria and the evil has spread far and wide. 12M displaced people and a whole generation of children being raised in poor conditions.</p>\n\n<p>My fear is that if the situation doesn’t improve in a meaningful way, this region will only get worse and wars will eventually play out on an even larger scale. The region has been ripped apart for over 60 years, one country at a time (Palestine, Lebanon, Iraq, Syria and Yemen have all fallen). Who’s next?</p>\n",
-			"date_published": "2018-07-11T11:22:55+03:00",
+			"date_published": "2018-07-11T12:22:55+04:00",
 			"url": "https://micro.kaa.bz/2018/07/11/whos-next.html"
 		},
 		
@@ -67,7 +83,7 @@
 			"id": "http://kaa.micro.blog/2018/07/10/ive-been-decompressing.html",
 	      	
 			"content_html": "<p>I’ve been decompressing these last two weeks. Part of my brain is getting a little antsy but as I have an intense period coming up, taking things slowly (and frankly lazily) might be the best preparation for the month ahead.</p>\n",
-			"date_published": "2018-07-10T10:25:59+03:00",
+			"date_published": "2018-07-10T11:25:59+04:00",
 			"url": "https://micro.kaa.bz/2018/07/10/ive-been-decompressing.html"
 		},
 		
@@ -75,7 +91,7 @@
 			"id": "http://kaa.micro.blog/2018/07/08/years-from-now.html",
 	      	
 			"content_html": "<p>Years from now, when you’re older (and likely taller than me), I’ll remind you how tiny you actually were.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/67c0d95719.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-08T20:26:46+03:00",
+			"date_published": "2018-07-08T21:26:46+04:00",
 			"url": "https://micro.kaa.bz/2018/07/08/years-from-now.html"
 		},
 		
@@ -83,7 +99,7 @@
 			"id": "http://kaa.micro.blog/2018/07/08/152006.html",
 	      	
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/57ee02251b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-08T18:20:06+03:00",
+			"date_published": "2018-07-08T19:20:06+04:00",
 			"url": "https://micro.kaa.bz/2018/07/08/152006.html"
 		},
 		
@@ -91,7 +107,7 @@
 			"id": "http://kaa.micro.blog/2018/07/07/every-rd-of.html",
 	      	
 			"content_html": "<p>Every 3rd of July my <a href=\"http://feedbin.com\">Feedbin</a> subscription is up for renewal. Since July 2013, I have relied on this service and happily pay the price of admission for a products that continues to improve year on year for the same price. Best RSS reader on the market.</p>\n",
-			"date_published": "2018-07-07T13:09:01+03:00",
+			"date_published": "2018-07-07T14:09:01+04:00",
 			"url": "https://micro.kaa.bz/2018/07/07/every-rd-of.html"
 		},
 		
@@ -99,7 +115,7 @@
 			"id": "http://kaa.micro.blog/2018/07/07/turtle-on-turtle.html",
 	      	
 			"content_html": "<p>🐢 Turtle on turtle.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/62d8aa275a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-07T10:48:11+03:00",
+			"date_published": "2018-07-07T11:48:11+04:00",
 			"url": "https://micro.kaa.bz/2018/07/07/turtle-on-turtle.html"
 		},
 		
@@ -107,7 +123,7 @@
 			"id": "http://kaa.micro.blog/2018/07/07/for-me-the.html",
 	      	
 			"content_html": "<p>For me the unmistakable sound of Beirut is the car horn which begins to propagate throughout the city early.  The horn is used for everything -</p>\n<blockquote>\n  <p>Watch out!<br />\nCome down, I’m here.<br />\nOutta the way buddy, I wanna park.<br />\nCome take my order please, I’m waiting.<br />\nWant a taxi somewhere?</p>\n</blockquote>\n",
-			"date_published": "2018-07-07T07:25:51+03:00",
+			"date_published": "2018-07-07T08:25:51+04:00",
 			"url": "https://micro.kaa.bz/2018/07/07/for-me-the.html"
 		},
 		
@@ -115,7 +131,7 @@
 			"id": "http://kaa.micro.blog/2018/07/05/finished-reading-purple.html",
 	      	
 			"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
-			"date_published": "2018-07-05T22:48:20+03:00",
+			"date_published": "2018-07-05T23:48:20+04:00",
 			"url": "https://micro.kaa.bz/2018/07/05/finished-reading-purple.html"
 		},
 		
@@ -123,7 +139,7 @@
 			"id": "http://kaa.micro.blog/2018/07/02/currently-reading-purple.html",
 	      	
 			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
-			"date_published": "2018-07-02T19:45:05+03:00",
+			"date_published": "2018-07-02T20:45:05+04:00",
 			"url": "https://micro.kaa.bz/2018/07/02/currently-reading-purple.html"
 		},
 		
@@ -131,7 +147,7 @@
 			"id": "http://kaa.micro.blog/2018/07/01/050353.html",
 	      	
 			"content_html": "<p>One of the things that characterise holidays for me, is the ability to catch up on my reading. Top of my pile is extensibly an issue of <em>The Economist</em> which I generally lament not having the time to read more regularly when I’m not on holiday.</p>\n",
-			"date_published": "2018-07-01T08:03:53+03:00",
+			"date_published": "2018-07-01T09:03:53+04:00",
 			"url": "https://micro.kaa.bz/2018/07/01/050353.html"
 		},
 		
@@ -139,7 +155,7 @@
 			"id": "http://kaa.micro.blog/2018/07/01/went-to-a.html",
 	      	
 			"content_html": "<p>Went to a few of my old stationary haunting grounds. I came away with literally nothing. Either I’ve reached peak stationary or I’m content with everything that I have at the moment. <em>Having</em> said that there are few more places that will put that conviction to the test.</p>\n",
-			"date_published": "2018-07-01T06:43:42+03:00",
+			"date_published": "2018-07-01T07:43:42+04:00",
 			"url": "https://micro.kaa.bz/2018/07/01/went-to-a.html"
 		},
 		
@@ -147,7 +163,7 @@
 			"id": "http://kaa.micro.blog/2018/06/30/sitting-slumped-forward.html",
 	      	
 			"content_html": "<p>Sitting. Slumped. Forward. His arms crossed over the back of a yellow plastic chair. His head buried in his arms. It’s 7am in the morning but to him it could be any time of the day. Everything feels the same to him. Is he sleeping or has life defeated him? Broken.</p>\n",
-			"date_published": "2018-06-30T12:52:37+03:00",
+			"date_published": "2018-06-30T13:52:37+04:00",
 			"url": "https://micro.kaa.bz/2018/06/30/sitting-slumped-forward.html"
 		},
 		
@@ -155,7 +171,7 @@
 			"id": "http://kaa.micro.blog/2018/06/29/current-view.html",
 	      	
 			"content_html": "<p>Current view.</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-29T13:42:45+03:00",
+			"date_published": "2018-06-29T14:42:45+04:00",
 			"url": "https://micro.kaa.bz/2018/06/29/current-view.html"
 		},
 		
@@ -163,7 +179,7 @@
 			"id": "http://kaa.micro.blog/2018/06/29/i-noticed-something.html",
 	      	
 			"content_html": "<p>I noticed something on Instagram today which signalled the beginning of the end. Endless account settings, IGTV, business accounts, metrics and then there is the ability to sell stuff. It’s becoming more Facebook and straying away from photo sharing; which was to be expected.</p>\n",
-			"date_published": "2018-06-29T09:16:33+03:00",
+			"date_published": "2018-06-29T10:16:33+04:00",
 			"url": "https://micro.kaa.bz/2018/06/29/i-noticed-something.html"
 		},
 		
@@ -171,7 +187,7 @@
 			"id": "http://kaa.micro.blog/2018/06/29/there-are-views.html",
 	      	
 			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-29T05:52:01+03:00",
+			"date_published": "2018-06-29T06:52:01+04:00",
 			"url": "https://micro.kaa.bz/2018/06/29/there-are-views.html"
 		},
 		
@@ -179,7 +195,7 @@
 			"id": "http://kaa.micro.blog/2018/06/27/yup-were-finally.html",
 	      	
 			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-27T20:16:59+03:00",
+			"date_published": "2018-06-27T21:16:59+04:00",
 			"url": "https://micro.kaa.bz/2018/06/27/yup-were-finally.html"
 		},
 		
@@ -187,24 +203,8 @@
 			"id": "http://kaa.micro.blog/2018/06/26/really-looking-forward.html",
 	      	
 			"content_html": "<p>⚽ Really looking forward to the Argentina vs Nigeria game. Has all the ingredients to be one of the classic games of this tournament.</p>\n",
-			"date_published": "2018-06-26T20:59:31+03:00",
+			"date_published": "2018-06-26T21:59:31+04:00",
 			"url": "https://micro.kaa.bz/2018/06/26/really-looking-forward.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/26/awesome-write-up.html",
-	      	
-			"content_html": "<p>Awesome write up from <a href=\"https://micro.blog/cm\">@cm</a> on <a href=\"http://wherethelightgathers.com/setting-up-blot-im-and-micro-blog\">how to use Blot with Micro.blog</a>. I have a lot more to write about this subject, but I’ve been considering making the jump, mainly due to limited customisation options available for hosted sites.</p>\n",
-			"date_published": "2018-06-26T13:01:39+03:00",
-			"url": "https://micro.kaa.bz/2018/06/26/awesome-write-up.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/26/i-remember-when.html",
-	      	
-			"content_html": "<p>✈️ I remember when we used to travel as a family, my dad would get properly stressed out and wouldn’t let a sigh of relief until he arrived and sat at the boarding gate. As a father myself, I’ve decided to take a different approach, <a href=\"https://craigmod.com/essays/lets_fly/\">with some of this</a> mixed in for good measure.</p>\n",
-			"date_published": "2018-06-26T05:48:16+03:00",
-			"url": "https://micro.kaa.bz/2018/06/26/i-remember-when.html"
 		}
 		
 	]
