@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 0
-date: 2018-07-08 18:51:58 +0300
+date: 2018-07-08 19:51:58 +0400
 ---
 I'm Khaled Abou Alfa, a Chartered Engineer living in Dubai and working for [Arup](http://www.arup.com) with my wife and two sons. We are an [Apple](https://www.kaa.bz/2018/02/07/apple.html) family and frankly like it that way.
 
