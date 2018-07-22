@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/22/i-truly-miss.html",
+	      	
+			"content_html": "<p>I truly miss the excitement and wonder that comes with moving to a new place. The discoveries that are available to you. The norms and food that is different. The lives that have existed and will continue to exist past your brief visit. It’s been a long time since I’ve felt that.</p>\n",
+			"date_published": "2018-07-22T19:44:00+04:00",
+			"url": "https://micro.kaa.bz/2018/07/22/i-truly-miss.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/18/i-didnt-know.html",
+	      	
+			"content_html": "<p>I didn’t know <em>The Economist</em> is also available for the <a href=\"https://www.economist.com/digital\">Kindle</a> (US, UK and Germany only). First month is free and then a pretty reasonable monthly price (for me in the Middle East that’s a 60% saving). Easily my favourite <strong>news</strong> publication.</p>\n",
+			"date_published": "2018-07-18T23:35:31+04:00",
+			"url": "https://micro.kaa.bz/2018/07/18/i-didnt-know.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/18/the-comics-journal.html",
+	      	
+			"content_html": "<p><em>The Comics Journal</em> is <a href=\"https://www.cbr.com/sdcc-fantagraphics-the-comics-journal-return/\">coming back</a> to print. That’s probably the best news I’ve heard in a good long while. Easily one of my most satisfying magazine publications and has been sorely missed these years.</p>\n",
+			"date_published": "2018-07-18T20:29:11+04:00",
+			"url": "https://micro.kaa.bz/2018/07/18/the-comics-journal.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/17/watching-obamas-speech.html",
+	      	
+			"content_html": "<p>Watching <a href=\"https://www.youtube.com/watch?v=md_l4u-1vRQ\">Obama’s speech</a> for the Nelson Mandela annual lecture. I truly miss the eloquence of a man with a story to tell, such a great orator. Probably the best.</p>\n",
+			"date_published": "2018-07-17T21:30:00+04:00",
+			"url": "https://micro.kaa.bz/2018/07/17/watching-obamas-speech.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/16/while-the-amazon.html",
+	      	
+			"content_html": "<p>While the Amazon web interface for your reading/editing your highlights and notes for your Kindle is fine, the <a href=\"http://klib.me\">Klib Highlight Manager</a> is a significantly better experience. Highly Recommended.</p>\n",
+			"date_published": "2018-07-16T22:42:25+04:00",
+			"url": "https://micro.kaa.bz/2018/07/16/while-the-amazon.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/16/last-few-days.html",
 	      	
 			"content_html": "<p>Last few days have been a bit all over the place, which was not helped by the world cup final, but the excuse being it comes around every 4 years.  Super excited about the possibilities for the coming month, hit my training hard and achieve a major milestone on my project. Go!</p>\n",
@@ -165,46 +205,6 @@
 			"content_html": "<p>Sitting. Slumped. Forward. His arms crossed over the back of a yellow plastic chair. His head buried in his arms. It’s 7am in the morning but to him it could be any time of the day. Everything feels the same to him. Is he sleeping or has life defeated him? Broken.</p>\n",
 			"date_published": "2018-06-30T13:52:37+04:00",
 			"url": "https://micro.kaa.bz/2018/06/30/sitting-slumped-forward.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/29/current-view.html",
-	      	
-			"content_html": "<p>Current view.</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/ae4905f4b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-29T14:42:45+04:00",
-			"url": "https://micro.kaa.bz/2018/06/29/current-view.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/29/i-noticed-something.html",
-	      	
-			"content_html": "<p>I noticed something on Instagram today which signalled the beginning of the end. Endless account settings, IGTV, business accounts, metrics and then there is the ability to sell stuff. It’s becoming more Facebook and straying away from photo sharing; which was to be expected.</p>\n",
-			"date_published": "2018-06-29T10:16:33+04:00",
-			"url": "https://micro.kaa.bz/2018/06/29/i-noticed-something.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/29/there-are-views.html",
-	      	
-			"content_html": "<p>There are views and then there are colours #nofilter</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/da03648d28.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-29T06:52:01+04:00",
-			"url": "https://micro.kaa.bz/2018/06/29/there-are-views.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/27/yup-were-finally.html",
-	      	
-			"content_html": "<p>Yup we’re <strong>finally</strong> on holiday!</p>\n\n<p><img src=\"https://micro.kaa.bz/uploads/2018/8f025231e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-27T21:16:59+04:00",
-			"url": "https://micro.kaa.bz/2018/06/27/yup-were-finally.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/26/really-looking-forward.html",
-	      	
-			"content_html": "<p>⚽ Really looking forward to the Argentina vs Nigeria game. Has all the ingredients to be one of the classic games of this tournament.</p>\n",
-			"date_published": "2018-06-26T21:59:31+04:00",
-			"url": "https://micro.kaa.bz/2018/06/26/really-looking-forward.html"
 		}
 		
 	]
