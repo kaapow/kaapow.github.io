@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/23/163428.html",
+	      	
+			"content_html": "<p>One of the nicest things about using Micro.blog is the fact that you get to see the regular progress the service makes, week on week. In many ways it reminds me when Feedbin was a new service. Things will settle down eventually. For now, it’s constant change!</p>\n",
+			"date_published": "2018-07-23T20:34:28+04:00",
+			"url": "https://micro.kaa.bz/2018/07/23/163428.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/22/i-truly-miss.html",
 	      	
 			"content_html": "<p>I truly miss the excitement and wonder that comes with moving to a new place. The discoveries that are available to you. The norms and food that is different. The lives that have existed and will continue to exist past your brief visit. It’s been a long time since I’ve felt that.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Went to a few of my old stationary haunting grounds. I came away with literally nothing. Either I’ve reached peak stationary or I’m content with everything that I have at the moment. <em>Having</em> said that there are few more places that will put that conviction to the test.</p>\n",
 			"date_published": "2018-07-01T07:43:42+04:00",
 			"url": "https://micro.kaa.bz/2018/07/01/went-to-a.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/06/30/sitting-slumped-forward.html",
-	      	
-			"content_html": "<p>Sitting. Slumped. Forward. His arms crossed over the back of a yellow plastic chair. His head buried in his arms. It’s 7am in the morning but to him it could be any time of the day. Everything feels the same to him. Is he sleeping or has life defeated him? Broken.</p>\n",
-			"date_published": "2018-06-30T13:52:37+04:00",
-			"url": "https://micro.kaa.bz/2018/06/30/sitting-slumped-forward.html"
 		}
 		
 	]
