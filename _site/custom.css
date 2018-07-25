@@ -43,8 +43,8 @@ h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; c
 .copyright 							{ line-height: 1.4rem; font-size: 1.0rem;}
 .post__footer a 					{ color: var(--date); border-bottom: 1px dotted var(--date);}
 .post__footer a:hover				{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
-#post-nav 							{ padding: 80px 0 50px 0;}
-.footer 							{ margin-bottom: 9rem;}
+#post-nav 							{ padding: 6rem 0 6rem 0;}
+.footer 							{ margin-bottom: 6rem;}
 .footer--single						{ text-align: left;}
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
@@ -65,11 +65,11 @@ ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-al
 ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
 ul.External li 						{ list-style-type: none;    display: inline;}
 footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg);}
-#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 30px 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
+#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 6rem 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
 nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
 nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
-.NewCopyright 						{ color: var(--copyright);     margin: 0 0 70px 0;    }
+.NewCopyright 						{ color: var(--copyright);     margin: 0 0 6rem 0;    }
 img.Sig 							{ width: 225px;}    
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
 section.AboutFooter a { color:var(--bg);}
