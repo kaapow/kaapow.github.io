@@ -19,8 +19,8 @@
 
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
-main 								{ background-color: var(--bg); }
-.header 							{ margin: 0; height: 20px; background: url("http://www.kaa.bz/_images/header.png") no-repeat left; background-size: 239px 20px; }
+main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom; }
+.header 							{ margin: 0; height: 30px; background: /*url("http://www.kaa.bz/_images/header.png") no-repeat left,*/ url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
 .posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
@@ -59,13 +59,13 @@ hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 .footnotes ol 						{ margin-top: 30px;}
 blockquote 							{ padding: 20px; margin: 20px; background-color: var(--table); border-left: none;}
 
-.NewFooter							{ margin: 0;}
-ul.External 						{ margin-top: 30px;}
+.NewFooter							{ margin: 0; }
+ul.External 						{ margin-top: 6rem;}
 ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-align:middle;}
 ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
 ul.External li 						{ list-style-type: none;    display: inline;}
-footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg);}
-#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 6rem 0 0 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
+footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg); }
+#search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 6rem 0 4rem 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
 nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
 nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
@@ -88,8 +88,8 @@ figure.avatar 						{ width: 100px; padding: 0; margin: -0.2em 0 0 -8em; float: 
 .header 							{ text-align: left;}
 section.AboutFooter 				{ width: 580px;    overflow: hidden;    float: left;}  
 nav.NavFooter 						{ float: right;    width: 100px;    text-align: right;}
-ul.External li a img 				{ height: 64px;}
-ul.External li.MoonRacket a img 	{ height: 136px;}
+ul.External li a img 				{ height: 3rem;}
+ul.External li.MoonRacket a img 	{ height: 5rem;}
 
 
 
@@ -101,5 +101,5 @@ ul.External li.MoonRacket a img 	{ height: 136px;}
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-.header 							{ background: url("http://www.kaa.bz/_images/header@2x.png") no-repeat left;  background-size: 239px 20px ; border-top: 1px solid var(--link);}
+.header 							{ background: url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  border-top: 1px solid var(--link);}
 }
