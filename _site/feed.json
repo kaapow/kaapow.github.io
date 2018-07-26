@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/26/just-watched-logan.html",
+	      	
+			"content_html": "<p>🎥 Just watched <em>Logan</em>. It’s obviously not as a great as the comic <em>Old Man Logan</em>, which for licensing reasons obviously couldn’t bring all the characters together, it definitely stands as one of the best X-men movies made.</p>\n",
+			"date_published": "2018-07-26T21:48:47+04:00",
+			"url": "https://micro.kaa.bz/2018/07/26/just-watched-logan.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/26/a-story-of.html",
+	      	
+			"content_html": "<p>A story of two tickets. On the left is a ticket left under the windscreen of a car with 30% tinting. On the right, 0% tinting. 😱</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/33c7cda89e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-26T09:11:32+04:00",
+			"url": "https://micro.kaa.bz/2018/07/26/a-story-of.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/26/really-excellent-article.html",
+	      	
+			"content_html": "<p><a href=\"https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7\">Really excellent article</a> on common webpage design mistakes. I’m guilty as sin of vertical spacing atrocities and this served as a great reminder that this stuff matters if you care about flow and design.</p>\n",
+			"date_published": "2018-07-26T08:07:07+04:00",
+			"url": "https://micro.kaa.bz/2018/07/26/really-excellent-article.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/23/163428.html",
 	      	
 			"content_html": "<p>One of the nicest things about using Micro.blog is the fact that you get to see the regular progress the service makes, week on week. In many ways it reminds me when Feedbin was a new service. Things will settle down eventually. For now, it’s constant change!</p>\n",
@@ -181,30 +205,6 @@
 			"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
 			"date_published": "2018-07-05T23:48:20+04:00",
 			"url": "https://micro.kaa.bz/2018/07/05/finished-reading-purple.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/02/currently-reading-purple.html",
-	      	
-			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781591843177\">Purple Cow, New Edition: Transform Your Business by Being Remarkable</a> by Seth Godin, ISBN: 9781591843177 📚</p>\n",
-			"date_published": "2018-07-02T20:45:05+04:00",
-			"url": "https://micro.kaa.bz/2018/07/02/currently-reading-purple.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/01/050353.html",
-	      	
-			"content_html": "<p>One of the things that characterise holidays for me, is the ability to catch up on my reading. Top of my pile is extensibly an issue of <em>The Economist</em> which I generally lament not having the time to read more regularly when I’m not on holiday.</p>\n",
-			"date_published": "2018-07-01T09:03:53+04:00",
-			"url": "https://micro.kaa.bz/2018/07/01/050353.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/01/went-to-a.html",
-	      	
-			"content_html": "<p>Went to a few of my old stationary haunting grounds. I came away with literally nothing. Either I’ve reached peak stationary or I’m content with everything that I have at the moment. <em>Having</em> said that there are few more places that will put that conviction to the test.</p>\n",
-			"date_published": "2018-07-01T07:43:42+04:00",
-			"url": "https://micro.kaa.bz/2018/07/01/went-to-a.html"
 		}
 		
 	]
