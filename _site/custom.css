@@ -1,4 +1,8 @@
-/* Used Primrose as a base. */
+/* 
+micro.kaa.bz Version 1.0
+Used Primrose as a base. 
+Last Update: 27th July 2018.
+*/
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
@@ -7,7 +11,7 @@
 --text: #3b3b3b;
 --site-name: #3b3b3b;
 --link: #053ef4;
---link-hover: #789AF6 /*#05acf4*/;
+--link-hover: #789AF6;
 --date: #d1d1d1;
 --table:#DFE5F8;
 --table-line: #3b3b3b;
@@ -17,20 +21,22 @@
 --copyright: #789AF6;
 }
 
+/* Hide the Header elements.*/
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
-main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom; }
+main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 8rem;}
 .header 							{ margin: 0; height: 30px; background: /*url("http://www.kaa.bz/_images/header.png") no-repeat left,*/ url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
 .posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
-
 body,  body.single					{ background-color: var(--link); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
 .site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
-body.home, body.single, body.single main { width:100%; max-width: 100%}
-.post--single 						{ margin:0 auto 2rem auto; width: 90%; max-width: 680px;}
+body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
+.post--single 						{ margin:0 auto; width: 90%; max-width: 680px;}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
+main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
+main.main__content h1				{ width: 90%;}
 li 									{ margin: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
@@ -40,11 +46,10 @@ h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-we
 h2									{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
 h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
 .post__footer a, .copyright, .post__footer 		{ padding-top: 0.5rem; }
-.post__footer  {padding-bottom: 6rem;}
 .copyright 							{ line-height: 1.4rem; font-size: 1.0rem;}
 .post__footer a 					{ color: var(--date); border-bottom: 1px dotted var(--date);}
 .post__footer a:hover				{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
-#post-nav 							{ padding: 6rem 0 6rem 0;}
+/*#post-nav 							{ padding: 6rem 0 6rem 0;}*/
 .footer 							{ margin-bottom: 6rem;}
 .footer--single						{ text-align: left;}
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
@@ -60,6 +65,7 @@ hr:before  							{ content: "❧"; text-align: center; font-size: 30px;}
 .footnotes ol 						{ margin-top: 30px;}
 blockquote 							{ padding: 20px; margin: 20px; background-color: var(--table); border-left: none;}
 
+/* Styling for the footer. */
 .NewFooter							{ margin: 0; }
 ul.External 						{ margin-top: 6rem;}
 ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-align:middle;}
@@ -73,13 +79,13 @@ nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0
 .NewCopyright 						{ color: var(--copyright);     margin: 0 0 6rem 0;    }
 img.Sig 							{ width: 225px;}    
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
-section.AboutFooter a { color:var(--bg);}
+section.AboutFooter a 				{ color:var(--bg);}
 body.single section.AboutFooter img { display: inline;}
-body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote { width: 100%;}
+body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
 
 body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px;}
-body.single main.main__content h1 { margin-top:6rem;}
-.post--single img {max-width: 100%;}
+body.single main.main__content h1 	{ margin-top:6rem;}
+.post--single img 					{max-width: 100%;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
@@ -92,13 +98,9 @@ section.AboutFooter 				{ width: 580px;    overflow: hidden;    float: left;}
 nav.NavFooter 						{ float: right;    width: 100px;    text-align: right;}
 ul.External li a img 				{ height: 3rem;}
 ul.External li.MoonRacket a img 	{ height: 5rem;}
-
-
-
 }
 
-
-
+/* Ensure that the background image used for retina displays is the correct size.*/
 @media only screen and (min--moz-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
