@@ -36,6 +36,7 @@ body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
 .post--single 						{ margin:0 auto; width: 90%; max-width: 680px;}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
+div.e-content p { width: 100%;}
 main.main__content h1				{ width: 90%;}
 li 									{ margin: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
