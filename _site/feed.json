@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/27/in-other-news.html",
+	      	
+			"content_html": "<p>In other news, really looking forward to the lunar eclipse that’s happening later on this evening. I’ll be posting some photos if they’re not <em>complete</em> rubbish.</p>\n",
+			"date_published": "2018-07-27T22:48:22+04:00",
+			"url": "https://micro.kaa.bz/2018/07/27/in-other-news.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/07/27/the-sons-of.html",
+	      	
+			"content_html": "<p><a href=\"http://www.comicsbeat.com/art-preview-see-ladronns-art-for-the-sons-of-el-topo-volume-one-cain/\">The Sons of El Topo</a> is a sequel to the movie El Topo, by the genius that is Alejandro Jodorowsky. Catapulted to the top of my wishlist.</p>\n",
+			"date_published": "2018-07-27T22:45:52+04:00",
+			"url": "https://micro.kaa.bz/2018/07/27/the-sons-of.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/27/consistent-incremental.html",
 	      	
 			"title": "Consistent & Incremental",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Every 3rd of July my <a href=\"http://feedbin.com\">Feedbin</a> subscription is up for renewal. Since July 2013, I have relied on this service and happily pay the price of admission for a products that continues to improve year on year for the same price. Best RSS reader on the market.</p>\n",
 			"date_published": "2018-07-07T14:09:01+04:00",
 			"url": "https://micro.kaa.bz/2018/07/07/every-rd-of.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/07/turtle-on-turtle.html",
-	      	
-			"content_html": "<p>🐢 Turtle on turtle.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/62d8aa275a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-07T11:48:11+04:00",
-			"url": "https://micro.kaa.bz/2018/07/07/turtle-on-turtle.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/07/for-me-the.html",
-	      	
-			"content_html": "<p>For me the unmistakable sound of Beirut is the car horn which begins to propagate throughout the city early.  The horn is used for everything -</p>\n<blockquote>\n  <p>Watch out!<br />\nCome down, I’m here.<br />\nOutta the way buddy, I wanna park.<br />\nCome take my order please, I’m waiting.<br />\nWant a taxi somewhere?</p>\n</blockquote>\n",
-			"date_published": "2018-07-07T08:25:51+04:00",
-			"url": "https://micro.kaa.bz/2018/07/07/for-me-the.html"
 		}
 		
 	]
