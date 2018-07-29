@@ -25,7 +25,7 @@ Last Update: 27th July 2018.
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
 main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 8rem;}
-.header 							{ margin: 0; height: 30px; background: /*url("http://www.kaa.bz/_images/header.png") no-repeat left,*/ url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
+.header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
 .posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
@@ -37,7 +37,6 @@ body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
 div.e-content p { width: 100%;}
-main.main__content h1				{ width: 90%;}
 li 									{ margin: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
@@ -85,7 +84,7 @@ body.single section.AboutFooter img { display: inline;}
 body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
 
 body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px;}
-body.single main.main__content h1 	{ margin-top:6rem;}
+body.single main.main__content h1 	{ margin-top:6rem; width: 90%;}
 .post--single img 					{max-width: 100%;}
 
 /*Responsive design - effective only for large screens.*/
