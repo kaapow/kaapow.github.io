@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/07/31/an-ode-to.html",
+	      	
+			"title": "An Ode to iAWriter ",
+			
+			"content_text": "Since April I have been working silently and diligently on...",
+			"date_published": "2018-07-31T20:24:22+04:00",
+			"url": "https://micro.kaa.bz/2018/07/31/an-ode-to.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/07/27/in-other-news.html",
 	      	
 			"content_text": "In other news, really looking forward to the lunar eclipse...",
