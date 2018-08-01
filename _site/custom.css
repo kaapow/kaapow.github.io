@@ -33,7 +33,7 @@ body,  body.single					{ background-color: var(--link); color: var(--text); font
 .site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
 body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
-.post--single 						{ margin:0 auto; width: 90%; max-width: 680px;}
+.post--single, #on-this-day 			{ margin:0 auto; width: 90%; max-width: 680px;}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
 div.e-content p { width: 100%;}
