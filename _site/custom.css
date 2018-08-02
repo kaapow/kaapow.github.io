@@ -83,8 +83,8 @@ section.AboutFooter a 				{ color:var(--bg);}
 body.single section.AboutFooter img { display: inline;}
 body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
 
-body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px;}
-body.single main.main__content h1 	{ margin-top:6rem; width: 90%;}
+body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px;}
+body.single main.main__content h1, body.single main.main__content h2 	{ margin-top:6rem; width: 90%;}
 .post--single img 					{max-width: 100%;}
 body.single main.main__content h1.p-name {width:100%;}
 
