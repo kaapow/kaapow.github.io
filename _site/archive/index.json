@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/03/082320.html",
+	      	
+			"content_text": "It’s been a great long while since I’ve drawn anything....",
+			"date_published": "2018-08-03T12:23:20+04:00",
+			"url": "https://micro.kaa.bz/2018/08/03/082320.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/03/i-havent-laughed.html",
+	      	
+			"content_text": "I haven’t laughed this hard at something in a long,...",
+			"date_published": "2018-08-03T08:12:53+04:00",
+			"url": "https://micro.kaa.bz/2018/08/03/i-havent-laughed.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/01/the-hobonichi-techo.html",
 	      	
 			"content_text": "The Hobonichi Techo 2019 Preview Festival is live. This was...",
