@@ -24,7 +24,7 @@ Last Update: 27th July 2018.
 /* Hide the Header elements.*/
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
-main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 8rem;}
+main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 6rem;}
 .header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
@@ -83,8 +83,12 @@ section.AboutFooter a 				{ color:var(--bg);}
 body.single section.AboutFooter img { display: inline;}
 body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
 
-body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 20px auto 20px;}
-body.single main.main__content h1, body.single main.main__content h2 	{ margin-top:6rem; width: 90%;}
+body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content h3 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 0 auto;}
+
+body.single main.main__content h1   { margin: 6rem auto 0 auto; width: 90%;}
+body.single main.main__content h2   { margin: 3rem auto 0 auto; width: 90%;}
+body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
+body.single main.main__content table 	{ margin: 20px auto; width: 90%;}
 .post--single img 					{max-width: 100%;}
 body.single main.main__content h1.p-name {width:100%;}
 
