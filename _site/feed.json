@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/04/031400.html",
+	      	
+			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/d887c551cc.jpg\" width=\"600\" height=\"375\" /></p>\n",
+			"date_published": "2018-08-04T07:14:00+04:00",
+			"url": "https://micro.kaa.bz/2018/08/04/031400.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/03/082320.html",
 	      	
 			"content_html": "<p>It’s been a great long while since I’ve drawn anything. I’ve effectively given up on creating comics for the time being and concentrating on something else for a while. I am missing the <em>act</em> of drawing so I’ve decided to lower the barrier of entry a little to create a new habit.</p>\n",
@@ -199,16 +207,6 @@
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/10cc87c85e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-12T17:35:43+04:00",
 			"url": "https://micro.kaa.bz/2018/07/12/133543.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/11/whos-next.html",
-	      	
-			"title": "Who's Next?",
-			
-			"content_html": "<p>It’s been 3½ years since I came to Lebanon. I’d like to say that things have changed here, but they really haven’t. The poor and tired infrastructure has been left in complete disrepair and it’s crumbling. Creaking under it’s own weight. The lack of town planning and proper governmental checks and balances continues to produce…ugliness.</p>\n\n<p>The situation has been exacerbated by the influx of Syrian refugees. The sectarian wars that used to be played out in Lebanon have now achieved a much larger platform in Syria and the evil has spread far and wide. 12M displaced people and a whole generation of children being raised in poor conditions.</p>\n\n<p>My fear is that if the situation doesn’t improve in a meaningful way, this region will only get worse and wars will eventually play out on an even larger scale. The region has been ripped apart for over 60 years, one country at a time (Palestine, Lebanon, Iraq, Syria and Yemen have all fallen). Who’s next?</p>\n",
-			"date_published": "2018-07-11T12:22:55+04:00",
-			"url": "https://micro.kaa.bz/2018/07/11/whos-next.html"
 		}
 		
 	]
