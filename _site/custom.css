@@ -90,7 +90,7 @@ body.single main.main__content h2   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content table 	{ margin: 20px auto; width: 90%;}
 .post--single img 					{max-width: 100%;}
-body.single main.main__content h1.p-name {width:100%;}
+body.single main.main__content h1.p-name,  body.single main.main__content div#on-this-day div.post h1.p-name, body.single main.main__content div#on-this-day div.post h2.p-name {width:100%;}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
