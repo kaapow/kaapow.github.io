@@ -6,11 +6,19 @@
 	"items": [
 		
 		{
-			"id": "http://kaa.micro.blog/2018/08/07/160708.html",
+			"id": "http://kaa.micro.blog/2018/08/08/with-a-whole.html",
 	      	
-			"content_html": "<p>So I’ve been developing a new drawing style (for a secret project). This is actually the second image in a long series of images that explore. Go check out my site, link in bio, for more images.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/1cb40dc9d5.jpg\" width=\"600\" height=\"553\" /></p>\n",
-			"date_published": "2018-08-07T20:07:08+04:00",
-			"url": "https://micro.kaa.bz/2018/08/07/160708.html"
+			"content_html": "<p>With a whole 10 minutes of using iOS 12, I can already tell it’s a <a href=\"https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard\">Snow Leapard</a> type of update. Subtle but useful features with the main story hidden under the hood making everything more snappy and pleasant to use.</p>\n",
+			"date_published": "2018-08-08T11:20:56+04:00",
+			"url": "https://micro.kaa.bz/2018/08/08/with-a-whole.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/08/022118.html",
+	      	
+			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/51e7b179ce.jpg\" width=\"600\" height=\"360\" /></p>\n",
+			"date_published": "2018-08-08T06:21:18+04:00",
+			"url": "https://micro.kaa.bz/2018/08/08/022118.html"
 		},
 		
 		{
@@ -199,14 +207,6 @@
 			"content_html": "<p>Last few days have been a bit all over the place, which was not helped by the world cup final, but the excuse being it comes around every 4 years.  Super excited about the possibilities for the coming month, hit my training hard and achieve a major milestone on my project. Go!</p>\n",
 			"date_published": "2018-07-16T18:49:28+04:00",
 			"url": "https://micro.kaa.bz/2018/07/16/last-few-days.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/14/back-in-dubai.html",
-	      	
-			"content_html": "<p>Back in Dubai without the kids and wife is weird. This is the first time since the kids were born that I’m away from them for an extended period of time. I guess I’m in good company considering how all the fathers follow a very similar line.</p>\n",
-			"date_published": "2018-07-14T18:18:32+04:00",
-			"url": "https://micro.kaa.bz/2018/07/14/back-in-dubai.html"
 		}
 		
 	]
