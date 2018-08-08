@@ -32,7 +32,9 @@ paginate_path: "/page/:num/"
 timezone: "W-SU"
 site_id: "2509"
 gems: ["jekyll-paginate"]
+itunes_description: "A Chartered Engineer living in Dubai and working for Arup with my wife and two sons. "
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Khaled Abou Alfa"
+itunes_email: ""
 podcast: false
