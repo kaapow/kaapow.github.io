@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Khaled Abou Alfa</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/kaa&quot;&gt;@kaa on Micro.blog&lt;/a&gt;.</description>
+    <description>A Chartered Engineer living in Dubai and working for Arup with my wife and two sons. </description>
     <link>https://micro.kaa.bz/</link>
-    <pubDate>Tue, 07 Aug 2018 10:45:04 +0400</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 10:45:04 +0400</lastBuildDate>
+    <pubDate>Wed, 08 Aug 2018 05:16:24 +0400</pubDate>
+    <lastBuildDate>Wed, 08 Aug 2018 05:16:24 +0400</lastBuildDate>
 	<itunes:image href="https://micro.blog/kaa/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Khaled Abou Alfa</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Khaled Abou Alfa</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
