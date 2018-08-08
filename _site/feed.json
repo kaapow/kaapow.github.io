@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/07/160708.html",
+	      	
+			"content_html": "<p>So I’ve been developing a new drawing style (for a secret project). This is actually the second image in a long series of images that explore. Go check out my site, link in bio, for more images.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/1cb40dc9d5.jpg\" width=\"600\" height=\"553\" /></p>\n",
+			"date_published": "2018-08-07T20:07:08+04:00",
+			"url": "https://micro.kaa.bz/2018/08/07/160708.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/07/034848.html",
 	      	
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/6d2353d1e7.jpg\" width=\"600\" height=\"360\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Back in Dubai without the kids and wife is weird. This is the first time since the kids were born that I’m away from them for an extended period of time. I guess I’m in good company considering how all the fathers follow a very similar line.</p>\n",
 			"date_published": "2018-07-14T18:18:32+04:00",
 			"url": "https://micro.kaa.bz/2018/07/14/back-in-dubai.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/14/also-using-wifi.html",
-	      	
-			"content_html": "<p>Also using wifi from within the airplane is crazy…I guess technology is bound to move forward wherever it can.</p>\n",
-			"date_published": "2018-07-14T15:30:41+04:00",
-			"url": "https://micro.kaa.bz/2018/07/14/also-using-wifi.html"
 		}
 		
 	]
