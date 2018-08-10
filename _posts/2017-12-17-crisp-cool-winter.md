@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-17 18:31:00 +0400
+date: 2017-12-17 17:31:00 +0300
 guid: http://kaa.micro.blog/2017/12/17/crisp-cool-winter.html
 ---
 Crisp cool winter evening Dubai and my best friend and oldest son Zane
