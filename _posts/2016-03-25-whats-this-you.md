@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-03-26 02:33:53 +0400
+date: 2016-03-26 01:33:53 +0300
 guid: http://kaa.micro.blog/2016/03/25/whats-this-you.html
 ---
 What's this you ask? More Moon Racket! Good to be back
