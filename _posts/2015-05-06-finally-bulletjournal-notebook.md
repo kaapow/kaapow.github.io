@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-05-07 03:07:03 +0400
+date: 2015-05-07 02:07:03 +0300
 guid: http://kaa.micro.blog/2015/05/06/finally-bulletjournal-notebook.html
 ---
 FINALLY! #bulletjournal #notebook #leuchtturm #leuchtturm1917
