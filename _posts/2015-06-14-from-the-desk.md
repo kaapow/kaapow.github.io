@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-14 10:56:56 +0400
+date: 2015-06-14 09:56:56 +0300
 guid: http://kaa.micro.blog/2015/06/14/from-the-desk.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/8fc54bd705.jpg" alt="" width="840" height="630" class="alignnone size-full wp-image-139" />
