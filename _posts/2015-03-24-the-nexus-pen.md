@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-03-24 06:18:35 +0400
+date: 2015-03-24 05:18:35 +0300
 guid: http://kaa.micro.blog/2015/03/24/the-nexus-pen.html
 ---
 The #nexus pen finally arrived today. Initial thoughts. 
