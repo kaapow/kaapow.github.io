@@ -3,7 +3,7 @@ layout: post
 title: "Inking Tools"
 microblog: false
 audio: 
-date: 2014-01-13 20:15:27 +0400
+date: 2014-01-13 19:15:27 +0300
 guid: http://kaa.micro.blog/2014/01/13/inking-tools.html
 ---
 <p>In early 2012 I started work on my first iOS app with my cousin. The trip was long and meandering (one which unfortunately we never completed).</p>
