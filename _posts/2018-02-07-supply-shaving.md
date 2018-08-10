@@ -3,7 +3,7 @@ layout: post
 title: "Supply Shaving"
 microblog: false
 audio: 
-date: 2018-02-07 07:32:43 +0400
+date: 2018-02-07 06:32:43 +0300
 guid: http://kaa.micro.blog/2018/02/07/supply-shaving.html
 ---
 I finally got my Kickstarter backed ‘Single Edge’ razor handle from [Supply](https://getsupply.com) today. This is actually the second time that the package was sent to me, as the first set was lost in the mail. This usually doesn’t happen to me, but thankfully the guys over at _Supply_ were gracious enough to hook me up with a full replacement.
