@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-08-13 00:54:37 +0400
+date: 2013-08-12 23:54:37 +0300
 guid: http://kaa.micro.blog/2013/08/12/gallery-and-then.html
 ---
 [gallery]
