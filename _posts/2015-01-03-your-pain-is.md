@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-01-03 04:21:25 +0400
+date: 2015-01-03 03:21:25 +0300
 guid: http://kaa.micro.blog/2015/01/03/your-pain-is.html
 ---
 Your pain is the breaking of the shell that encloses your understanding - Khalil Gibran
