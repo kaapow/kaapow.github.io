@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-08-24 04:12:49 +0400
+date: 2016-08-24 03:12:49 +0300
 guid: http://kaa.micro.blog/2016/08/24/hmmmmmm-keo.html
 ---
 Hmmmmmm, KEO....
