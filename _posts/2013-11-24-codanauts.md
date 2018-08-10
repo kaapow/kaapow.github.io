@@ -3,7 +3,7 @@ layout: post
 title: "Codanauts"
 microblog: false
 audio: 
-date: 2013-11-24 12:07:00 +0400
+date: 2013-11-24 11:07:00 +0300
 guid: http://kaa.micro.blog/2013/11/24/codanauts.html
 ---
 <p><img src="https://micro.kaa.bz/uploads/2018/fa57a253f5.jpg" alt="" /></p>
