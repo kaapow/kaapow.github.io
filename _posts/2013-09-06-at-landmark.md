@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-09-06 08:13:20 +0400
+date: 2013-09-06 07:13:20 +0300
 guid: http://kaa.micro.blog/2013/09/06/at-landmark.html
 ---
 At Landmark
