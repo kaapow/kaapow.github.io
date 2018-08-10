@@ -3,7 +3,7 @@ layout: post
 title: "Priorities"
 microblog: false
 audio: 
-date: 2013-08-09 18:40:02 +0400
+date: 2013-08-09 17:40:02 +0300
 guid: http://kaa.micro.blog/2013/08/09/priorities.html
 ---
 <p>The main function of a website such as mine is for me to collect things and share them with like minded people.</p>
