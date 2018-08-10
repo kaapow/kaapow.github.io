@@ -3,7 +3,7 @@ layout: post
 title: "Focus and Freedom"
 microblog: false
 audio: 
-date: 2014-04-30 14:33:27 +0400
+date: 2014-04-30 13:33:27 +0300
 guid: http://kaa.micro.blog/2014/04/30/focus-and-freedom.html
 ---
 <p>I missed this.</p>
