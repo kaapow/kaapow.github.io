@@ -3,7 +3,7 @@ layout: post
 title: "6 Bullet Points"
 microblog: false
 audio: 
-date: 2015-07-01 22:22:34 +0400
+date: 2015-07-01 21:22:34 +0300
 guid: http://kaa.micro.blog/2015/07/01/bullet-points.html
 ---
 <p>I&rsquo;ve been following the Greek situation with keen interest - being the country in which I grew up in, where my parents currently live and where my brother just this morning went to an interview for his citizenship.</p>
