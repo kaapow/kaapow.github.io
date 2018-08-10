@@ -3,7 +3,7 @@ layout: post
 title: "My Grandmother"
 microblog: false
 audio: 
-date: 2017-12-24 09:00:00 +0400
+date: 2017-12-24 08:00:00 +0300
 guid: http://kaa.micro.blog/2017/12/24/my-grandmother.html
 ---
 <p>My earliest memory of my grandmother must have been when I was a little older than Zane (my eldest), I couldn’t have been more than 4 years old. It was just the two of us, my parents where elsewhere. She offered me a cheese ‘ashkawan’ sandwich, which I hesitated but accepted. What she produced was a mature cheddar cheese sandwich of such epic flavour, I can still taste it 34 years on. After demolishing the first one, she could see I wasn’t done and so she asked me if I wanted another. I remember how happy she looked at being able to offer such a simple thing that could elisit such a reaction — like she’d discovered my route to happiness and was going to use it. She was a master at giving genuine happiness from the simplest of things at her disposal. She would offer this happiness throughout her life and to everyone she came into contact with. And lemonade. Lots of lemonade.</p>
