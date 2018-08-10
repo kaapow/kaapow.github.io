@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-12-14 08:42:55 +0400
+date: 2014-12-14 07:42:55 +0300
 guid: http://kaa.micro.blog/2014/12/14/got-myself-some.html
 ---
 Got myself some #baronfig notebooks for Christmas. Shipped them in via #Shopandship - got some thoughts about both theses things and will share at some point #notebook #stationary
