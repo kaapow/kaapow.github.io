@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-08-13 16:13:00 +0400
+date: 2013-08-13 15:13:00 +0300
 guid: http://kaa.micro.blog/2013/08/13/gallery-the-olympic.html
 ---
 [gallery]
