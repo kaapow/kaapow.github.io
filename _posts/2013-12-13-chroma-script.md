@@ -3,7 +3,7 @@ layout: post
 title: "Chroma Script"
 microblog: false
 audio: 
-date: 2013-12-13 13:29:00 +0400
+date: 2013-12-13 12:29:00 +0300
 guid: http://kaa.micro.blog/2013/12/13/chroma-script.html
 ---
 <p><img src="https://micro.kaa.bz/uploads/2018/7e8d5ea36b.jpg" alt="" /></p>
