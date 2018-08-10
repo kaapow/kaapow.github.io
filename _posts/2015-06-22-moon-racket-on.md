@@ -3,7 +3,7 @@ layout: post
 title: "Moon Racket! on Medium"
 microblog: false
 audio: 
-date: 2015-06-22 21:10:54 +0400
+date: 2015-06-22 20:10:54 +0300
 guid: http://kaa.micro.blog/2015/06/22/moon-racket-on.html
 ---
 <p>I’ve decided to use <a href="http://www.medium.com/@moonracket">Medium</a> as an additional platform from which I publish the new season of my comic, <em>Moon Racket!</em> Multiple factors coalesced to make this decision.</p>
