@@ -3,7 +3,7 @@ layout: post
 title: "Panel Sizes"
 microblog: false
 audio: 
-date: 2014-03-07 14:09:00 +0400
+date: 2014-03-07 13:09:00 +0300
 guid: http://kaa.micro.blog/2014/03/07/panel-sizes.html
 ---
 <p><em>Moon Racket</em> started out life on my iPhone 4. It was a method for me to actually use my latest &lsquo;computer&rsquo; to create content, rather than just consume on it.</p>
