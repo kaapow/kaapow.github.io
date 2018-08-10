@@ -3,7 +3,7 @@ layout: post
 title: "Then and Now"
 microblog: false
 audio: 
-date: 2017-08-09 08:00:00 +0400
+date: 2017-08-09 07:00:00 +0300
 guid: http://kaa.micro.blog/2017/08/09/then-andnow.html
 ---
 <p>The truth is that I can’t help myself and keep coming back to these characters. I’ve honestly tried to get into another project, but it’s clear that there is a whole world that needs to be explored, developed and discovered.</p>
