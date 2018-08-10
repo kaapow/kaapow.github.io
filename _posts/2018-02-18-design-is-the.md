@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-18 20:20:06 +0400
+date: 2018-02-18 19:20:06 +0300
 guid: http://kaa.micro.blog/2018/02/18/design-is-the.html
 ---
 > Design is the process of going from an existing condition to a preferred one. 
