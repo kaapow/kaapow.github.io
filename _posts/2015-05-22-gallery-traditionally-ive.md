@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-05-22 07:00:50 +0400
+date: 2015-05-22 06:00:50 +0300
 guid: http://kaa.micro.blog/2015/05/22/gallery-traditionally-ive.html
 ---
 Traditionally I’ve been a <strong>huge</strong> tinkerer of my websites. Thankfully I turned a leaf last year and decided on a structure and function for each site and only allowed time for enhancing or correcting initial laziness.
