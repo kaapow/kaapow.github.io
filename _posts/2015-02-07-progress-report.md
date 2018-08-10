@@ -3,7 +3,7 @@ layout: post
 title: "Progress Report #1"
 microblog: false
 audio: 
-date: 2015-02-07 20:06:00 +0400
+date: 2015-02-07 19:06:00 +0300
 guid: http://kaa.micro.blog/2015/02/07/progress-report.html
 ---
 <p>It’s been a while since I checked in on progress for <a href="http://www.moonracket.com">Moon Racket</a> Season 2. My <em>original</em> deadline for this season has shifted somewhat, but my plan was somewhat flawed in that I thought I could finish off the art the same year that  Zane (my son) was born - I am that <em>hopelessly</em> optimistic. That was never going to really happen. 
