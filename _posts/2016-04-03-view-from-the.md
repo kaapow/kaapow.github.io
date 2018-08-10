@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-04-03 06:38:07 +0400
+date: 2016-04-03 05:38:07 +0300
 guid: http://kaa.micro.blog/2016/04/03/view-from-the.html
 ---
 View from the office. It've been here for 3 months and the view still doesn't get old. #Dubai
