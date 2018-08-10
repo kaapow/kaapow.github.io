@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-07 12:35:21 +0400
+date: 2015-06-07 11:35:21 +0300
 guid: http://kaa.micro.blog/2015/06/07/hmmmmm-nutella-bar.html
 ---
 Hmmmmm Nutella bar #nutella #dubai #nutellabar
