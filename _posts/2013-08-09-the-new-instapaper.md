@@ -3,7 +3,7 @@ layout: post
 title: "The new Instapaper web beta"
 microblog: false
 audio: 
-date: 2013-08-10 01:04:00 +0400
+date: 2013-08-10 00:04:00 +0300
 guid: http://kaa.micro.blog/2013/08/09/the-new-instapaper.html
 ---
 <blockquote>
