@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-03-25 12:01:15 +0400
+date: 2017-03-25 11:01:15 +0300
 guid: http://kaa.micro.blog/2017/03/25/wip-affinityphoto-comics.html
 ---
 #wip #affinityphoto #comics #moonracket #comicstrip
