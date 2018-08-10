@@ -3,7 +3,7 @@ layout: post
 title: "Get Organised"
 microblog: false
 audio: 
-date: 2014-05-23 14:32:00 +0400
+date: 2014-05-23 13:32:00 +0300
 guid: http://kaa.micro.blog/2014/05/23/get-organised.html
 ---
 <p>It&rsquo;s the quiet before the imminent arrival of little Zane. We&rsquo;ve bought all the gear, gone to the antenatal classes and now the waiting game begins. So I&rsquo;ve decided (belatedly I&rsquo;ll admit) to take some time and get my digital house in order.</p>
