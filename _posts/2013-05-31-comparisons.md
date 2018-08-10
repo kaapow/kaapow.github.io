@@ -3,7 +3,7 @@ layout: post
 title: "Comparisons"
 microblog: false
 audio: 
-date: 2013-05-31 23:16:00 +0400
+date: 2013-05-31 22:16:00 +0300
 guid: http://kaa.micro.blog/2013/05/31/comparisons.html
 ---
 <p>Coda Automotive filed for bankruptcy.</p>
