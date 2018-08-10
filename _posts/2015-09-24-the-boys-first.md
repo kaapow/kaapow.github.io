@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-09-25 02:16:34 +0400
+date: 2015-09-25 01:16:34 +0300
 guid: http://kaa.micro.blog/2015/09/24/the-boys-first.html
 ---
 The boy's first geek t-shirt. 1980s #Batman
