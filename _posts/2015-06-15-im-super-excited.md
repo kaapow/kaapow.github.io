@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-15 22:44:42 +0400
+date: 2015-06-15 21:44:42 +0300
 guid: http://kaa.micro.blog/2015/06/15/im-super-excited.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/380d30b646.jpg" alt="" width="840" height="420" class="alignnone size-full wp-image-119" /> I’m super excited to announce that the first installment of my web comic (now in it’s second season) <a href="http://moonracket.com/post/121604773954/s02e01-be-prepared" class="tumblr_blog">Moon Racket!</a> is finally online after months of careful beavering behind the scenes.
