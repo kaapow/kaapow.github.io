@@ -3,7 +3,7 @@ layout: post
 title: "Four Dials"
 microblog: false
 audio: 
-date: 2015-06-23 15:15:11 +0400
+date: 2015-06-23 14:15:11 +0300
 guid: http://kaa.micro.blog/2015/06/23/four-dials.html
 ---
 <p>Recently I&rsquo;ve started listening to the podcast <a href="http://hellointernet.fm">Hello Internet </a> - if you&rsquo;ve not had a chance i recommend you listen and actually try and stick through it as its a pretty good conversation between two interesting hosts.</p>
