@@ -3,7 +3,7 @@ layout: post
 title: "Chris Porritt"
 microblog: false
 audio: 
-date: 2013-05-07 08:23:00 +0400
+date: 2013-05-07 07:23:00 +0300
 guid: http://kaa.micro.blog/2013/05/07/chris-porritt.html
 ---
 <p>While Tesla in general would probably rather forget about Henrik Fisker, the company clearly feels that those driving the engineering at Aston Martin are prime candidates for the future of the company.</p>
