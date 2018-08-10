@@ -3,7 +3,7 @@ layout: post
 title: "Hamzi Abou Alfa"
 microblog: false
 audio: 
-date: 2017-08-07 08:00:00 +0400
+date: 2017-08-07 07:00:00 +0300
 guid: http://kaa.micro.blog/2017/08/07/hamzi-aboualfa.html
 ---
 <p>At 7am, on Thursday, 27th of July 2017, one of my father’s uncles died. You see my father’s uncles really were more like surrogate fathers than <em>uncles</em>. To think of them as only <em>uncles</em> is to do a disservice to their relationship.</p>
