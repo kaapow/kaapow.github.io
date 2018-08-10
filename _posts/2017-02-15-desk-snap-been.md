@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-02-15 12:24:17 +0400
+date: 2017-02-15 11:24:17 +0300
 guid: http://kaa.micro.blog/2017/02/15/desk-snap-been.html
 ---
 Desk snap. Been a while since I've done one of these. #monoclemagazine #alphonsodunn #dudekmoderngoods #nockco
