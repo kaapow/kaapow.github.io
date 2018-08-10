@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-03-13 08:21:00 +0400
+date: 2015-03-13 07:21:00 +0300
 guid: http://kaa.micro.blog/2015/03/13/some-pearlqatar-action.html
 ---
 Some @pearlqatar action from earlier today
