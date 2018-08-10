@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-03-11 10:26:11 +0400
+date: 2017-03-11 09:26:11 +0300
 guid: http://kaa.micro.blog/2017/03/11/definitely-getting-there.html
 ---
 Definitely getting there. Next post will be for the inks #moonracket #drawing #comics #characters #moon
