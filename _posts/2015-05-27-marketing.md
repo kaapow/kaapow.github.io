@@ -3,7 +3,7 @@ layout: post
 title: "Marketing"
 microblog: false
 audio: 
-date: 2015-05-27 07:00:37 +0400
+date: 2015-05-27 06:00:37 +0300
 guid: http://kaa.micro.blog/2015/05/27/marketing.html
 ---
 <p><em>What kind of audience do I think <a href="http://www.moonracket.com">Moon Racket!</a> is intended for and how do I reach them?</em></p>
