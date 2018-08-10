@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-11-11 16:16:47 +0400
+date: 2014-11-11 15:16:47 +0300
 guid: http://kaa.micro.blog/2014/11/11/inkaday-more-jetpacks.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/6b26a44455.jpg" alt="" width="840" height="627" class="alignnone size-full wp-image-297" /><strong>Inkaday #3</strong> - <em>More Jetpacks</em>
