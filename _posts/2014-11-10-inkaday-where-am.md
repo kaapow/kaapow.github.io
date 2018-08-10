@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-11-10 11:18:00 +0400
+date: 2014-11-10 10:18:00 +0300
 guid: http://kaa.micro.blog/2014/11/10/inkaday-where-am.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/03a3392bc2.jpg" alt="" width="840" height="627" class="alignnone size-full wp-image-314" /><strong>Inkaday #1</strong> - <em>Where Am I?</em>
