@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-11-03 15:59:00 +0400
+date: 2014-11-03 14:59:00 +0300
 guid: http://kaa.micro.blog/2014/11/03/inktober-flying-high.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/fdd8ea1a9b.jpg" alt="" width="840" height="627" class="alignnone size-full wp-image-333" /><strong>Inktober #7</strong> - <em>Flying High</em>
