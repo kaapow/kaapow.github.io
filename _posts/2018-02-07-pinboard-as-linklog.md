@@ -3,7 +3,7 @@ layout: post
 title: "Pinboard as Linklog"
 microblog: false
 audio: 
-date: 2018-02-07 08:41:24 +0400
+date: 2018-02-07 07:41:24 +0300
 guid: http://kaa.micro.blog/2018/02/07/pinboard-as-linklog.html
 ---
 As I start to rekindle my love for writing and publishing online again (I’m still trying to decide on another word to _blogging_, a term I dislike the sound of), I’ve decided that I actually don’t want to clutter up my feed with a linklog - even if this link log has some exceptionally witty commentary. I’d like to keep this particular site dedicated to my more _thoughtful_ digital explorations. 
