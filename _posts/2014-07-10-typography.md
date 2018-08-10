@@ -3,7 +3,7 @@ layout: post
 title: "Typography"
 microblog: false
 audio: 
-date: 2014-07-10 12:50:28 +0400
+date: 2014-07-10 11:50:28 +0300
 guid: http://kaa.micro.blog/2014/07/10/typography.html
 ---
 <p>Although many will claim that there is still a great deal of work to be done to bring the level of typography in the graphic design and online world forward (and in many respects I agree), I honestly do believe that we live in the start of a golden era for type and the fonts that enable it.</p>
