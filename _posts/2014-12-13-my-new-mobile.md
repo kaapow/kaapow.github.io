@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-12-13 07:06:48 +0400
+date: 2014-12-13 06:06:48 +0300
 guid: http://kaa.micro.blog/2014/12/13/my-new-mobile.html
 ---
 My new mobile studio. #midori notebook all the way.
