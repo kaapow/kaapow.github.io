@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-30 11:43:02 +0400
+date: 2017-12-30 10:43:02 +0300
 guid: http://kaa.micro.blog/2017/12/30/about-to-destroy.html
 ---
 About to destroy a Totoro like you wouldn’t believe!
