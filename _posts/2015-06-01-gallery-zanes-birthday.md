@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-01 07:00:55 +0400
+date: 2015-06-01 06:00:55 +0300
 guid: http://kaa.micro.blog/2015/06/01/gallery-zanes-birthday.html
 ---
 One of the things that has been completely invaluable to us this first year of Zane’s life has been the show <em>Baby Einstein</em>. Living away from any family that can help us with the boy has been a challenge at times, but these 22 programmes have acted like a baby sitter of sorts to keep him occupied briefly while we do things like eating our dinner, cleaning up the kitchen or putting a laundry - you know the super exciting things in life.
