@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 06:36:04 +0400
+date: 2018-04-03 05:36:04 +0300
 guid: http://kaa.micro.blog/2018/04/03/morning-walk.html
 ---
 Morning walk.
