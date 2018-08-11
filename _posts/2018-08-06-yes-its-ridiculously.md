@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-06 21:35:44 +0400
+date: 2018-08-06 20:35:44 +0300
 guid: http://kaa.micro.blog/2018/08/06/yes-its-ridiculously.html
 ---
 Yes it’s ridiculously hot and I’m an idiot but damn if this isn’t the best work out I’ve had in months.
