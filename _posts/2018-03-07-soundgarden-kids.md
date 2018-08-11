@@ -3,7 +3,7 @@ layout: post
 title: "Soundgarden & Kids"
 microblog: false
 audio: 
-date: 2018-03-07 07:08:35 +0400
+date: 2018-03-07 06:08:35 +0300
 guid: http://kaa.micro.blog/2018/03/07/soundgarden-kids.html
 ---
 Last night was the first _moment_ shared by myself and my two boys. And a glorious moment it was. 
