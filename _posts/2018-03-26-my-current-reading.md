@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-26 19:47:11 +0400
+date: 2018-03-26 18:47:11 +0300
 guid: http://kaa.micro.blog/2018/03/26/my-current-reading.html
 ---
 My current reading pile:
