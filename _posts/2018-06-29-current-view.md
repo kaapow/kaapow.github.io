@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-29 14:42:45 +0400
+date: 2018-06-29 13:42:45 +0300
 guid: http://kaa.micro.blog/2018/06/29/current-view.html
 ---
 Current view.
