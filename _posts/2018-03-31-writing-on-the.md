@@ -3,7 +3,7 @@ layout: post
 title: "Writing on the web"
 microblog: false
 audio: 
-date: 2018-03-31 21:09:34 +0400
+date: 2018-03-31 20:09:34 +0300
 guid: http://kaa.micro.blog/2018/03/31/writing-on-the.html
 ---
 While going through my Twitter archive, I realised several things which are going to greatly inform the way I write on the web in the future:
