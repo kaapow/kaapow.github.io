@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-27 21:16:59 +0400
+date: 2018-06-27 20:16:59 +0300
 guid: http://kaa.micro.blog/2018/06/27/yup-were-finally.html
 ---
 Yup we’re **finally** on holiday!
