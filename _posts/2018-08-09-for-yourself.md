@@ -3,7 +3,7 @@ layout: post
 title: "For yourself"
 microblog: false
 audio: 
-date: 2018-08-09 19:35:22 +0400
+date: 2018-08-09 18:35:22 +0300
 guid: http://kaa.micro.blog/2018/08/09/for-yourself.html
 ---
 While it's easy to fall into the trap of thinking that you're writing on your website for the 'internet', the truth of the matter is that you're actually writing these things and obsessing about it's design primarily and sometimes exclusively for yourself.
