@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-11 12:38:12 +0400
+date: 2018-05-11 11:38:12 +0300
 guid: http://kaa.micro.blog/2018/05/11/we-really-do.html
 ---
 We really do live in a world with a cornucopia of excellent text editors available on the Mac. My favourite editors are:
