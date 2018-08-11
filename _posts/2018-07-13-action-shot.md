@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-13 22:21:27 +0400
+date: 2018-07-13 21:21:27 +0300
 guid: http://kaa.micro.blog/2018/07/13/action-shot.html
 ---
 Action shot!
