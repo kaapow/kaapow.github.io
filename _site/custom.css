@@ -76,7 +76,7 @@ footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom:
 nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
 nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
-.NewCopyright 						{ color: var(--copyright);     margin: 0 0 6rem 0;    }
+.NewCopyright 						{ color: var(--copyright);     margin: 8rem 0 2rem 0;    }
 img.Sig 							{ width: 225px;}    
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
 section.AboutFooter a 				{ color:var(--bg);}
