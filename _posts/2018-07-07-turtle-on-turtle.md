@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-07 11:48:11 +0400
+date: 2018-07-07 10:48:11 +0300
 guid: http://kaa.micro.blog/2018/07/07/turtle-on-turtle.html
 ---
 🐢 Turtle on turtle.
