@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-13 21:57:52 +0400
+date: 2018-07-13 20:57:52 +0300
 guid: http://kaa.micro.blog/2018/07/13/an-example-of.html
 ---
 An example of what’s great about Lebanon...
