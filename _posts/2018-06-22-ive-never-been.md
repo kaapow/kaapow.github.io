@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-22 08:39:07 +0400
+date: 2018-06-22 07:39:07 +0300
 guid: http://kaa.micro.blog/2018/06/22/ive-never-been.html
 ---
 I've never been one to look up to people as role models and yet this quote, from Seneca, has stuck with me these last few days:
