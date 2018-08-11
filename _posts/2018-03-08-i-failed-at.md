@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-08 16:42:52 +0400
+date: 2018-03-08 15:42:52 +0300
 guid: http://kaa.micro.blog/2018/03/08/i-failed-at.html
 ---
 I failed at something that I have been working towards most of my professional life. 
