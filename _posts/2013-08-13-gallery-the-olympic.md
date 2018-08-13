@@ -5,8 +5,7 @@ audio:
 date: 2013-08-13 15:13:00 +0300
 guid: http://kaa.micro.blog/2013/08/13/gallery-the-olympic.html
 ---
-[gallery]
-<p><strong>The Olympic City</strong></p>
+<strong>The Olympic City</strong>
 
 <p>The <a href="http://olympiccityproject.com">Olympic City</a> is an ongoing photography project by Jon Pack and Gary Hustwit (director of the Helvetica, Objectified and <a href="http://urbanizedfilm.com">Urbanized</a> documentaries) that looks at the legacy of the Olympic Games in former host cities around the world.</p>
 
