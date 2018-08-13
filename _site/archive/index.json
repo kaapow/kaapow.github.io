@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/11/sun-has-just.html",
+	      	
+			"content_text": "Sun has just come up. The city is starting to...",
+			"date_published": "2018-08-11T06:29:47+03:00",
+			"url": "https://micro.kaa.bz/2018/08/11/sun-has-just.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/09/for-yourself.html",
 	      	
 			"title": "For yourself",
@@ -4962,7 +4970,9 @@
 		{
 			"id": "http://kaa.micro.blog/2013/12/03/gallery-lettering-in.html",
 	      	
-			"content_text": "[gallery] Lettering In creating Moon Racket, it was very clear...",
+			"title": "Lettering",
+			
+			"content_text": "In creating Moon Racket, it was very clear to me...",
 			"date_published": "2013-12-03T21:23:00+02:00",
 			"url": "https://micro.kaa.bz/2013/12/03/gallery-lettering-in.html"
 		},
@@ -5138,7 +5148,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/22/gallery-muji-stationary.html",
 	      	
-			"content_text": "[gallery] Muji Stationary - Sometimes the best stationary is also...",
+			"content_text": "Muji Stationary - Sometimes the best stationary is also the...",
 			"date_published": "2013-08-22T23:37:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/22/gallery-muji-stationary.html"
 		},
@@ -5146,7 +5156,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/20/163900.html",
 	      	
-			"content_text": "[youtube www.youtube.com/watch Bullet Journal - It&rsquo;s not very often that...",
+			"content_text": "Bullet Journal - It’s not very often that something comes...",
 			"date_published": "2013-08-20T19:39:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/20/163900.html"
 		},
@@ -5154,7 +5164,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/20/type-hunting-what.html",
 	      	
-			"content_text": "&lt;p&gt;Type Hunting&lt;/p&gt; What a truly wonderful resource this website is....",
+			"content_text": "Type Hunting What a truly wonderful resource this website is....",
 			"date_published": "2013-08-20T08:41:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/20/type-hunting-what.html"
 		},
@@ -5162,17 +5172,9 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/17/finally-completed-the.html",
 	      	
-			"content_text": "&lt;p&gt;Finally completed the ‘Coming Soon’ page for Moon Racket (my...",
+			"content_text": "Finally completed the ‘Coming Soon’ page for Moon Racket (my...",
 			"date_published": "2013-08-17T13:52:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/17/finally-completed-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2013/08/14/125129.html",
-	      	
-			"content_text": "[vimeo 71501596 w=500 h=281] Nightvision Stunning time-lapse work by Luke...",
-			"date_published": "2013-08-14T15:51:29+03:00",
-			"url": "https://micro.kaa.bz/2013/08/14/125129.html"
 		},
 		
 		{
@@ -5186,7 +5188,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/13/gallery-the-olympic.html",
 	      	
-			"content_text": "[gallery] The Olympic City The Olympic City is an ongoing...",
+			"content_text": "The Olympic City The Olympic City is an ongoing photography...",
 			"date_published": "2013-08-13T15:13:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/13/gallery-the-olympic.html"
 		},
@@ -5194,7 +5196,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/13/gallery-hyperloop-weve.html",
 	      	
-			"content_text": "[gallery] Hyperloop We&rsquo;ve been waiting a long time for Elon...",
+			"content_text": "Hyperloop We’ve been waiting a long time for Elon Musk...",
 			"date_published": "2013-08-13T10:37:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/13/gallery-hyperloop-weve.html"
 		},
@@ -5202,17 +5204,9 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/12/gallery-and-then.html",
 	      	
-			"content_text": "[gallery] And then follow this up with Dieter Rams As...",
+			"content_text": "And then follow this up with Dieter Rams As Little...",
 			"date_published": "2013-08-12T23:54:37+03:00",
 			"url": "https://micro.kaa.bz/2013/08/12/gallery-and-then.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2013/08/12/125240.html",
-	      	
-			"content_text": "[vimeo 67692057 w=500 h=281] Last video I post (for today...",
-			"date_published": "2013-08-12T15:52:40+03:00",
-			"url": "https://micro.kaa.bz/2013/08/12/125240.html"
 		},
 		
 		{
@@ -5226,7 +5220,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/12/while-im-down.html",
 	      	
-			"content_text": "&lt;p&gt;While I’m down this rabbit hole. Otomo senior (that’s Katsuhiro...",
+			"content_text": "While I’m down this rabbit hole. Otomo senior (that’s Katsuhiro...",
 			"date_published": "2013-08-12T10:35:50+03:00",
 			"url": "https://micro.kaa.bz/2013/08/12/while-im-down.html"
 		},
@@ -5234,7 +5228,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/12/vimeo-w-h.html",
 	      	
-			"content_text": "[vimeo 56897591 w=500 h=281] And a short film of how...",
+			"content_text": "And a short film of how Shohei Otomo goes about...",
 			"date_published": "2013-08-12T09:36:32+03:00",
 			"url": "https://micro.kaa.bz/2013/08/12/vimeo-w-h.html"
 		},
@@ -5242,7 +5236,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/11/202950.html",
 	      	
-			"content_text": "[youtube www.youtube.com/watch Super excited about watching this documentary which follows...",
+			"content_text": "Super excited about watching this documentary which follows 5 star...",
 			"date_published": "2013-08-11T23:29:50+03:00",
 			"url": "https://micro.kaa.bz/2013/08/11/202950.html"
 		},
@@ -5250,17 +5244,9 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/11/tinker-hatfield-interview.html",
 	      	
-			"content_text": "&lt;p&gt;Tinker Hatfield interview&lt;/p&gt; Tinker Hatfield is Nike&rsquo;s vice president of...",
+			"content_text": "Tinker Hatfield interview Tinker Hatfield is Nike’s vice president of...",
 			"date_published": "2013-08-11T13:41:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/11/tinker-hatfield-interview.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2013/08/10/091520.html",
-	      	
-			"content_text": "[vimeo 40980282 w=500 h=281] AeroPress “Ritual” by Sandwich Video -...",
-			"date_published": "2013-08-10T12:15:20+03:00",
-			"url": "https://micro.kaa.bz/2013/08/10/091520.html"
 		},
 		
 		{
@@ -5352,7 +5338,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/07/and-here-is.html",
 	      	
-			"content_text": "&lt;p&gt;And here is a 10 page preview of Paul Pope’s...",
+			"content_text": "And here is a 10 page preview of Paul Pope’s...",
 			"date_published": "2013-08-07T09:30:19+03:00",
 			"url": "https://micro.kaa.bz/2013/08/07/and-here-is.html"
 		},
@@ -5404,7 +5390,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/08/04/id-never-heard.html",
 	      	
-			"content_text": "&lt;p&gt;I’d never heard of Ilya Birman until this weekend. Forebruary...",
+			"content_text": "I’d never heard of Ilya Birman until this weekend. Forebruary...",
 			"date_published": "2013-08-04T15:40:00+03:00",
 			"url": "https://micro.kaa.bz/2013/08/04/id-never-heard.html"
 		},
@@ -5412,7 +5398,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/07/30/absolutely-love-this.html",
 	      	
-			"content_text": "&lt;p&gt;Absolutely love this image.&lt;/p&gt;\n",
+			"content_text": "\n\nAbsolutely love this image.\n",
 			"date_published": "2013-07-30T11:48:04+03:00",
 			"url": "https://micro.kaa.bz/2013/07/30/absolutely-love-this.html"
 		},
@@ -5510,7 +5496,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/07/03/115503.html",
 	      	
-			"content_text": "&lt;p&gt;I’d never heard of Limbo until today (strange since it...",
+			"content_text": "I’d never heard of Limbo until today (strange since it...",
 			"date_published": "2013-07-03T14:55:03+03:00",
 			"url": "https://micro.kaa.bz/2013/07/03/115503.html"
 		},
@@ -5548,7 +5534,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/07/02/sabine-pearlmans-site.html",
 	      	
-			"content_text": "&lt;p&gt;Sabine Pearlman’s site has a massive collection of the cross...",
+			"content_text": "Sabine Pearlman’s site has a massive collection of the cross...",
 			"date_published": "2013-07-02T08:10:07+03:00",
 			"url": "https://micro.kaa.bz/2013/07/02/sabine-pearlmans-site.html"
 		},
@@ -5586,7 +5572,7 @@
 		{
 			"id": "http://kaa.micro.blog/2013/06/13/when-i-was.html",
 	      	
-			"content_text": "&lt;p&gt;When I was a kid, I used to take my...",
+			"content_text": "When I was a kid, I used to take my...",
 			"date_published": "2013-06-14T01:36:00+03:00",
 			"url": "https://micro.kaa.bz/2013/06/14/when-i-was.html"
 		},
