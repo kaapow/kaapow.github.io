@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/11/sun-has-just.html",
+	      	
+			"content_html": "<p>Sun has just come up. The city is starting to fully wake up. I’m on my second cup of coffee and I’ve managed to read a decent amount from Ryan Holiday’s <em>Perennial Seller</em>. The one thing I’m lamenting this summer is not reading enough. Time to change that.</p>\n",
+			"date_published": "2018-08-11T06:29:47+03:00",
+			"url": "https://micro.kaa.bz/2018/08/11/sun-has-just.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/09/for-yourself.html",
 	      	
 			"title": "For yourself",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I didn’t know <em>The Economist</em> is also available for the <a href=\"https://www.economist.com/digital\">Kindle</a> (US, UK and Germany only). First month is free and then a pretty reasonable monthly price (for me in the Middle East that’s a 60% saving). Easily my favourite <strong>news</strong> publication.</p>\n",
 			"date_published": "2018-07-18T22:35:31+03:00",
 			"url": "https://micro.kaa.bz/2018/07/18/i-didnt-know.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/18/the-comics-journal.html",
-	      	
-			"content_html": "<p><em>The Comics Journal</em> is <a href=\"https://www.cbr.com/sdcc-fantagraphics-the-comics-journal-return/\">coming back</a> to print. That’s probably the best news I’ve heard in a good long while. Easily one of my most satisfying magazine publications and has been sorely missed these years.</p>\n",
-			"date_published": "2018-07-18T19:29:11+03:00",
-			"url": "https://micro.kaa.bz/2018/07/18/the-comics-journal.html"
 		}
 		
 	]
