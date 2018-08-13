@@ -1,11 +1,9 @@
 ---
 layout: post
-microblog: true
+title: "Lettering"
+microblog: false
 audio: 
 date: 2013-12-03 22:23:00 +0300
 guid: http://kaa.micro.blog/2013/12/03/gallery-lettering-in.html
 ---
-[gallery]
-<h2>Lettering</h2>
-
-<p>In creating <a href="http://moonracket.com">Moon Racket</a>, it was very clear to me early on that the lettering would have to be a character in itself. My initial attempts at lettering involved hand lettering, in the end I opted for some great fonts from the <a href="http://comicraft.com">Comicraft</a> library.</p>
+In creating <a href="http://moonracket.com">Moon Racket</a>, it was very clear to me early on that the lettering would have to be a character in itself. My initial attempts at lettering involved hand lettering, in the end I opted for some great fonts from the <a href="http://comicraft.com">Comicraft</a> library.
