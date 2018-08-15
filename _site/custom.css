@@ -37,13 +37,13 @@ body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
 div.e-content p { width: 100%;}
-li 									{ margin: 0;}
+li 									{ margin: 0; padding: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
 a:hover					  			{ color: var(--link-hover); border-bottom: 1px dotted var(--link-hover);}
 h1 									{ font-family: 'Archivo Narrow', san-serif; color: var(--title); font-size: 1.8rem; font-weight: 700;}
 h1 a 								{ color: var(--title); text-decoration:none;  border: none; font-weight: 700;}
-h2									{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em;}
+h2									{ font-family: 'Archivo Narrow', san-serif; font-size: 1.6em; margin: 3rem 0 0 0;}
 h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; color: var(--date);}
 .post__footer a, .copyright, .post__footer 		{ padding-top: 0.5rem; }
 .copyright 							{ line-height: 1.4rem; font-size: 1.0rem;}
@@ -73,8 +73,8 @@ ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
 ul.External li 						{ list-style-type: none;    display: inline;}
 footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg); }
 #search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 6rem 0 4rem 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
-nav.NavFooter ul 					{ list-style-type: none;   font-size: 1.4rem;       margin: 0;    padding: 0;}
-nav.NavFooter ul a					{ color: var(--bg);    font-size: 1.4rem;}
+nav.NavFooter ul 					{ list-style-type: none;        margin: 0;    padding: 0;}
+nav.NavFooter ul a					{ color: var(--bg);   }
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
 .NewCopyright 						{ color: var(--copyright);     margin: 8rem 0 2rem 0;    }
 img.Sig 							{ width: 225px;}    
@@ -91,6 +91,41 @@ body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content table 	{ margin: 20px auto; width: 90%;}
 .post--single img 					{max-width: 100%;}
 body.single main.main__content h1.p-name,  body.single main.main__content div#on-this-day div.post h1.p-name, body.single main.main__content div#on-this-day div.post h2.p-name {width:100%;}
+
+body.single main.main__content .post--single h2 {margin: 3rem 0 0 0 ; width: 100%;}
+
+.onoffswitch {
+    position: relative; width: 40px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    height: 21px; padding: 0; line-height: 21px;
+    border: 2px solid #E3E3E3; border-radius: 21px;
+    background-color: #FFFFFF;
+    transition: background-color 0.3s ease-in;
+}
+.onoffswitch-label:before {
+    content: "";
+    display: block; width: 21px; margin: 0px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 17px;
+    border: 2px solid #E3E3E3; border-radius: 21px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+    background-color: #194EEC;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
+   border-color: #194EEC;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    right: 0px; 
+}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
