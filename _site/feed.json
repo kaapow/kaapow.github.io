@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/15/a-holiday-is.html",
+	      	
+			"content_html": "<p>A holiday is a time to get your house in order.  With less demands on your attention, you can afford to spend some time to think a little about the future, all those issues and ideas you kept pushing back to a better time. That time is now.</p>\n",
+			"date_published": "2018-08-15T10:13:25+03:00",
+			"url": "https://micro.kaa.bz/2018/08/15/a-holiday-is.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/13/bar-tartine-in.html",
+	      	
+			"content_html": "<p>Bar Tartine in Zaytouna Bay was actually a really great spot for food.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/e1f87cac2c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-13T17:08:28+03:00",
+			"url": "https://micro.kaa.bz/2018/08/13/bar-tartine-in.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/13/shouf-biosphere-reserve.html",
+	      	
+			"title": "Shouf Biosphere Reserve",
+			
+			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/6986850d99.jpg\" width=\"600\" height=\"450\" /></p>\n\n<p>On the weekend we drove up to the Shouf Biosphere Reserve. The only regret I have is that we didn’t even come close to experiencing the true majesty of the place.</p>\n\n<p>I’m writing these things down to make the most out of any future visits as the human brain will forget everything eventually.</p>\n\n<h2 id=\"for-kids\">For Kids</h2>\n<p>Unfortunately I had shown Zane a picture of the ‘supposed’ turtles that can be found in the reserve…as a complete lover of animals (I’m pretty sure he gets this from his mother), the poor little guy spent his entire time trying to find one while he was there. So top tip, don’t show pictures of animals.</p>\n\n<p>My baby boy Ryan loved being surrounded by trees. Like absolutely loved it in a way only a baby can feel excited about something new and natural and pure, because it’s the closest thing to him in that sense.</p>\n\n<h2 id=\"graphics\">Graphics</h2>\n<p>I think the people behind the reserve have done a great job of the website and the overall information provided. The <a href=\"http://shoufcedar.org\">Shouf Cedar website</a> is probably one of the best site’s I’ve seen in Lebanon. Sure it’s a WordPress affair, but it’s done in a tasteful manner. Make sure to take the time and run through all the information on the site to make the most out of your trip.</p>\n\n<p>I genuinely liked the logo for the whole reserve and really loved the tickets you buy at the entrance to the reserve.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/f52372c95b.jpg\" width=\"600\" height=\"450\" /></p>\n\n<h2 id=\"entrances\">Entrances</h2>\n<p>We ended up going through the Barouk entrance. While a lovely entrance, clearly not the main entrance, which is the Massar. However, there are no less than six entrances:</p>\n\n<ol>\n  <li>Maassar El Chouf</li>\n  <li>Barouk</li>\n  <li>Ain Zhlata/Bmohray</li>\n  <li>Mrosti</li>\n  <li>Niha</li>\n  <li>Aammiq</li>\n</ol>\n\n<p>Here’s a handy map, that if you squint hard enough you’ll think is Lebanon, don’t be fooled (like I was the first time), that’s a map of the reserve itself. Once you get through the entrances, you have to travel around 5km into the reserve, park your car/bus and then you get to choose your hiking trail.</p>\n\n<h2 id=\"eating\">Eating</h2>\n<p><em>Obviously</em> don’t expect to be able to eat anywhere in the reserve. I honestly didn’t consider this clearly. My suggestion is to basically either bring a good old honest picnic with you and eat at the entrance of the actual reserve (there are picnic benches) with a great view.</p>\n\n<h2 id=\"signal\">Signal</h2>\n<p>Don’t expect any 3G/LTE signal while you’re up there. If you’re going to be dependant on technology to get you to places, make sure that it can work offline. The website lets you download GPS maps as well.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/ab0aab89f5.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-13T06:53:58+03:00",
+			"url": "https://micro.kaa.bz/2018/08/13/shouf-biosphere-reserve.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/11/sun-has-just.html",
 	      	
 			"content_html": "<p>Sun has just come up. The city is starting to fully wake up. I’m on my second cup of coffee and I’ve managed to read a decent amount from Ryan Holiday’s <em>Perennial Seller</em>. The one thing I’m lamenting this summer is not reading enough. Time to change that.</p>\n",
@@ -185,30 +211,6 @@
 			"content_html": "<p><a href=\"https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7\">Really excellent article</a> on common webpage design mistakes. I’m guilty as sin of vertical spacing atrocities and this served as a great reminder that this stuff matters if you care about flow and design.</p>\n",
 			"date_published": "2018-07-26T07:07:07+03:00",
 			"url": "https://micro.kaa.bz/2018/07/26/really-excellent-article.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/23/163428.html",
-	      	
-			"content_html": "<p>One of the nicest things about using Micro.blog is the fact that you get to see the regular progress the service makes, week on week. In many ways it reminds me when Feedbin was a new service. Things will settle down eventually. For now, it’s constant change!</p>\n",
-			"date_published": "2018-07-23T19:34:28+03:00",
-			"url": "https://micro.kaa.bz/2018/07/23/163428.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/22/i-truly-miss.html",
-	      	
-			"content_html": "<p>I truly miss the excitement and wonder that comes with moving to a new place. The discoveries that are available to you. The norms and food that is different. The lives that have existed and will continue to exist past your brief visit. It’s been a long time since I’ve felt that.</p>\n",
-			"date_published": "2018-07-22T18:44:00+03:00",
-			"url": "https://micro.kaa.bz/2018/07/22/i-truly-miss.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/18/i-didnt-know.html",
-	      	
-			"content_html": "<p>I didn’t know <em>The Economist</em> is also available for the <a href=\"https://www.economist.com/digital\">Kindle</a> (US, UK and Germany only). First month is free and then a pretty reasonable monthly price (for me in the Middle East that’s a 60% saving). Easily my favourite <strong>news</strong> publication.</p>\n",
-			"date_published": "2018-07-18T22:35:31+03:00",
-			"url": "https://micro.kaa.bz/2018/07/18/i-didnt-know.html"
 		}
 		
 	]
