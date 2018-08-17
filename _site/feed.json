@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/17/073017.html",
+	      	
+			"content_html": "<p>Love this little olive tree.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/2dd1956bef.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-17T10:30:17+03:00",
+			"url": "https://micro.kaa.bz/2018/08/17/073017.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/15/been-looking-for.html",
+	      	
+			"content_html": "<p>Been looking for a replacement calculator for a while now. This simple <a href=\"https://www.kickstarter.com/projects/142504465/digit-calculator-your-first-retro-mechanical-calcu/description\">Digit Calculator</a> might be what I’m looking for.</p>\n",
+			"date_published": "2018-08-15T19:42:25+03:00",
+			"url": "https://micro.kaa.bz/2018/08/15/been-looking-for.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/15/145819.html",
+	      	
+			"content_html": "<p>View for the next few days.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/8be63c8504.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-15T17:58:19+03:00",
+			"url": "https://micro.kaa.bz/2018/08/15/145819.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/15/a-holiday-is.html",
 	      	
 			"content_html": "<p>A holiday is a time to get your house in order.  With less demands on your attention, you can afford to spend some time to think a little about the future, all those issues and ideas you kept pushing back to a better time. That time is now.</p>\n",
@@ -187,30 +211,6 @@
 			"content_html": "<p>One of the single most powerful things that I hope to teach my kids, is to understand and appreciate the concept of consistent &amp; incremental. This applies to aspects of themselves and in everything around them. As long as you <strong>increment</strong> on a thing you’re working on and <strong>consistently</strong> show up every day you will eventually see results.</p>\n\n<p>The hardest part is to percevier in the face of no visible improvement and keep moving forward. Set your course because you know it is true and try and remain on it.</p>\n",
 			"date_published": "2018-07-27T06:17:44+03:00",
 			"url": "https://micro.kaa.bz/2018/07/27/consistent-incremental.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/26/just-watched-logan.html",
-	      	
-			"content_html": "<p>🎥 Just watched <em>Logan</em>. It’s obviously not as a great as the comic <em>Old Man Logan</em>, which for licensing reasons obviously couldn’t bring all the characters together, it definitely stands as one of the best X-men movies made.</p>\n",
-			"date_published": "2018-07-26T20:48:47+03:00",
-			"url": "https://micro.kaa.bz/2018/07/26/just-watched-logan.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/26/a-story-of.html",
-	      	
-			"content_html": "<p>A story of two tickets. On the left is a ticket left under the windscreen of a car with 30% tinting. On the right, 0% tinting. 😱</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/33c7cda89e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-26T08:11:32+03:00",
-			"url": "https://micro.kaa.bz/2018/07/26/a-story-of.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/07/26/really-excellent-article.html",
-	      	
-			"content_html": "<p><a href=\"https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7\">Really excellent article</a> on common webpage design mistakes. I’m guilty as sin of vertical spacing atrocities and this served as a great reminder that this stuff matters if you care about flow and design.</p>\n",
-			"date_published": "2018-07-26T07:07:07+03:00",
-			"url": "https://micro.kaa.bz/2018/07/26/really-excellent-article.html"
 		}
 		
 	]
