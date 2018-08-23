@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/22/trumps-fall-my.html",
+	      	
+			"content_html": "<p><a href=\"http://prospect.org/article/trumps-fall-end-game\">Trump’s Fall</a> - My favourite part of this was definitely the Ernest Hemingway quote which I’ve used many times myself. I do think Kuttner is overtly optimistic, but you know, stranger things have happened -  like Trump winning for example.</p>\n",
+			"date_published": "2018-08-22T17:34:58+03:00",
+			"url": "https://micro.kaa.bz/2018/08/22/trumps-fall-my.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/21/what-really-happens.html",
 	      	
 			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=_6xlNyWPpB8\">What really happens to the plastic you throw away</a> is both depressing and the necessary jolt many of us need to take action for ourselves and our children.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/dbc54f2f76.jpg\" width=\"600\" height=\"354\" /></p>\n",
 			"date_published": "2018-08-04T09:52:55+03:00",
 			"url": "https://micro.kaa.bz/2018/08/04/065255.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/03/082320.html",
-	      	
-			"content_html": "<p>It’s been a great long while since I’ve drawn anything. I’ve effectively given up on creating comics for the time being and concentrating on something else for a while. I am missing the <em>act</em> of drawing so I’ve decided to lower the barrier of entry a little to create a new habit.</p>\n",
-			"date_published": "2018-08-03T11:23:20+03:00",
-			"url": "https://micro.kaa.bz/2018/08/03/082320.html"
 		}
 		
 	]
