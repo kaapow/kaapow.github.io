@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-08-04 15:40:00 +0300
+date: 2013-08-04 16:40:00 +0400
 guid: http://kaa.micro.blog/2013/08/04/id-never-heard.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/f14441e839.jpg" alt="" width="840" height="463" class="alignnone size-full wp-image-600" />
