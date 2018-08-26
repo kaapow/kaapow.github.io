@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-08-07 09:30:19 +0300
+date: 2013-08-07 10:30:19 +0400
 guid: http://kaa.micro.blog/2013/08/07/and-here-is.html
 ---
 <img src="https://micro.kaa.bz/uploads/2018/cbec48886c.jpg" alt="" width="840" height="1190" class="alignnone size-full wp-image-584" />
