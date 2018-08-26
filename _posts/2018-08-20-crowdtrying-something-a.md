@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-20 12:57:48 +0300
+date: 2018-08-20 13:57:48 +0400
 guid: http://kaa.micro.blog/2018/08/20/crowdtrying-something-a.html
 ---
 🎨 006 - Crowd
