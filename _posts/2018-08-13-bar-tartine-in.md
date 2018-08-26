@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-13 17:08:28 +0300
+date: 2018-08-13 18:08:28 +0400
 guid: http://kaa.micro.blog/2018/08/13/bar-tartine-in.html
 ---
 Bar Tartine in Zaytouna Bay was actually a really great spot for food.
