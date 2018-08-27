@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/26/after-declaring-tidy.html",
+	      	
+			"content_html": "<p>After declaring tidy office bankrupcy, I’ve managed to get back on track. I realised that I really need to Konmari the hell out of my office. Letting go of this stuff is the hardest but I know that it’s the ideal way to help gather my thoughts and focus my mind and attention.</p>\n",
+			"date_published": "2018-08-26T21:33:00+04:00",
+			"url": "https://micro.kaa.bz/2018/08/26/after-declaring-tidy.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/25/publii-is-a.html",
+	      	
+			"content_html": "<p><a href=\"https://getpublii.com\">Publii is a static-website-building tool</a>. Scary rabbit hole to fall into. Looks exceptionally well polished and documented for an open source project that I’ve never heard of. Also, the themes are excellent - <a href=\"https://getpublii.com/themes/demo/mercury/4/\">Mercury</a> for photos looks great.</p>\n",
+			"date_published": "2018-08-25T20:47:34+04:00",
+			"url": "https://micro.kaa.bz/2018/08/25/publii-is-a.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/25/i-started-wearing.html",
+	      	
+			"content_html": "<p>I started wearing the <em>Mi Band 2</em>, 4 months ago and found it to be one of the best fitness trackers I’ve ever purchased. Apart from a small glitch once it’s performed exactly as expected. Now that I have a decent data set, it’s time to change my habits to extract some benefit.</p>\n",
+			"date_published": "2018-08-25T17:23:00+04:00",
+			"url": "https://micro.kaa.bz/2018/08/25/i-started-wearing.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/25/we-are-now.html",
+	      	
+			"content_html": "<p>We are now well and truly back in Dubai. It’s funny travelling around town yesterday you could see a number of cars in the exact same state of complete dust cover after being disused for several weeks/months over the summer.</p>\n",
+			"date_published": "2018-08-25T07:29:17+04:00",
+			"url": "https://micro.kaa.bz/2018/08/25/we-are-now.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/24/i-genuinely-thought.html",
+	      	
+			"content_html": "<p>I genuinely thought I’d watched all of <em>Chef’s Table</em>. Somehow I’d missed the one for Alex Atala. If you’ve not had a chance to watch it, I put this up there with the one about Francis Mallmann (that crazy chef from Patagonia). Maybe I just really love South American chefs.</p>\n",
+			"date_published": "2018-08-24T23:11:24+04:00",
+			"url": "https://micro.kaa.bz/2018/08/24/i-genuinely-thought.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/24/oh-man-that.html",
 	      	
 			"content_html": "<p>Oh man that was fast. So today I went to buy some vitamins (wife’s been hounding me to get <em>New Chapter</em>) and the guy behind the till asked me what my age was as I might want to buy the +40 kind instead…dude couldn’t you have given me a few days before slamming me with that.</p>\n",
@@ -167,46 +207,6 @@
 			"content_html": "<p>With a whole 10 minutes of using iOS 12, I can already tell it’s a <a href=\"https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard\">Snow Leapard</a> type of update. Subtle but useful features with the main story hidden under the hood making everything more snappy and pleasant to use.</p>\n",
 			"date_published": "2018-08-08T11:20:56+04:00",
 			"url": "https://micro.kaa.bz/2018/08/08/with-a-whole.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/08/022118.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/51e7b179ce.jpg\" width=\"600\" height=\"360\" /></p>\n",
-			"date_published": "2018-08-08T06:21:18+04:00",
-			"url": "https://micro.kaa.bz/2018/08/08/022118.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/07/034848.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/6d2353d1e7.jpg\" width=\"600\" height=\"360\" /></p>\n",
-			"date_published": "2018-08-07T07:48:48+04:00",
-			"url": "https://micro.kaa.bz/2018/08/07/034848.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/06/yes-its-ridiculously.html",
-	      	
-			"content_html": "<p>Yes it’s ridiculously hot and I’m an idiot but damn if this isn’t the best work out I’ve had in months.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/153b722477.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-06T21:35:44+04:00",
-			"url": "https://micro.kaa.bz/2018/08/06/yes-its-ridiculously.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/06/032015.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/d8cf61fc64.jpg\" width=\"600\" height=\"360\" /></p>\n",
-			"date_published": "2018-08-06T07:20:15+04:00",
-			"url": "https://micro.kaa.bz/2018/08/06/032015.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/05/030519.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/cb1a1c5fed.jpg\" width=\"600\" height=\"360\" /></p>\n",
-			"date_published": "2018-08-05T07:05:19+04:00",
-			"url": "https://micro.kaa.bz/2018/08/05/030519.html"
 		}
 		
 	]
