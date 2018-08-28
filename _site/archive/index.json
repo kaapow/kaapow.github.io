@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/27/inspired-by-the.html",
+	      	
+			"content_text": "Inspired by the latest @Micromonday episode, a huge dive into...",
+			"date_published": "2018-08-27T21:03:38+04:00",
+			"url": "https://micro.kaa.bz/2018/08/27/inspired-by-the.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/27/its-always-a.html",
+	      	
+			"content_text": "It’s always a joy when I receive an email from...",
+			"date_published": "2018-08-27T06:56:48+04:00",
+			"url": "https://micro.kaa.bz/2018/08/27/its-always-a.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/26/after-declaring-tidy.html",
 	      	
 			"content_text": "After declaring tidy office bankrupcy, I’ve managed to get back...",
