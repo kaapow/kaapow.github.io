@@ -6,11 +6,21 @@
 	"items": [
 		
 		{
-			"id": "http://kaa.micro.blog/2018/08/27/inspired-by-the.html",
+			"id": "http://kaa.micro.blog/2018/08/28/plastic.html",
 	      	
-			"content_html": "<p>Inspired by the latest @Micromonday episode, a huge dive into the discover section, ended following 20 new people. The number of people on Micro.blog is growing fast…however it is harder to settle on who to follow as their interests are less easy to idenfity.</p>\n",
-			"date_published": "2018-08-27T21:03:38+04:00",
-			"url": "https://micro.kaa.bz/2018/08/27/inspired-by-the.html"
+			"title": "Plastic",
+			
+			"content_html": "<p>The plastic I use in my life is really starting to grate on me in a bad way. To me it signals a lack of progress, in many ways, for a race who excells at creating problems and then solving them. The <a href=\"https://www.hellointernet.fm/podcast/hi-107-one-year-of-weird\">latest episode</a> of <em>Hello Internet</em> highlighted that we still have a long way to go.</p>\n\n<p>In it CGP Grey claims that the UK government reviewed the impact of plastic bags when compared to other kinds of bags and that the cloth totes require 20,000 uses to become more sustainable. The document he was probably referring to was <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/291023/scho0711buan-e-e.pdf\">this one here</a>, from the executive summary a very handy table is given:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Type of carrier</th>\n      <th>HDPE bag (No secondary reuse)</th>\n      <th>HDPE bag (40.3% reused as bin liners)</th>\n      <th>HDPE bag (100% reused as bin liners)</th>\n      <th>HDPE bag (Used 3 times)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Paper bag</td>\n      <td>3</td>\n      <td>4</td>\n      <td>7</td>\n      <td>9</td>\n    </tr>\n    <tr>\n      <td>LDPE bag</td>\n      <td>4</td>\n      <td>5</td>\n      <td>9</td>\n      <td>12</td>\n    </tr>\n    <tr>\n      <td>Non-woven PP bag</td>\n      <td>11</td>\n      <td>14</td>\n      <td>26</td>\n      <td>33</td>\n    </tr>\n    <tr>\n      <td>Cotton bag</td>\n      <td>131</td>\n      <td>173</td>\n      <td>327</td>\n      <td>393</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Sure, still a decent number of times that each type of bag needs to be reused, but a far cry from 20,000. I certainly use my bags at least 100 times a year, and have had them for 3 1/2 years so far….they could last for <strong>many many</strong> years to come.</p>\n",
+			"date_published": "2018-08-28T13:36:20+04:00",
+			"url": "https://micro.kaa.bz/2018/08/28/plastic.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/28/the-full-hobonichi.html",
+	      	
+			"content_html": "<p>The full Hobonichi Techo 2019 lineup is <a href=\"https://www.1101.com/store/techo/en/\">now live</a>. I’m going for the Weeks Mega (for work) and an A6 Planner for life. I tend to like having more space to write, but having dates actually keep me coming back to fill them more regularly, compared with my current setup.</p>\n",
+			"date_published": "2018-08-28T08:02:35+04:00",
+			"url": "https://micro.kaa.bz/2018/08/28/the-full-hobonichi.html"
 		},
 		
 		{
@@ -199,14 +209,6 @@
 			"content_html": "<p>While it’s easy to fall into the trap of thinking that you’re writing on your website for the ‘internet’, the truth of the matter is that you’re actually writing these things and obsessing about it’s design primarily and sometimes exclusively for yourself.</p>\n\n<p>These words are a snapshot in time. Of where you were and what you were doing. They might be reflections on what happened in your day or what’s currently captured your imagination.</p>\n\n<p>Why not just write this in a journal you say? Because ‘publishing’ something on a site provides a level of finality. A level of accomplishment that a mere text file in a folder, or a journal entry in your notebook doesn’t provide. Not that there is anything wrong with either of those approaches, rather the online published version is <em>different</em>.</p>\n\n<p>One of my favourite new feature/plugins on <a href=\"http://micro.blog\">Micro.blog</a> is ability to <a href=\"https://github.com/cleverdevil/micromemories\">create an ‘on-this-day’ page</a> that collects your past posts that happened….erm, on this day.</p>\n\n<p>The reason it’s so great is that it’s another clear tool, made for you. It’s made to allow you to reflect on what you’ve written in the past and what you were thinking 1, 2, 3 or more years ago. If you’re not <em>using</em> this feature, then you’re missing out on one of the joys about blogging, which is reflecting on what you’ve written.</p>\n",
 			"date_published": "2018-08-09T19:35:22+04:00",
 			"url": "https://micro.kaa.bz/2018/08/09/for-yourself.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/09/part-of-the.html",
-	      	
-			"content_html": "<p>Part 2 of the summer holidays begins. Breaking things up in this manner has been an interesting experiment in the psychology of anticipation. It has made the summer pass by faster, which is usually a protracted affair in the Gulf, where it’s hot (very hot) and dusty.</p>\n",
-			"date_published": "2018-08-09T18:15:46+04:00",
-			"url": "https://micro.kaa.bz/2018/08/09/part-of-the.html"
 		}
 		
 	]
