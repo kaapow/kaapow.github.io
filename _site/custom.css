@@ -53,7 +53,7 @@ h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; c
 .footer--single						{ text-align: left;}
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
-table 								{ width: 100%; margin-bottom:20px;}
+table 								{ width: 100%; margin:20px 0;}
 thead								{ font-weight: 700; background-color: var(--thread); color: white; border-top: 1px solid var(--table-line);}
 th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px; line-height: 1.8em;}
 tr:nth-child(even)	 				{ background-color: var(--table);}
@@ -81,14 +81,14 @@ img.Sig 							{ width: 225px;}
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
 section.AboutFooter a 				{ color:var(--header);}
 body.single section.AboutFooter img { display: inline;}
-body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
+body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote, body.single main.main__content table 							{ width: 100%;}
 
 body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content h3 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 0 auto;}
 
 body.single main.main__content h1   { margin: 6rem auto 0 auto; width: 90%;}
 body.single main.main__content h2   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
-body.single main.main__content table 	{ margin: 20px auto; width: 90%;}
+body.single main.main__content table 	{ margin: 20px auto; }
 .post--single img 					{max-width: 100%;}
 body.single main.main__content h1.p-name,  body.single main.main__content div#on-this-day div.post h1.p-name, body.single main.main__content div#on-this-day div.post h2.p-name {width:100%;}
 
