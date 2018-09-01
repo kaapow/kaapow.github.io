@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/08/30/finally-pressed-the.html",
+	      	
+			"content_html": "<p>Finally pressed the trigger on a particular part of my latest project - this is a long term endeavour but it begins with this very small step. I’ll be <strong>hammering</strong> through some details over the weekend and hopefully try and release it out into the big bad world soon.</p>\n",
+			"date_published": "2018-08-30T07:05:25+04:00",
+			"url": "https://micro.kaa.bz/2018/08/30/finally-pressed-the.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/08/29/paul-turned-me.html",
+	      	
+			"content_html": "<p>Paul turned me onto Russell Brand’s podcast <a href=\"https://www.russellbrand.com/podcasts/\">Under The Skin</a>. I’m halfway through episode 03 with Adam Curtis and have the same feeling I do when I get through an issue of the Economist. Even Brand’s accent (not a fan) can’t hide the smartness and thoughtfulness on display.</p>\n",
+			"date_published": "2018-08-29T18:42:39+04:00",
+			"url": "https://micro.kaa.bz/2018/08/29/paul-turned-me.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/08/28/plastic.html",
 	      	
 			"title": "Plastic",
@@ -191,24 +207,6 @@
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/6986850d99.jpg\" width=\"600\" height=\"450\" /></p>\n\n<p>On the weekend we drove up to the Shouf Biosphere Reserve. The only regret I have is that we didn’t even come close to experiencing the true majesty of the place.</p>\n\n<p>I’m writing these things down to make the most out of any future visits as the human brain will forget everything eventually.</p>\n\n<h2 id=\"for-kids\">For Kids</h2>\n<p>Unfortunately I had shown Zane a picture of the ‘supposed’ turtles that can be found in the reserve…as a complete lover of animals (I’m pretty sure he gets this from his mother), the poor little guy spent his entire time trying to find one while he was there. So top tip, don’t show pictures of animals.</p>\n\n<p>My baby boy Ryan loved being surrounded by trees. Like absolutely loved it in a way only a baby can feel excited about something new and natural and pure, because it’s the closest thing to him in that sense.</p>\n\n<h2 id=\"graphics\">Graphics</h2>\n<p>I think the people behind the reserve have done a great job of the website and the overall information provided. The <a href=\"http://shoufcedar.org\">Shouf Cedar website</a> is probably one of the best site’s I’ve seen in Lebanon. Sure it’s a WordPress affair, but it’s done in a tasteful manner. Make sure to take the time and run through all the information on the site to make the most out of your trip.</p>\n\n<p>I genuinely liked the logo for the whole reserve and really loved the tickets you buy at the entrance to the reserve.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/f52372c95b.jpg\" width=\"600\" height=\"450\" /></p>\n\n<h2 id=\"entrances\">Entrances</h2>\n<p>We ended up going through the Barouk entrance. While a lovely entrance, clearly not the main entrance, which is the Massar. However, there are no less than six entrances:</p>\n\n<ol>\n  <li>Maassar El Chouf</li>\n  <li>Barouk</li>\n  <li>Ain Zhlata/Bmohray</li>\n  <li>Mrosti</li>\n  <li>Niha</li>\n  <li>Aammiq</li>\n</ol>\n\n<p>Here’s a handy map, that if you squint hard enough you’ll think is Lebanon, don’t be fooled (like I was the first time), that’s a map of the reserve itself. Once you get through the entrances, you have to travel around 5km into the reserve, park your car/bus and then you get to choose your hiking trail.</p>\n\n<h2 id=\"eating\">Eating</h2>\n<p><em>Obviously</em> don’t expect to be able to eat anywhere in the reserve. I honestly didn’t consider this clearly. My suggestion is to basically either bring a good old honest picnic with you and eat at the entrance of the actual reserve (there are picnic benches) with a great view.</p>\n\n<h2 id=\"signal\">Signal</h2>\n<p>Don’t expect any 3G/LTE signal while you’re up there. If you’re going to be dependant on technology to get you to places, make sure that it can work offline. The website lets you download GPS maps as well.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/ab0aab89f5.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-13T07:53:58+04:00",
 			"url": "https://micro.kaa.bz/2018/08/13/shouf-biosphere-reserve.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/11/sun-has-just.html",
-	      	
-			"content_html": "<p>Sun has just come up. The city is starting to fully wake up. I’m on my second cup of coffee and I’ve managed to read a decent amount from Ryan Holiday’s <em>Perennial Seller</em>. The one thing I’m lamenting this summer is not reading enough. Time to change that.</p>\n",
-			"date_published": "2018-08-11T07:29:47+04:00",
-			"url": "https://micro.kaa.bz/2018/08/11/sun-has-just.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/09/for-yourself.html",
-	      	
-			"title": "For yourself",
-			
-			"content_html": "<p>While it’s easy to fall into the trap of thinking that you’re writing on your website for the ‘internet’, the truth of the matter is that you’re actually writing these things and obsessing about it’s design primarily and sometimes exclusively for yourself.</p>\n\n<p>These words are a snapshot in time. Of where you were and what you were doing. They might be reflections on what happened in your day or what’s currently captured your imagination.</p>\n\n<p>Why not just write this in a journal you say? Because ‘publishing’ something on a site provides a level of finality. A level of accomplishment that a mere text file in a folder, or a journal entry in your notebook doesn’t provide. Not that there is anything wrong with either of those approaches, rather the online published version is <em>different</em>.</p>\n\n<p>One of my favourite new feature/plugins on <a href=\"http://micro.blog\">Micro.blog</a> is ability to <a href=\"https://github.com/cleverdevil/micromemories\">create an ‘on-this-day’ page</a> that collects your past posts that happened….erm, on this day.</p>\n\n<p>The reason it’s so great is that it’s another clear tool, made for you. It’s made to allow you to reflect on what you’ve written in the past and what you were thinking 1, 2, 3 or more years ago. If you’re not <em>using</em> this feature, then you’re missing out on one of the joys about blogging, which is reflecting on what you’ve written.</p>\n",
-			"date_published": "2018-08-09T19:35:22+04:00",
-			"url": "https://micro.kaa.bz/2018/08/09/for-yourself.html"
 		}
 		
 	]
