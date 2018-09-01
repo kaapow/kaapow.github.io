@@ -1,34 +1,35 @@
-/* Dark Mode - Version 1.1 
-Last Update: 28th August 2018.
+/* 
+micro.kaa.bz Version 1.0
+Used Primrose as a base. 
+Last Update: 27th July 2018.
 */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
 
 :root {
---bg: #262E37;
---text: #A6AAAE;
---site-name: #A6AAAE;
---link: #dddddd;
---link-hover: #297296;
---date: #727B85;
---table: #232A33;
---table-line: #1F1F1F;
---thread: #1D2229;
---title: #297296;
---header:  #fff;
---copyright: #82ABBF;
+--bg: #fafafa;
+--text: #3b3b3b;
+--site-name: #3b3b3b;
+--link: #053ef4;
+--link-hover: #789AF6;
+--date: #d1d1d1;
+--table:#DFE5F8;
+--table-line: #3b3b3b;
+--thread: #053ef4; 
+--title: #FC5169;
+--header:  #9DB4F6;
+--copyright: #789AF6;
 }
-
 
 /* Hide the Header elements.*/
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
-main 								{ background: url(http://www.kaa.bz/_images/gradbottomdark.png) repeat-x  var(--bg) bottom;  padding-bottom: 6rem;}
-.header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/_images/gradtopdark.png") repeat;  }
+main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 6rem;}
+.header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
 .posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
-body,  body.single					{ background-color: var(--link-hover); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
+body,  body.single					{ background-color: var(--link); color: var(--text); font-family: 'Merriweather', serif;  font-feature-settings: "liga" 1; -webkit-font-feature-settings: 'liga' 1;}
 .site__page 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none;  color: var(--link); font-weight: 600; font-feature-settings: "smcp" 1; font-size: 1.5rem;}
 .header a:hover 					{ border-bottom:none;}
 body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
@@ -53,7 +54,7 @@ h3, h4	    						{ font-family: 'Archivo Narrow', san-serif; font-size: 1.4em; c
 .footer--single						{ text-align: left;}
 .post:not(:last-of-type) 			{ border-bottom: none; margin-bottom: 3rem; padding-bottom: 3rem;}
 .single								{ min-height:0;}
-table 								{ width: 100%; margin:20px 0;}
+table 								{ width: 100%; margin-bottom:20px;}
 thead								{ font-weight: 700; background-color: var(--thread); color: white; border-top: 1px solid var(--table-line);}
 th, td 								{ border-bottom: 1px solid var(--table-line); padding: 10px 0 10px 5px; line-height: 1.8em;}
 tr:nth-child(even)	 				{ background-color: var(--table);}
@@ -70,29 +71,61 @@ ul.External 						{ margin-top: 6rem;}
 ul.External li a img 				{ height: 33px;    list-style-type: none;   vertical-align:middle;}
 ul.External li.MoonRacket a img 	{ height: 80px;	vertical-align: middle;}
 ul.External li 						{ list-style-type: none;    display: inline;}
-footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--text); }
+footer.Newfooter 					{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; color: var(--bg); }
 #search input 						{ font-family: 'Archivo Narrow', san-serif; border-bottom: none; width: 100%; height: 30px; margin: 6rem 0 4rem 0; padding: 0 0 0 10px; font-size: 1.2rem; font-weight: 700; color: var(--date); border: 1px solid var(--copyright);}
 nav.NavFooter ul 					{ list-style-type: none;        margin: 0;    padding: 0;}
-nav.NavFooter ul a					{ color: var(--header);   }
-nav.NavFooter ul a:hover					{ color: var(--link);   }
+nav.NavFooter ul a					{ color: var(--bg);   }
 nav.NavFooter 						{ float: none;    width: 90%;    text-align: left; margin: 0 0 40px 0;}
 .NewCopyright 						{ color: var(--copyright);     margin: 8rem 0 2rem 0;    }
 img.Sig 							{ width: 225px;}    
 section.AboutFooter 				{ width: 90%;    overflow: hidden;    float: none; color: var(--copyright);}
-section.AboutFooter a 				{ color:var(--header);}
+section.AboutFooter a 				{ color:var(--bg);}
 body.single section.AboutFooter img { display: inline;}
-body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote, body.single main.main__content table 							{ width: 100%;}
+body.single main.main__content article.post--single.h-entry div.e-content p, body.single main.main__content article.post--single.h-entry div.e-content blockquote 							{ width: 100%;}
 
 body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content h3 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 0 auto;}
 
 body.single main.main__content h1   { margin: 6rem auto 0 auto; width: 90%;}
 body.single main.main__content h2   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
-body.single main.main__content table 	{ margin: 20px auto; }
+body.single main.main__content table 	{ margin: 20px auto; width: 90%;}
 .post--single img 					{max-width: 100%;}
 body.single main.main__content h1.p-name,  body.single main.main__content div#on-this-day div.post h1.p-name, body.single main.main__content div#on-this-day div.post h2.p-name {width:100%;}
 
 body.single main.main__content .post--single h2 {margin: 3rem 0 0 0 ; width: 100%;}
+
+.onoffswitch {
+    position: relative; width: 40px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    height: 21px; padding: 0; line-height: 21px;
+    border: 2px solid #E3E3E3; border-radius: 21px;
+    background-color: #FFFFFF;
+    transition: background-color 0.3s ease-in;
+}
+.onoffswitch-label:before {
+    content: "";
+    display: block; width: 21px; margin: 0px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 17px;
+    border: 2px solid #E3E3E3; border-radius: 21px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+    background-color: #194EEC;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
+   border-color: #194EEC;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    right: 0px; 
+}
 
 /*Responsive design - effective only for large screens.*/
 @media only screen and (min-width:34rem) {
@@ -112,5 +145,5 @@ ul.External li.MoonRacket a img 	{ height: 5rem;}
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-.header 							{ background: url("http://www.kaa.bz/_images/gradtopdark.png") repeat; border-top: 1px solid var(--link-hover);}
+.header 							{ background: url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  border-top: 1px solid var(--link);}
 }
