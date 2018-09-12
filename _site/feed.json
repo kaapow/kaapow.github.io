@@ -6,9 +6,33 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/11/learning-how-to.html",
+	      	
+			"content_html": "<p>Learning how to draw and sketch in ways different to what I’m used to. First up, cars!\n<img src=\"http://micro.kaa.bz/uploads/2018/1a90bf8f47.jpg\" alt=\"7212DF3B-1240-4CCB-B322-80922D3880DC.jpg\" /></p>\n",
+			"date_published": "2018-09-11T19:01:58+04:00",
+			"url": "https://micro.kaa.bz/2018/09/11/learning-how-to.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/11/fell-down-a.html",
+	      	
+			"content_html": "<p>Fell down a <em>massive</em> hole that is <a href=\"https://www.udemy.com\">Udemy</a>. Never heard of it before and stumbled on it by accident while looking for resources for sketching like an architect. Found a great <a href=\"https://www.udemy.com/sketch-like-an-architect/\">course</a> and then proceeded to buy a whole bunch more.</p>\n",
+			"date_published": "2018-09-11T06:44:10+04:00",
+			"url": "https://micro.kaa.bz/2018/09/11/fell-down-a.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/08/so-the-wife.html",
+	      	
+			"content_html": "<p>🎥 So the wife and I finally watched a movie together. We settled on <em>Tully</em>. Great movie. It will hit different people in different ways. It hit my wife the hardest being a mother of a 4 year old and 8 month old. Diablo Codi is one of my favourite writers in Hollywood.</p>\n",
+			"date_published": "2018-09-08T06:55:22+04:00",
+			"url": "https://micro.kaa.bz/2018/09/08/so-the-wife.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/07/hadnt-realised-the.html",
 	      	
-			"content_html": "<p>Hadn’t realised the <a href=\"https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/09/06/japan-under-siege-first-came-its-worst-typhoon-in-25-years-then-deadly-landslides/?noredirect=on&amp;utm_term=.53a1f6eef71e\">extent of the destruction</a> on Japan this summer. I have a huge soft spot in my mind and heart for the country. I truly wish them the best in what seems to be a <a href=\"https://www.washingtonpost.com/world/asia_pacific/japans-deadly-summer-floods-typhoons-earthquakes-heat/2018/09/06/e6edc320-b1ab-11e8-8b53-50116768e499_story.html?utm_term=.20d66ac5678f\">never ending assault</a> of natural disasters.</p>\n",
+			"content_html": "<p>🇯🇵 Hadn’t realised the <a href=\"https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/09/06/japan-under-siege-first-came-its-worst-typhoon-in-25-years-then-deadly-landslides/?noredirect=on&amp;utm_term=.53a1f6eef71e\">extent of the destruction</a> on Japan this summer. I have a huge soft spot in my mind and heart for the country. I truly wish them the best in what seems to be a <a href=\"https://www.washingtonpost.com/world/asia_pacific/japans-deadly-summer-floods-typhoons-earthquakes-heat/2018/09/06/e6edc320-b1ab-11e8-8b53-50116768e499_story.html?utm_term=.20d66ac5678f\">never ending assault</a> of natural disasters.</p>\n",
 			"date_published": "2018-09-07T19:53:47+04:00",
 			"url": "https://micro.kaa.bz/2018/09/07/hadnt-realised-the.html"
 		},
@@ -32,7 +56,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/09/05/a-month-ago.html",
 	      	
-			"content_html": "<p>A month ago I went to the basketball court and nearly <strong>died</strong> from the humidity. Which idiot decides to go play bball when it’s 95% humidity? This idiot. <em>Anyway</em>, today attempted the same thing again and can happily confirm that the worst is behind us and it’s now bball weather.</p>\n",
+			"content_html": "<p>🏀 A month ago I went to the basketball court and nearly <strong>died</strong> from the humidity. Which idiot decides to go play bball when it’s 95% humidity? This idiot. <em>Anyway</em>, today attempted the same thing again and can happily confirm that the worst is behind us and it’s now bball weather.</p>\n",
 			"date_published": "2018-09-05T21:23:45+04:00",
 			"url": "https://micro.kaa.bz/2018/09/05/a-month-ago.html"
 		},
@@ -181,30 +205,6 @@
 			"content_html": "<p>We are now well and truly back in Dubai. It’s funny travelling around town yesterday you could see a number of cars in the exact same state of complete dust cover after being disused for several weeks/months over the summer.</p>\n",
 			"date_published": "2018-08-25T07:29:17+04:00",
 			"url": "https://micro.kaa.bz/2018/08/25/we-are-now.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/24/i-genuinely-thought.html",
-	      	
-			"content_html": "<p>I genuinely thought I’d watched all of <em>Chef’s Table</em>. Somehow I’d missed the one for Alex Atala. If you’ve not had a chance to watch it, I put this up there with the one about Francis Mallmann (that crazy chef from Patagonia). Maybe I just really love South American chefs.</p>\n",
-			"date_published": "2018-08-24T23:11:24+04:00",
-			"url": "https://micro.kaa.bz/2018/08/24/i-genuinely-thought.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/24/oh-man-that.html",
-	      	
-			"content_html": "<p>Oh man that was fast. So today I went to buy some vitamins (wife’s been hounding me to get <em>New Chapter</em>) and the guy behind the till asked me what my age was as I might want to buy the +40 kind instead…dude couldn’t you have given me a few days before slamming me with that.</p>\n",
-			"date_published": "2018-08-24T17:25:43+04:00",
-			"url": "https://micro.kaa.bz/2018/08/24/oh-man-that.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/23/years-old-today.html",
-	      	
-			"content_html": "<p>39 years old today. Where did the time go? On this day I always mentally taken stock of where I am and where I’m heading. Priorities change, attention and focus shifts. Having said that I’m super excited about the year ahead and the clear (and achievable) targets I’ve set myself.</p>\n",
-			"date_published": "2018-08-23T08:12:03+04:00",
-			"url": "https://micro.kaa.bz/2018/08/23/years-old-today.html"
 		}
 		
 	]
