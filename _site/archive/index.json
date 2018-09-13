@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Khaled Abou Alfa",
+	"icon": "https://micro.blog/kaa/avatar.jpg",
 	"home_page_url": "https://micro.kaa.bz/",
 	"feed_url": "https://micro.kaa.bz/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/13/because-one-sketch.html",
+	      	
+			"content_text": "Because one sketch deserves another…\n\n\n",
+			"date_published": "2018-09-13T19:54:52+04:00",
+			"url": "https://micro.kaa.bz/2018/09/13/because-one-sketch.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/13/more-sketches.html",
+	      	
+			"content_text": "More sketches.\n\n\n",
+			"date_published": "2018-09-13T19:51:53+04:00",
+			"url": "https://micro.kaa.bz/2018/09/13/more-sketches.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/12/its-iphone-x.html",
+	      	
+			"content_text": "It’s iPhone X, or iPhone XS day! After 4 years...",
+			"date_published": "2018-09-12T17:57:23+04:00",
+			"url": "https://micro.kaa.bz/2018/09/12/its-iphone-x.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/12/first-attempt-at.html",
+	      	
+			"content_text": "First attempt at using my new style with architectural style...",
+			"date_published": "2018-09-12T06:40:08+04:00",
+			"url": "https://micro.kaa.bz/2018/09/12/first-attempt-at.html"
+		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/09/11/learning-how-to.html",
