@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/15/well-that-didnt.html",
+	      	
+			"content_html": "<p>Well that didn’t go as planned. I’ve been working on a piece of art for my new project all weekend and completed 85%. When I finally had a look at it in it’s intended medium (email), I realised it was too busy and complicated. Back to the drawing board I guess.</p>\n",
+			"date_published": "2018-09-15T21:00:50+04:00",
+			"url": "https://micro.kaa.bz/2018/09/15/well-that-didnt.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/13/because-one-sketch.html",
 	      	
 			"content_html": "<p>Because one sketch deserves another…</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/b6abcbb8c1.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>The full Hobonichi Techo 2019 lineup is <a href=\"https://www.1101.com/store/techo/en/\">now live</a>. I’m going for the Weeks Mega (for work) and an A6 Planner for life. I tend to like having more space to write, but having dates actually keep me coming back to fill them more regularly, compared with my current setup.</p>\n",
 			"date_published": "2018-08-28T08:02:35+04:00",
 			"url": "https://micro.kaa.bz/2018/08/28/the-full-hobonichi.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/27/its-always-a.html",
-	      	
-			"content_html": "<p>It’s always a joy when I receive an email from Matthew Butterick - go <a href=\"https://tinyletter.com/mbutterick\">subscribe</a> if type is your thing. His <a href=\"https://practicaltypography.com\">online book</a> has been revised and I’m seriously considering using <a href=\"https://mbtype.com/fonts/equity/\">Equity</a> for my next major project.</p>\n",
-			"date_published": "2018-08-27T06:56:48+04:00",
-			"url": "https://micro.kaa.bz/2018/08/27/its-always-a.html"
 		}
 		
 	]
