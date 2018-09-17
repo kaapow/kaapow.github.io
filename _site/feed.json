@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/17/so-when-we.html",
+	      	
+			"content_html": "<p>So when we bought the Q5 2 1/2 years ago what I didn’t realise was that although bluetooth was available in the car, Audi had decided that it would restrict where. Specifically music couldn’t stream that way. It’s taken me this long to resolve the issue with an overpriced dingus.</p>\n",
+			"date_published": "2018-09-17T05:55:55+04:00",
+			"url": "https://micro.kaa.bz/2018/09/17/so-when-we.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/16/following-up-from.html",
+	      	
+			"content_html": "<p>Following up from my previous post, sometimes you need some bad sleep for you to work out what’s already in your head. Ryan decided not to sleep tonight, but my brain kicked into overdrive this morning and I’ve settled on the style I’m trying to achieve. LOTS of art to come!</p>\n",
+			"date_published": "2018-09-16T06:09:35+04:00",
+			"url": "https://micro.kaa.bz/2018/09/16/following-up-from.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/15/well-that-didnt.html",
 	      	
 			"content_html": "<p>Well that didn’t go as planned. I’ve been working on a piece of art for my new project all weekend and completed 85%. When I finally had a look at it in it’s intended medium (email), I realised it was too busy and complicated. Back to the drawing board I guess.</p>\n",
@@ -188,24 +204,6 @@
 			"content_html": "<p>Paul turned me onto Russell Brand’s podcast <a href=\"https://www.russellbrand.com/podcasts/\">Under The Skin</a>. I’m halfway through episode 03 with Adam Curtis and have the same feeling I do when I get through an issue of the Economist. Even Brand’s accent (not a fan) can’t hide the smartness and thoughtfulness on display.</p>\n",
 			"date_published": "2018-08-29T18:42:39+04:00",
 			"url": "https://micro.kaa.bz/2018/08/29/paul-turned-me.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/28/plastic.html",
-	      	
-			"title": "Plastic",
-			
-			"content_html": "<p>The plastic I use in my life is really starting to grate on me in a bad way. To me it signals a lack of progress, in many ways, for a race who excells at creating problems and then solving them. The <a href=\"https://www.hellointernet.fm/podcast/hi-107-one-year-of-weird\">latest episode</a> of <em>Hello Internet</em> highlighted that we still have a long way to go.</p>\n\n<p>In it CGP Grey claims that the UK government reviewed the impact of plastic bags when compared to other kinds of bags and that the cloth totes require 20,000 uses to become more sustainable. The document he was probably referring to was <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/291023/scho0711buan-e-e.pdf\">this one here</a>, from the executive summary a very handy table is given:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Type of carrier</th>\n      <th>HDPE bag (No secondary reuse)</th>\n      <th>HDPE bag (40.3% reused as bin liners)</th>\n      <th>HDPE bag (100% reused as bin liners)</th>\n      <th>HDPE bag (Used 3 times)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Paper bag</td>\n      <td>3</td>\n      <td>4</td>\n      <td>7</td>\n      <td>9</td>\n    </tr>\n    <tr>\n      <td>LDPE bag</td>\n      <td>4</td>\n      <td>5</td>\n      <td>9</td>\n      <td>12</td>\n    </tr>\n    <tr>\n      <td>Non-woven PP bag</td>\n      <td>11</td>\n      <td>14</td>\n      <td>26</td>\n      <td>33</td>\n    </tr>\n    <tr>\n      <td>Cotton bag</td>\n      <td>131</td>\n      <td>173</td>\n      <td>327</td>\n      <td>393</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Sure, still a decent number of times that each type of bag needs to be reused, but a far cry from 20,000. I certainly use my bags at least 100 times a year, and have had them for 3 1/2 years so far….they could last for <strong>many many</strong> years to come.</p>\n",
-			"date_published": "2018-08-28T13:36:20+04:00",
-			"url": "https://micro.kaa.bz/2018/08/28/plastic.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/28/the-full-hobonichi.html",
-	      	
-			"content_html": "<p>The full Hobonichi Techo 2019 lineup is <a href=\"https://www.1101.com/store/techo/en/\">now live</a>. I’m going for the Weeks Mega (for work) and an A6 Planner for life. I tend to like having more space to write, but having dates actually keep me coming back to fill them more regularly, compared with my current setup.</p>\n",
-			"date_published": "2018-08-28T08:02:35+04:00",
-			"url": "https://micro.kaa.bz/2018/08/28/the-full-hobonichi.html"
 		}
 		
 	]
