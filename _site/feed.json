@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/19/my-favourite-feeling.html",
+	      	
+			"content_html": "<p>My favourite feeling these days is that moment I step into the house, after work, and my boy Ryan is genuinely happy and excited to see me. It never lasts very long so I’m cherishing these moments.</p>\n",
+			"date_published": "2018-09-19T20:40:19+04:00",
+			"url": "https://micro.kaa.bz/2018/09/19/my-favourite-feeling.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/17/was-hoping-to.html",
+	      	
+			"content_html": "<p>Was hoping to get the <a href=\"https://www.1101.com/store/techo/en/2019/pc/detail_cover/wb19_m_sneakerblue.html\">Hobonichi Weeks Mega</a> this year. Sadly out of stock, 17 days after launch!</p>\n",
+			"date_published": "2018-09-17T06:22:07+04:00",
+			"url": "https://micro.kaa.bz/2018/09/17/was-hoping-to.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/17/so-when-we.html",
 	      	
 			"content_html": "<p>So when we bought the Q5 2 1/2 years ago what I didn’t realise was that although bluetooth was available in the car, Audi had decided that it would restrict where. Specifically music couldn’t stream that way. It’s taken me this long to resolve the issue with an overpriced dingus.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher Beta</a> is out today! I’ve been waiting for a long time for this. With both Photo and Designer becoming my go to apps for digital creative work, this is the last piece of the puzzle. So excited.</p>\n",
 			"date_published": "2018-08-30T17:39:43+04:00",
 			"url": "https://micro.kaa.bz/2018/08/30/affinity-publisher-beta.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/30/finally-pressed-the.html",
-	      	
-			"content_html": "<p>Finally pressed the trigger on a particular part of my latest project - this is a long term endeavour but it begins with this very small step. I’ll be <strong>hammering</strong> through some details over the weekend and hopefully try and release it out into the big bad world soon.</p>\n",
-			"date_published": "2018-08-30T07:05:25+04:00",
-			"url": "https://micro.kaa.bz/2018/08/30/finally-pressed-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/29/paul-turned-me.html",
-	      	
-			"content_html": "<p>Paul turned me onto Russell Brand’s podcast <a href=\"https://www.russellbrand.com/podcasts/\">Under The Skin</a>. I’m halfway through episode 03 with Adam Curtis and have the same feeling I do when I get through an issue of the Economist. Even Brand’s accent (not a fan) can’t hide the smartness and thoughtfulness on display.</p>\n",
-			"date_published": "2018-08-29T18:42:39+04:00",
-			"url": "https://micro.kaa.bz/2018/08/29/paul-turned-me.html"
 		}
 		
 	]
