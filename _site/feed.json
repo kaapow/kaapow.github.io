@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/21/completish-but-unused.html",
+	      	
+			"content_html": "<p>Complet-ish but un-used art for my upcoming project. It was too busy for what I’m going for.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/7322c468e7.jpg\" width=\"600\" height=\"393\" /></p>\n",
+			"date_published": "2018-09-21T05:40:22+04:00",
+			"url": "https://micro.kaa.bz/2018/09/21/completish-but-unused.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/19/my-favourite-feeling.html",
 	      	
 			"content_html": "<p>My favourite feeling these days is that moment I step into the house, after work, and my boy Ryan is genuinely happy and excited to see me. It never lasts very long so I’m cherishing these moments.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Does anyone have a suggestion for a good alternative to Tinyletter, that is similar in minimal functionality but is possibly paid? I’m having trouble sorting something out there and I’ve read that eventually MailChimp will be closing the service down…</p>\n",
 			"date_published": "2018-08-30T20:44:44+04:00",
 			"url": "https://micro.kaa.bz/2018/08/30/does-anyone-have.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/30/affinity-publisher-beta.html",
-	      	
-			"content_html": "<p><a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher Beta</a> is out today! I’ve been waiting for a long time for this. With both Photo and Designer becoming my go to apps for digital creative work, this is the last piece of the puzzle. So excited.</p>\n",
-			"date_published": "2018-08-30T17:39:43+04:00",
-			"url": "https://micro.kaa.bz/2018/08/30/affinity-publisher-beta.html"
 		}
 		
 	]
