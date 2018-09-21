@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/21/not-one-but.html",
+	      	
+			"content_html": "<p>Not one but <a href=\"https://ia.net/writer/blog/write-to-organize\">two great additions</a> to iAWriter. Which reminds me that I need to take a <strong>deep</strong> dive into the <em>Shortcuts</em> app as soon as possible.</p>\n",
+			"date_published": "2018-09-21T15:34:44+04:00",
+			"url": "https://micro.kaa.bz/2018/09/21/not-one-but.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/21/completish-but-unused.html",
 	      	
 			"content_html": "<p>Complet-ish but un-used art for my upcoming project. It was too busy for what I’m going for.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/7322c468e7.jpg\" width=\"600\" height=\"393\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Yesterday I asked for an alternative to <a href=\"http://tinyletter.com\">Tinyletter</a> and <a href=\"http://buttondown.email\">Buttondown</a> was recommended. Having spent a day kicking the tires, this now joins a small pantheon of indie web services that I want to support. Need an email service that can join <a href=\"http://pinboard.in\">Pinboard</a>, <a href=\"http://micro.blog\">Micro.blog</a>, <a href=\"http://feedbin.me\">Feedbin</a> and <a href=\"http://buttondown.email\">Buttondown</a>.</p>\n",
 			"date_published": "2018-09-01T10:13:15+04:00",
 			"url": "https://micro.kaa.bz/2018/09/01/yesterday-i-asked.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/08/30/does-anyone-have.html",
-	      	
-			"content_html": "<p>Does anyone have a suggestion for a good alternative to Tinyletter, that is similar in minimal functionality but is possibly paid? I’m having trouble sorting something out there and I’ve read that eventually MailChimp will be closing the service down…</p>\n",
-			"date_published": "2018-08-30T20:44:44+04:00",
-			"url": "https://micro.kaa.bz/2018/08/30/does-anyone-have.html"
 		}
 		
 	]
