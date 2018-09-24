@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/24/ok-ive-not.html",
+	      	
+			"content_html": "<p>Ok I’ve not bought any new Field Notes in a year. I still have a healthy stash and could easily remain stocked up for several years to come….<em>however</em> these <a href=\"https://fieldnotesbrand.com/products/rams\">Ram edition</a> are really testing my Field Notes abstinence.</p>\n",
+			"date_published": "2018-09-24T22:46:02+04:00",
+			"url": "https://micro.kaa.bz/2018/09/24/ok-ive-not.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/09/23/these-f-concepts.html",
+	      	
+			"content_html": "<p>These three <a href=\"http://f1.com/2021\">F1 2021</a> concepts as revealed on the F1 website show a future of motosport that <em>looks</em> exciting. They’re also meant delivers to deliver closer driving and wheel to wheel action.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/3333774548.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-09-23T17:44:24+04:00",
+			"url": "https://micro.kaa.bz/2018/09/23/these-f-concepts.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/23/rough-couple-of.html",
 	      	
 			"content_html": "<p>Rough couple of days. Zane caught something from school, which he gave to me, which I gave to the wife. The joys of a new school year I guess and all the delightful viruses that are given the opportunity to jump from one child to the other. Good news is it’s nearly over.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>So now that <a href=\"https://itunes.apple.com/us/app/sunlit/id1334727769?ls=1&amp;mt=8\">Sunlit</a> 2.2 has been released, I’m considering jettisoning myself from Instagram. The only missing feature for me is the ability to my photos as a collection of thumbnails (in the app or online). Hopefully that will come in future iterations.</p>\n",
 			"date_published": "2018-09-03T19:50:46+04:00",
 			"url": "https://micro.kaa.bz/2018/09/03/so-now-that.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/01/i-just-read.html",
-	      	
-			"content_html": "<p>I just read Khaled Hosseini’s <em>Sea Prayer</em>, and honestly haven’t cried this much since Alan Kurdi’s image was burned into my head. My oldest was roughly the same age. The whole thing just breaks my brain and emotions in countless ways.</p>\n",
-			"date_published": "2018-09-01T22:24:15+04:00",
-			"url": "https://micro.kaa.bz/2018/09/01/i-just-read.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/01/ughhh-came-back.html",
-	      	
-			"content_html": "<p>UGhhh. Came back to my car, parking sensor in the rear had popped in. Need to find a way to pull this thing back in place without removing the whole rear bumper…YouTube?</p>\n",
-			"date_published": "2018-09-01T15:42:15+04:00",
-			"url": "https://micro.kaa.bz/2018/09/01/ughhh-came-back.html"
 		}
 		
 	]
