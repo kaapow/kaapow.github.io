@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/09/27/its-getting-easier.html",
+	      	
+			"content_html": "<p>It’s getting easier to draw these scenes. The funny thing being that once I gave up on drawing comics I’ve allowed myself to draw these types of things.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/da6232bd17.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-27T19:47:16+04:00",
+			"url": "https://micro.kaa.bz/2018/09/27/its-getting-easier.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/24/ok-ive-not.html",
 	      	
 			"content_html": "<p>Ok I’ve not bought any new Field Notes in a year. I still have a healthy stash and could easily remain stocked up for several years to come….<em>however</em> these <a href=\"https://fieldnotesbrand.com/products/rams\">Ram edition</a> are really testing my Field Notes abstinence.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Everything is a remix. <a href=\"https://www.milanote.com/the-work/the-surprising-inspiration-behind-monument-valleys-most-beautiful-levels?utm_source=TheWorkNewsletter&amp;utm_medium=email\">This article</a> on the inspiration behind Monument Valley’s levels is a great peak inside the process.</p>\n",
 			"date_published": "2018-09-04T06:47:07+04:00",
 			"url": "https://micro.kaa.bz/2018/09/04/everything-is-a.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/03/so-now-that.html",
-	      	
-			"content_html": "<p>So now that <a href=\"https://itunes.apple.com/us/app/sunlit/id1334727769?ls=1&amp;mt=8\">Sunlit</a> 2.2 has been released, I’m considering jettisoning myself from Instagram. The only missing feature for me is the ability to my photos as a collection of thumbnails (in the app or online). Hopefully that will come in future iterations.</p>\n",
-			"date_published": "2018-09-03T19:50:46+04:00",
-			"url": "https://micro.kaa.bz/2018/09/03/so-now-that.html"
 		}
 		
 	]
