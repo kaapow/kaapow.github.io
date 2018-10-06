@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/04/i-stumbled-upon.html",
+	      	
+			"content_html": "<p>I stumbled upon a truly incredible graph today that showed all the various types of Photovoltaic panel technology and their efficiency progress mapped across the years. What’s astounding is the innovation that is happening in this space, showing where the future will be.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/35f115b2b3.jpg\" width=\"600\" height=\"333\" /></p>\n",
+			"date_published": "2018-10-04T21:09:51+04:00",
+			"url": "https://micro.kaa.bz/2018/10/04/i-stumbled-upon.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/03/happy-inktober-everyone.html",
+	      	
+			"content_html": "<p><a href=\"https://inktober.com\">Happy Inktober everyone</a>. I’m hoping to dip my toe this year and have an idea of what to do, hopefully ready with a few things to share.</p>\n",
+			"date_published": "2018-10-03T19:41:26+04:00",
+			"url": "https://micro.kaa.bz/2018/10/03/happy-inktober-everyone.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/02/everything-old-is.html",
+	      	
+			"content_html": "<p>Everything old is new again. New faces in the office as our team slowly continues it’s transformation. I’m obviously aware (sometimes painfully) that nothing in life stays the same. When life kicks your ass, first tidy everything up and then assess and review.</p>\n",
+			"date_published": "2018-10-02T19:30:12+04:00",
+			"url": "https://micro.kaa.bz/2018/10/02/everything-old-is.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/09/30/finally-got-the.html",
 	      	
 			"content_html": "<p>Finally got the bluetooth in my car sorted out. It’s only taken a couple of years and $100 to get it sorted. I’ll never understand why Audi don’t enable this simple feature to begin with but there you have it. Now I can listen to my tunes through proper speakers.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>So I discovered <a href=\"http://00b.in/tadama\">Tadama</a> today. Probably the most elegant and simple pomodoro app on the Mac.</p>\n",
 			"date_published": "2018-09-05T21:31:35+04:00",
 			"url": "https://micro.kaa.bz/2018/09/05/so-i-discovered.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/05/a-month-ago.html",
-	      	
-			"content_html": "<p>🏀 A month ago I went to the basketball court and nearly <strong>died</strong> from the humidity. Which idiot decides to go play bball when it’s 95% humidity? This idiot. <em>Anyway</em>, today attempted the same thing again and can happily confirm that the worst is behind us and it’s now bball weather.</p>\n",
-			"date_published": "2018-09-05T21:23:45+04:00",
-			"url": "https://micro.kaa.bz/2018/09/05/a-month-ago.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/05/ok-someone-tell.html",
-	      	
-			"content_html": "<p>Ok someone tell me why it’s taken this long for someone (thanks bro) to tell me about The Weeknd and the <a href=\"https://itunes.apple.com/gb/album/starboy/1156443286\">Starboy</a> album? You’re welcome, pass on the love.</p>\n",
-			"date_published": "2018-09-05T13:30:22+04:00",
-			"url": "https://micro.kaa.bz/2018/09/05/ok-someone-tell.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/05/use-the-negative.html",
-	      	
-			"content_html": "<p>Use the negative energy you have to build something rather than mope around.</p>\n",
-			"date_published": "2018-09-05T05:34:59+04:00",
-			"url": "https://micro.kaa.bz/2018/09/05/use-the-negative.html"
 		}
 		
 	]
