@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/08/netflix-has-seriously.html",
+	      	
+			"content_html": "<p>Netflix has seriously changed how I consume some of my entertainment. Thankfully <em>Better Call Saul</em> isn’t on that network which means I have to wait for a new episode every week. Somehow gives my week a little bit of relief as it’s the only show I’m watching these days.</p>\n",
+			"date_published": "2018-10-08T20:34:46+04:00",
+			"url": "https://micro.kaa.bz/2018/10/08/netflix-has-seriously.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/04/i-stumbled-upon.html",
 	      	
 			"content_html": "<p>I stumbled upon a truly incredible graph today that showed all the various types of Photovoltaic panel technology and their efficiency progress mapped across the years. What’s astounding is the innovation that is happening in this space, showing where the future will be.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/35f115b2b3.jpg\" width=\"600\" height=\"333\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/e8c9d6dd99.jpg\" alt=\"\" />\nSo the new upload function on Micro.blog is pretty awesome. Especially considering it works for gifs as well. The new <a href=\"https://maus.lofree.co\">Maus from Lofree</a> is another design win from a company who’s really been killing it as bringing 1950s stylings to modern technology.</p>\n",
 			"date_published": "2018-09-06T19:07:25+04:00",
 			"url": "https://micro.kaa.bz/2018/09/06/testing-the-new.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/05/so-i-discovered.html",
-	      	
-			"content_html": "<p>So I discovered <a href=\"http://00b.in/tadama\">Tadama</a> today. Probably the most elegant and simple pomodoro app on the Mac.</p>\n",
-			"date_published": "2018-09-05T21:31:35+04:00",
-			"url": "https://micro.kaa.bz/2018/09/05/so-i-discovered.html"
 		}
 		
 	]
