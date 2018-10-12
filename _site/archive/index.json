@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/12/my-wife-is.html",
+	      	
+			"content_text": "My wife is forever loosing her iPhone. Top tip. If...",
+			"date_published": "2018-10-12T19:37:45+04:00",
+			"url": "https://micro.kaa.bz/2018/10/12/my-wife-is.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/10/phones-and-cameras.html",
+	      	
+			"title": "Phones and Cameras",
+			
+			"content_text": "After listen to The Minimalists on the Kevin Rose show,...",
+			"date_published": "2018-10-10T21:55:55+04:00",
+			"url": "https://micro.kaa.bz/2018/10/10/phones-and-cameras.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/08/netflix-has-seriously.html",
 	      	
 			"content_text": "Netflix has seriously changed how I consume some of my...",
