@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/12/my-wife-is.html",
+	      	
+			"content_html": "<p>My wife is forever loosing her iPhone. <strong>Top tip</strong>. If you login from another device on iCloud (and assuming the phone is still got power and connected to the internet) you can cause it to ring, even if it’s put on mute. So awesome.</p>\n",
+			"date_published": "2018-10-12T19:37:45+04:00",
+			"url": "https://micro.kaa.bz/2018/10/12/my-wife-is.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/10/phones-and-cameras.html",
+	      	
+			"title": "Phones and Cameras",
+			
+			"content_html": "<p>After listen to <em>The Minimalists</em> on the <a href=\"https://www.kevinrose.com\">Kevin Rose</a> show, I came to a realisation. In my persuit to determine which iPhone I should be buying this year, it turns out I really don’t need to get one after all.</p>\n\n<p>The reason for upgrading isn’t because the phone is slow, lacks some essential feature or that certain apps don’t run on it. Rather the <strong>only</strong> reason to upgrade is for the camera.</p>\n\n<p>Except I already own a pretty decent camera, the NEX-F3. I bought it just before Zane was born (so a little over 4 years ago now) and seem to have stopped using it 2 years ago. Why? I’m not sure. Maybe I bought into the whole ‘the best camera is the one on you’ ideaology?</p>\n\n<p>A quick read of a Wirecutter <a href=\"https://thewirecutter.com/reviews/first-sony-e-mount-lenses-to-buy/\">article I bookmarked in 2013</a>, led me to circling onto several Sigma lens that will help me get better photos. The bonus to all this is that they’re at a pretty reduced price point at the moment. And while we’re here, we might as well talk about one of <a href=\"https://prolost.com/blog/2013/12/11/how-to-take-good-photos-for-under-1000.html\">my favourite article</a> about photography to brush up on some things.</p>\n",
+			"date_published": "2018-10-10T21:55:55+04:00",
+			"url": "https://micro.kaa.bz/2018/10/10/phones-and-cameras.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/08/netflix-has-seriously.html",
 	      	
 			"content_html": "<p>Netflix has seriously changed how I consume some of my entertainment. Thankfully <em>Better Call Saul</em> isn’t on that network which means I have to wait for a new episode every week. Somehow gives my week a little bit of relief as it’s the only show I’m watching these days.</p>\n",
@@ -188,22 +206,6 @@
 			"content_html": "<p>🎥 So the wife and I finally watched a movie together. We settled on <em>Tully</em>. Great movie. It will hit different people in different ways. It hit my wife the hardest being a mother of a 4 year old and 8 month old. Diablo Codi is one of my favourite writers in Hollywood.</p>\n",
 			"date_published": "2018-09-08T06:55:22+04:00",
 			"url": "https://micro.kaa.bz/2018/09/08/so-the-wife.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/07/hadnt-realised-the.html",
-	      	
-			"content_html": "<p>🇯🇵 Hadn’t realised the <a href=\"https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/09/06/japan-under-siege-first-came-its-worst-typhoon-in-25-years-then-deadly-landslides/?noredirect=on&amp;utm_term=.53a1f6eef71e\">extent of the destruction</a> on Japan this summer. I have a huge soft spot in my mind and heart for the country. I truly wish them the best in what seems to be a <a href=\"https://www.washingtonpost.com/world/asia_pacific/japans-deadly-summer-floods-typhoons-earthquakes-heat/2018/09/06/e6edc320-b1ab-11e8-8b53-50116768e499_story.html?utm_term=.20d66ac5678f\">never ending assault</a> of natural disasters.</p>\n",
-			"date_published": "2018-09-07T19:53:47+04:00",
-			"url": "https://micro.kaa.bz/2018/09/07/hadnt-realised-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/06/testing-the-new.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.kaa.bz/uploads/2018/e8c9d6dd99.jpg\" alt=\"\" />\nSo the new upload function on Micro.blog is pretty awesome. Especially considering it works for gifs as well. The new <a href=\"https://maus.lofree.co\">Maus from Lofree</a> is another design win from a company who’s really been killing it as bringing 1950s stylings to modern technology.</p>\n",
-			"date_published": "2018-09-06T19:07:25+04:00",
-			"url": "https://micro.kaa.bz/2018/09/06/testing-the-new.html"
 		}
 		
 	]
