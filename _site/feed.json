@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/14/jan-middendorps-dutch.html",
+	      	
+			"content_html": "<p><a href=\"https://www.kickstarter.com/projects/867313368/dutch-type-the-book-available-again\">Jan Middendorp’s <em>Dutch Type</em> is truly a magnificent book</a>. I would go so far as to call it the best looking book on typography that I own. If you can get a copy, don’t hesitate. Gorgeous.</p>\n",
+			"date_published": "2018-10-14T22:27:16+04:00",
+			"url": "https://micro.kaa.bz/2018/10/14/jan-middendorps-dutch.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/13/final-inktober-image.html",
+	      	
+			"content_html": "<p>Final Inktober image for today.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/0329a5efbd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-13T18:11:35+04:00",
+			"url": "https://micro.kaa.bz/2018/10/13/final-inktober-image.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/13/the-constraint-for.html",
+	      	
+			"content_html": "<p>The constraint for Inktober this year is the number of pens I’m using and the size of paper, which are these super cheap postcards from Muji (12 for less than a dollar).</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/5b1996f15b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-13T18:10:12+04:00",
+			"url": "https://micro.kaa.bz/2018/10/13/the-constraint-for.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/13/140419.html",
+	      	
+			"content_html": "<p>I know I’m super late to Inktober this year, but better late than never.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/f69d8f0913.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-13T18:04:19+04:00",
+			"url": "https://micro.kaa.bz/2018/10/13/140419.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/13/i-can-finally.html",
 	      	
 			"content_html": "<p>I can finally declare Autumn/Winter has begun here in Dubai. It’s been a really long summer so hoping to make full advantage of the good weather this year.</p>\n",
@@ -174,38 +206,6 @@
 			"content_html": "<p>More sketches.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/5fc4976acf.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-09-13T19:51:53+04:00",
 			"url": "https://micro.kaa.bz/2018/09/13/more-sketches.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/12/its-iphone-x.html",
-	      	
-			"content_html": "<p>It’s iPhone X, or iPhone XS day! After 4 years I think I’m finally due for an upgrade.</p>\n",
-			"date_published": "2018-09-12T17:57:23+04:00",
-			"url": "https://micro.kaa.bz/2018/09/12/its-iphone-x.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/12/first-attempt-at.html",
-	      	
-			"content_html": "<p>First attempt at using my new style with architectural style backgrounds - always the intention really.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/aec1927b32.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-12T06:40:08+04:00",
-			"url": "https://micro.kaa.bz/2018/09/12/first-attempt-at.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/11/learning-how-to.html",
-	      	
-			"content_html": "<p>Learning how to draw and sketch in ways different to what I’m used to. First up, cars!\n<img src=\"http://micro.kaa.bz/uploads/2018/1a90bf8f47.jpg\" alt=\"7212DF3B-1240-4CCB-B322-80922D3880DC.jpg\" /></p>\n",
-			"date_published": "2018-09-11T19:01:58+04:00",
-			"url": "https://micro.kaa.bz/2018/09/11/learning-how-to.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/11/fell-down-a.html",
-	      	
-			"content_html": "<p>Fell down a <em>massive</em> hole that is <a href=\"https://www.udemy.com\">Udemy</a>. Never heard of it before and stumbled on it by accident while looking for resources for sketching like an architect. Found a great <a href=\"https://www.udemy.com/sketch-like-an-architect/\">course</a> and then proceeded to buy a whole bunch more.</p>\n",
-			"date_published": "2018-09-11T06:44:10+04:00",
-			"url": "https://micro.kaa.bz/2018/09/11/fell-down-a.html"
 		}
 		
 	]
