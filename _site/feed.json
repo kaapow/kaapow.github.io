@@ -7,9 +7,33 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/10/24/if-youre-struggling.html",
+	      	
+			"content_html": "<p>If you’re struggling to write on your site, then consider a trick I’ve been using this year. I write for myself and  1 other person that doesn’t exist, except in my mind. He likes similar things as me, and my site is how I share small messages with him.</p>\n",
+			"date_published": "2018-10-24T05:24:30+04:00",
+			"url": "https://micro.kaa.bz/2018/10/24/if-youre-struggling.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/23/inktober-continues.html",
+	      	
+			"content_html": "<p>Inktober #005 continues.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/956d937b9a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-23T16:33:37+04:00",
+			"url": "https://micro.kaa.bz/2018/10/23/inktober-continues.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/23/inktober-is-nearly.html",
+	      	
+			"content_html": "<p>Inktober is nearly over. This one was done while I was on the phone.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/8f40d272ed.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-23T07:45:01+04:00",
+			"url": "https://micro.kaa.bz/2018/10/23/inktober-is-nearly.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/21/went-to-the.html",
 	      	
-			"content_html": "<p>Went to the <a href=\"https://www.bigbadwolfbooks.com\">Big Bad Wold book</a> fair (the biggest of it’s kind in the world). It so massive people wander around with supermarket shopping carts filled will books. For my first trip I picked up:</p>\n\n<ol>\n  <li>Graphic Ink by Frank Quietley</li>\n  <li>The Wake by Scott Snyder and Sean Murphy</li>\n  <li>Comics A Global History by Dan Mazur and Alexander Danner</li>\n</ol>\n\n",
+			"content_html": "<p>Went to the <a href=\"https://www.bigbadwolfbooks.com\">Big Bad Wold book</a> fair (the biggest of it’s kind in the world). It’s so massive that people wander around with supermarket shopping carts filled will books. For my first trip I picked up:</p>\n\n<ol>\n  <li>Graphic Ink by Frank Quietley</li>\n  <li>The Wake by Scott Snyder and Sean Murphy</li>\n  <li>Comics A Global History by Dan Mazur and Alexander Danner</li>\n</ol>\n\n",
 			"date_published": "2018-10-21T06:00:06+04:00",
 			"url": "https://micro.kaa.bz/2018/10/21/went-to-the.html"
 		},
@@ -182,30 +206,6 @@
 			"content_html": "<p>These three <a href=\"http://f1.com/2021\">F1 2021</a> concepts as revealed on the F1 website show a future of motosport that <em>looks</em> exciting. They’re also meant delivers to deliver closer driving and wheel to wheel action.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/3333774548.jpg\" width=\"600\" height=\"337\" /></p>\n",
 			"date_published": "2018-09-23T17:44:24+04:00",
 			"url": "https://micro.kaa.bz/2018/09/23/these-f-concepts.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/23/rough-couple-of.html",
-	      	
-			"content_html": "<p>Rough couple of days. Zane caught something from school, which he gave to me, which I gave to the wife. The joys of a new school year I guess and all the delightful viruses that are given the opportunity to jump from one child to the other. Good news is it’s nearly over.</p>\n",
-			"date_published": "2018-09-23T13:15:03+04:00",
-			"url": "https://micro.kaa.bz/2018/09/23/rough-couple-of.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/21/not-one-but.html",
-	      	
-			"content_html": "<p>Not one but <a href=\"https://ia.net/writer/blog/write-to-organize\">two great additions</a> to iAWriter. Which reminds me that I need to take a <strong>deep</strong> dive into the <em>Shortcuts</em> app as soon as possible.</p>\n",
-			"date_published": "2018-09-21T15:34:44+04:00",
-			"url": "https://micro.kaa.bz/2018/09/21/not-one-but.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/21/completish-but-unused.html",
-	      	
-			"content_html": "<p>Complet-ish but un-used art for my upcoming project. It was too busy for what I’m going for.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/7322c468e7.jpg\" width=\"600\" height=\"393\" /></p>\n",
-			"date_published": "2018-09-21T05:40:22+04:00",
-			"url": "https://micro.kaa.bz/2018/09/21/completish-but-unused.html"
 		}
 		
 	]
