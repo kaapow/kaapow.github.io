@@ -37,6 +37,7 @@ body, body.home, body.single, body.single main 			{ width:100%; max-width: 100%}
 p, .post--single p, li 				{ font-size:1.1rem; line-height: 1.8rem;}
 main.main__content p 				{ max-width: 680px; margin: 0 auto; padding: 1rem 0 0 0; width: 90%;}
 div.e-content p { width: 100%;}
+ol   {margin: 25px 0 0 0;}
 li 									{ margin: 0; padding: 0;}
 p strong							{ font-family: 'Merriweather', serif; font-weight: 700;}
 a									{ color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); transition: none; font-weight: 600;}
