@@ -2,16 +2,32 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Khaled Abou Alfa",
 	"icon": "https://micro.blog/kaa/avatar.jpg",
-	"home_page_url": "https://micro.kaa.bz/",
-	"feed_url": "https://micro.kaa.bz/feed.json",
+	"home_page_url": "https://www.kaa.bz/",
+	"feed_url": "https://www.kaa.bz/feed.json",
 	"items": [
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/31/first-proper-halloween.html",
+	      	
+			"content_html": "<p>First proper halloween experience for Zane, which he absolutely loved. Got dressed as a pterodactyl, hunted for houses with their lights on and then stuffing his bucket with goodies. I’ve never been into Halloween, but starting to enjoy it through my kid’s eyes.</p>\n",
+			"date_published": "2018-10-31T20:36:14+04:00",
+			"url": "https://www.kaa.bz/2018/10/31/first-proper-halloween.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/10/30/this-new-ipad.html",
+	      	
+			"content_html": "<p>This new iPad Pro is a great way to finally get into the iPad lifestyle. Glad I waited out for this version (rather than getting one last year). Hopefully it’ll be my upgraded computing device for the next five years.</p>\n",
+			"date_published": "2018-10-30T21:21:11+04:00",
+			"url": "https://www.kaa.bz/2018/10/30/this-new-ipad.html"
+		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/26/075805.html",
 	      	
 			"content_html": "<p>If you’re looking for a great alternative to the standard Apple case for your iPhone 6, 6s, 7 and 8, look no further than the <a href=\"https://www.puro.it/en/cover-icon-iphone8-eng.html\">Puro Icon</a> case. Got mine in an amazing aquamarine colour.</p>\n",
 			"date_published": "2018-10-26T11:58:05+04:00",
-			"url": "https://micro.kaa.bz/2018/10/26/075805.html"
+			"url": "https://www.kaa.bz/2018/10/26/075805.html"
 		},
 		
 		{
@@ -19,23 +35,23 @@
 	      	
 			"content_html": "<p>If you’re struggling to write on your site, then consider a trick I’ve been using this year. I write for myself and  1 other person that doesn’t exist, except in my mind. He likes similar things as me, and my site is how I share small messages with him.</p>\n",
 			"date_published": "2018-10-24T05:24:30+04:00",
-			"url": "https://micro.kaa.bz/2018/10/24/if-youre-struggling.html"
+			"url": "https://www.kaa.bz/2018/10/24/if-youre-struggling.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/23/inktober-continues.html",
 	      	
-			"content_html": "<p>Inktober #005 continues.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/956d937b9a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Inktober #005 continues.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/956d937b9a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-23T16:33:37+04:00",
-			"url": "https://micro.kaa.bz/2018/10/23/inktober-continues.html"
+			"url": "https://www.kaa.bz/2018/10/23/inktober-continues.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/23/inktober-is-nearly.html",
 	      	
-			"content_html": "<p>Inktober is nearly over. This one was done while I was on the phone.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/8f40d272ed.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Inktober is nearly over. This one was done while I was on the phone.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/8f40d272ed.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-23T07:45:01+04:00",
-			"url": "https://micro.kaa.bz/2018/10/23/inktober-is-nearly.html"
+			"url": "https://www.kaa.bz/2018/10/23/inktober-is-nearly.html"
 		},
 		
 		{
@@ -43,23 +59,23 @@
 	      	
 			"content_html": "<p>Went to the <a href=\"https://www.bigbadwolfbooks.com\">Big Bad Wold book</a> fair (the biggest of it’s kind in the world). It’s so massive that people wander around with supermarket shopping carts filled will books. For my first trip I picked up:</p>\n\n<ol>\n  <li>Graphic Ink by Frank Quietley</li>\n  <li>The Wake by Scott Snyder and Sean Murphy</li>\n  <li>Comics A Global History by Dan Mazur and Alexander Danner</li>\n</ol>\n\n",
 			"date_published": "2018-10-21T06:00:06+04:00",
-			"url": "https://micro.kaa.bz/2018/10/21/went-to-the.html"
+			"url": "https://www.kaa.bz/2018/10/21/went-to-the.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/20/autumn-reading-second.html",
 	      	
-			"content_html": "<p>📚 Autumn reading. Second Ryan Holiday book this year. I still need to write the notes from my previous two books. Maybe this week.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/bf461b09f8.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"content_html": "<p>📚 Autumn reading. Second Ryan Holiday book this year. I still need to write the notes from my previous two books. Maybe this week.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/bf461b09f8.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-20T09:46:51+04:00",
-			"url": "https://micro.kaa.bz/2018/10/20/autumn-reading-second.html"
+			"url": "https://www.kaa.bz/2018/10/20/autumn-reading-second.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/18/190246.html",
 	      	
-			"content_html": "<p><a href=\"https://www.apple.com/apple-events/\">You’re testing me Apple</a>. I’ve abstained from your iPhone ploy this year (even though I’m sporting an iPhone 6S), but I’ve never owned an iPad and I’m running a 5 year old Macbook Pro, which is closing in on upgrade territory.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/e7b1f1195f.jpg\" width=\"600\" height=\"389\" /></p>\n",
+			"content_html": "<p><a href=\"https://www.apple.com/apple-events/\">You’re testing me Apple</a>. I’ve abstained from your iPhone ploy this year (even though I’m sporting an iPhone 6S), but I’ve never owned an iPad and I’m running a 5 year old Macbook Pro, which is closing in on upgrade territory.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/e7b1f1195f.jpg\" width=\"600\" height=\"389\" /></p>\n",
 			"date_published": "2018-10-18T23:02:46+04:00",
-			"url": "https://micro.kaa.bz/2018/10/18/190246.html"
+			"url": "https://www.kaa.bz/2018/10/18/190246.html"
 		},
 		
 		{
@@ -67,15 +83,15 @@
 	      	
 			"content_html": "<p>If you’re looking to create something, anything really, then I seriously encourage you to listen to Seth Godin’s podcast <em>Akimbo</em>. The previous episode, <a href=\"https://www.akimbo.me/blog/s-3-e-2-you-re-it\">You’re it</a> seriously captures the reason that you should start NOW with that endeavour. Don’t wait. You’re wasting time. As am I.</p>\n",
 			"date_published": "2018-10-18T22:47:40+04:00",
-			"url": "https://micro.kaa.bz/2018/10/18/if-youre-looking.html"
+			"url": "https://www.kaa.bz/2018/10/18/if-youre-looking.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/16/operation-start-using.html",
 	      	
-			"content_html": "<p>Operation <em>start using your iPhone less and take your Sony mirrorless camera everywhere</em> is beginning to pay some dividends.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/e7b1b97fd9.jpg\" width=\"600\" height=\"399\" /></p>\n",
+			"content_html": "<p>Operation <em>start using your iPhone less and take your Sony mirrorless camera everywhere</em> is beginning to pay some dividends.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/e7b1b97fd9.jpg\" width=\"600\" height=\"399\" /></p>\n",
 			"date_published": "2018-10-16T22:05:20+04:00",
-			"url": "https://micro.kaa.bz/2018/10/16/operation-start-using.html"
+			"url": "https://www.kaa.bz/2018/10/16/operation-start-using.html"
 		},
 		
 		{
@@ -83,7 +99,7 @@
 	      	
 			"content_html": "<p>Discovered <a href=\"https://www.thenational.ae/lifestyle/food/burro-blanco-the-tiny-hole-in-the-wall-bringing-mexican-street-food-to-abu-dhabi-1.751906#10\">Burro Blanco</a> in Abu Dhabi a couple of weeks ago. By far my favourite Mexican restaurant in the UAE.</p>\n",
 			"date_published": "2018-10-15T22:12:30+04:00",
-			"url": "https://micro.kaa.bz/2018/10/15/discovered-burro-blanco.html"
+			"url": "https://www.kaa.bz/2018/10/15/discovered-burro-blanco.html"
 		},
 		
 		{
@@ -91,7 +107,7 @@
 	      	
 			"content_html": "<p>Definitely considering backing this <a href=\"https://www.kickstarter.com/projects/twinzstudio/everyday-carry-aerospace-grade-titanium-chopsticks\">chopstick set</a>. The straw might now be as useful for me, but I really like the chopsticks rest and pouch. Super neat solution.</p>\n",
 			"date_published": "2018-10-15T05:48:57+04:00",
-			"url": "https://micro.kaa.bz/2018/10/15/definitely-considering-backing.html"
+			"url": "https://www.kaa.bz/2018/10/15/definitely-considering-backing.html"
 		},
 		
 		{
@@ -99,31 +115,31 @@
 	      	
 			"content_html": "<p><a href=\"https://www.kickstarter.com/projects/867313368/dutch-type-the-book-available-again\">Jan Middendorp’s <em>Dutch Type</em> is truly a magnificent book</a>. I would go so far as to call it the best looking book on typography that I own. If you can get a copy, don’t hesitate. Gorgeous.</p>\n",
 			"date_published": "2018-10-14T22:27:16+04:00",
-			"url": "https://micro.kaa.bz/2018/10/14/jan-middendorps-dutch.html"
+			"url": "https://www.kaa.bz/2018/10/14/jan-middendorps-dutch.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/13/final-inktober-image.html",
 	      	
-			"content_html": "<p>Final Inktober image for today.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/0329a5efbd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Final Inktober image for today.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/0329a5efbd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-13T18:11:35+04:00",
-			"url": "https://micro.kaa.bz/2018/10/13/final-inktober-image.html"
+			"url": "https://www.kaa.bz/2018/10/13/final-inktober-image.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/13/the-constraint-for.html",
 	      	
-			"content_html": "<p>The constraint for Inktober this year is the number of pens I’m using and the size of paper, which are these super cheap postcards from Muji (12 for less than a dollar).</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/5b1996f15b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>The constraint for Inktober this year is the number of pens I’m using and the size of paper, which are these super cheap postcards from Muji (12 for less than a dollar).</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/5b1996f15b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-13T18:10:12+04:00",
-			"url": "https://micro.kaa.bz/2018/10/13/the-constraint-for.html"
+			"url": "https://www.kaa.bz/2018/10/13/the-constraint-for.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/13/140419.html",
 	      	
-			"content_html": "<p>I know I’m super late to Inktober this year, but better late than never.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/f69d8f0913.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>I know I’m super late to Inktober this year, but better late than never.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/f69d8f0913.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-13T18:04:19+04:00",
-			"url": "https://micro.kaa.bz/2018/10/13/140419.html"
+			"url": "https://www.kaa.bz/2018/10/13/140419.html"
 		},
 		
 		{
@@ -131,7 +147,7 @@
 	      	
 			"content_html": "<p>I can finally declare Autumn/Winter has begun here in Dubai. It’s been a really long summer so hoping to make full advantage of the good weather this year.</p>\n",
 			"date_published": "2018-10-13T15:24:58+04:00",
-			"url": "https://micro.kaa.bz/2018/10/13/i-can-finally.html"
+			"url": "https://www.kaa.bz/2018/10/13/i-can-finally.html"
 		},
 		
 		{
@@ -139,7 +155,7 @@
 	      	
 			"content_html": "<p>My wife is forever loosing her iPhone. <strong>Top tip</strong>. If you login from another device on iCloud (and assuming the phone is still got power and connected to the internet) you can cause it to ring, even if it’s put on mute. So awesome.</p>\n",
 			"date_published": "2018-10-12T19:37:45+04:00",
-			"url": "https://micro.kaa.bz/2018/10/12/my-wife-is.html"
+			"url": "https://www.kaa.bz/2018/10/12/my-wife-is.html"
 		},
 		
 		{
@@ -149,7 +165,7 @@
 			
 			"content_html": "<p>After listen to <em>The Minimalists</em> on the <a href=\"https://www.kevinrose.com\">Kevin Rose</a> show, I came to a realisation. In my persuit to determine which iPhone I should be buying this year, it turns out I really don’t need to get one after all.</p>\n\n<p>The reason for upgrading isn’t because the phone is slow, lacks some essential feature or that certain apps don’t run on it. Rather the <strong>only</strong> reason to upgrade is for the camera.</p>\n\n<p>Except I already own a pretty decent camera, the NEX-F3. I bought it just before Zane was born (so a little over 4 years ago now) and seem to have stopped using it 2 years ago. Why? I’m not sure. Maybe I bought into the whole ‘the best camera is the one on you’ ideaology?</p>\n\n<p>A quick read of a Wirecutter <a href=\"https://thewirecutter.com/reviews/first-sony-e-mount-lenses-to-buy/\">article I bookmarked in 2013</a>, led me to circling onto several Sigma lens that will help me get better photos. The bonus to all this is that they’re at a pretty reduced price point at the moment. And while we’re here, we might as well talk about one of <a href=\"https://prolost.com/blog/2013/12/11/how-to-take-good-photos-for-under-1000.html\">my favourite article</a> about photography to brush up on some things.</p>\n",
 			"date_published": "2018-10-10T21:55:55+04:00",
-			"url": "https://micro.kaa.bz/2018/10/10/phones-and-cameras.html"
+			"url": "https://www.kaa.bz/2018/10/10/phones-and-cameras.html"
 		},
 		
 		{
@@ -157,15 +173,15 @@
 	      	
 			"content_html": "<p>Netflix has seriously changed how I consume some of my entertainment. Thankfully <em>Better Call Saul</em> isn’t on that network which means I have to wait for a new episode every week. Somehow gives my week a little bit of relief as it’s the only show I’m watching these days.</p>\n",
 			"date_published": "2018-10-08T20:34:46+04:00",
-			"url": "https://micro.kaa.bz/2018/10/08/netflix-has-seriously.html"
+			"url": "https://www.kaa.bz/2018/10/08/netflix-has-seriously.html"
 		},
 		
 		{
 			"id": "http://kaa.micro.blog/2018/10/04/i-stumbled-upon.html",
 	      	
-			"content_html": "<p>I stumbled upon a truly incredible graph today that showed all the various types of Photovoltaic panel technology and their efficiency progress mapped across the years. What’s astounding is the innovation that is happening in this space, showing where the future will be.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/35f115b2b3.jpg\" width=\"600\" height=\"333\" /></p>\n",
+			"content_html": "<p>I stumbled upon a truly incredible graph today that showed all the various types of Photovoltaic panel technology and their efficiency progress mapped across the years. What’s astounding is the innovation that is happening in this space, showing where the future will be.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/35f115b2b3.jpg\" width=\"600\" height=\"333\" /></p>\n",
 			"date_published": "2018-10-04T21:09:51+04:00",
-			"url": "https://micro.kaa.bz/2018/10/04/i-stumbled-upon.html"
+			"url": "https://www.kaa.bz/2018/10/04/i-stumbled-upon.html"
 		},
 		
 		{
@@ -173,7 +189,7 @@
 	      	
 			"content_html": "<p><a href=\"https://inktober.com\">Happy Inktober everyone</a>. I’m hoping to dip my toe this year and have an idea of what to do, hopefully ready with a few things to share.</p>\n",
 			"date_published": "2018-10-03T19:41:26+04:00",
-			"url": "https://micro.kaa.bz/2018/10/03/happy-inktober-everyone.html"
+			"url": "https://www.kaa.bz/2018/10/03/happy-inktober-everyone.html"
 		},
 		
 		{
@@ -181,7 +197,7 @@
 	      	
 			"content_html": "<p>Everything old is new again. New faces in the office as our team slowly continues it’s transformation. I’m obviously aware (sometimes painfully) that nothing in life stays the same. When life kicks your ass, first tidy everything up and then assess and review.</p>\n",
 			"date_published": "2018-10-02T19:30:12+04:00",
-			"url": "https://micro.kaa.bz/2018/10/02/everything-old-is.html"
+			"url": "https://www.kaa.bz/2018/10/02/everything-old-is.html"
 		},
 		
 		{
@@ -189,23 +205,7 @@
 	      	
 			"content_html": "<p>Finally got the bluetooth in my car sorted out. It’s only taken a couple of years and $100 to get it sorted. I’ll never understand why Audi don’t enable this simple feature to begin with but there you have it. Now I can listen to my tunes through proper speakers.</p>\n",
 			"date_published": "2018-09-30T20:48:35+04:00",
-			"url": "https://micro.kaa.bz/2018/09/30/finally-got-the.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/27/its-getting-easier.html",
-	      	
-			"content_html": "<p>It’s getting easier to draw these scenes. The funny thing being that once I gave up on drawing comics I’ve allowed myself to draw these types of things.</p>\n\n<p><img src=\"http://micro.kaa.bz/uploads/2018/da6232bd17.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-27T19:47:16+04:00",
-			"url": "https://micro.kaa.bz/2018/09/27/its-getting-easier.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/24/ok-ive-not.html",
-	      	
-			"content_html": "<p>Ok I’ve not bought any new Field Notes in a year. I still have a healthy stash and could easily remain stocked up for several years to come….<em>however</em> these <a href=\"https://fieldnotesbrand.com/products/rams\">Ram edition</a> are really testing my Field Notes abstinence.</p>\n",
-			"date_published": "2018-09-24T22:46:02+04:00",
-			"url": "https://micro.kaa.bz/2018/09/24/ok-ive-not.html"
+			"url": "https://www.kaa.bz/2018/09/30/finally-got-the.html"
 		}
 		
 	]
