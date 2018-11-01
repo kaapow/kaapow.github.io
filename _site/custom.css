@@ -24,8 +24,8 @@ Last Update: 27th July 2018.
 /* Hide the Header elements.*/
 figure.avatar a img, h1.site__name, .site__page, small.copyright header.header, footer.footer { display: none; }
 
-main 								{ background: url(http://www.kaa.bz/_images/GradBottomSmall.png) repeat-x  var(--bg) bottom;  padding-bottom: 6rem;}
-.header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  }
+main 								{ background: url("http://www.kaa.bz/uploads/2018/83b6bd1d85.jpg") repeat-x  var(--bg) bottom;  padding-bottom: 6rem;}
+.header 							{ margin: 0; height: 30px; background:  url("http://www.kaa.bz/uploads/2018/a50abd9a6d.jpg") repeat;  }
 footer.footer, body.single header, body.home header 	{ padding: 0; margin: 0; }
 .posts.h-feed 						{ padding-top: 3rem; }
 .posts, #post-nav, footer.Newfooter { max-width: 680px; margin: 0 auto; width: 90%; }
@@ -146,5 +146,5 @@ ul.External li.MoonRacket a img 	{ height: 5rem;}
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
-.header 							{ background: url("http://www.kaa.bz/_images/GradTopSmall.png") repeat;  border-top: 1px solid var(--link);}
+.header 							{ background: url("http://www.kaa.bz/uploads/2018/a50abd9a6d.jpg") repeat;  border-top: 1px solid var(--link);}
 }
