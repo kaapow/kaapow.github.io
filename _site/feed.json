@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/02/071553.html",
+	      	
+			"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2018/679df47b1b.jpg\" width=\"600\" height=\"398\" /></p>\n",
+			"date_published": "2018-11-02T11:15:53+04:00",
+			"url": "https://www.kaa.bz/2018/11/02/071553.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/01/183513.html",
+	      	
+			"content_html": "<p>All of my <em>writing</em> happens in <a href=\"http://ia.net\">iAWriter</a>. All of my <em>editing</em> is happening in the <a href=\"http://www.hemingwayapp.com\">Hemingway app</a>. If you’ve not used this app, go read the <a href=\"http://www.hemingwayapp.com/help.html\">help</a> section first then give it a try on something you’ve written. It’s eye-opening.</p>\n",
+			"date_published": "2018-11-01T22:35:13+04:00",
+			"url": "https://www.kaa.bz/2018/11/01/183513.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/01/as-much-as.html",
+	      	
+			"content_html": "<p>As much as I love October, really glad it’s finally over and can look forward to what November has to bring. Winter is finally upon us and I’m looking forward to enjoying the outdoors a little bit more. With both boys in tow I’m hoping for a bunch of fun over the next 6 months.</p>\n",
+			"date_published": "2018-11-01T20:24:33+04:00",
+			"url": "https://www.kaa.bz/2018/11/01/as-much-as.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/10/31/first-proper-halloween.html",
 	      	
 			"content_html": "<p>First proper halloween experience for Zane, which he absolutely loved. Got dressed as a pterodactyl, hunted for houses with their lights on and then stuffing his bucket with goodies. I’ve never been into Halloween, but starting to enjoy it through my kid’s eyes.</p>\n",
@@ -182,30 +206,6 @@
 			"content_html": "<p>I stumbled upon a truly incredible graph today that showed all the various types of Photovoltaic panel technology and their efficiency progress mapped across the years. What’s astounding is the innovation that is happening in this space, showing where the future will be.</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/35f115b2b3.jpg\" width=\"600\" height=\"333\" /></p>\n",
 			"date_published": "2018-10-04T21:09:51+04:00",
 			"url": "https://www.kaa.bz/2018/10/04/i-stumbled-upon.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/03/happy-inktober-everyone.html",
-	      	
-			"content_html": "<p><a href=\"https://inktober.com\">Happy Inktober everyone</a>. I’m hoping to dip my toe this year and have an idea of what to do, hopefully ready with a few things to share.</p>\n",
-			"date_published": "2018-10-03T19:41:26+04:00",
-			"url": "https://www.kaa.bz/2018/10/03/happy-inktober-everyone.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/02/everything-old-is.html",
-	      	
-			"content_html": "<p>Everything old is new again. New faces in the office as our team slowly continues it’s transformation. I’m obviously aware (sometimes painfully) that nothing in life stays the same. When life kicks your ass, first tidy everything up and then assess and review.</p>\n",
-			"date_published": "2018-10-02T19:30:12+04:00",
-			"url": "https://www.kaa.bz/2018/10/02/everything-old-is.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/09/30/finally-got-the.html",
-	      	
-			"content_html": "<p>Finally got the bluetooth in my car sorted out. It’s only taken a couple of years and $100 to get it sorted. I’ll never understand why Audi don’t enable this simple feature to begin with but there you have it. Now I can listen to my tunes through proper speakers.</p>\n",
-			"date_published": "2018-09-30T20:48:35+04:00",
-			"url": "https://www.kaa.bz/2018/09/30/finally-got-the.html"
 		}
 		
 	]
