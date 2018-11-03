@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/09/13/more-sketches.html
 ---
 More sketches.
 
-<img src="http://www.kaa.bz/uploads/2018/5fc4976acf.jpg" width="599" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/5fc4976acf.jpg" width="599" height="600" />
