@@ -6,7 +6,7 @@ audio:
 date: 2018-08-13 07:53:58 +0400
 guid: http://kaa.micro.blog/2018/08/13/shouf-biosphere-reserve.html
 ---
-<img src="http://www.kaa.bz/uploads/2018/6986850d99.jpg" width="600" height="450" />
+<img src="https://www.kaa.bz/uploads/2018/6986850d99.jpg" width="600" height="450" />
 
 On the weekend we drove up to the Shouf Biosphere Reserve. The only regret I have is that we didn't even come close to experiencing the true majesty of the place. 
 
@@ -23,7 +23,7 @@ I think the people behind the reserve have done a great job of the website and t
 
 I genuinely liked the logo for the whole reserve and really loved the tickets you buy at the entrance to the reserve.
 
-<img src="http://www.kaa.bz/uploads/2018/f52372c95b.jpg" width="600" height="450" />
+<img src="https://www.kaa.bz/uploads/2018/f52372c95b.jpg" width="600" height="450" />
 
 ## Entrances
 We ended up going through the Barouk entrance. While a lovely entrance, clearly not the main entrance, which is the Massar. However, there are no less than six entrances:
@@ -44,4 +44,4 @@ _Obviously_ don't expect to be able to eat anywhere in the reserve. I honestly d
 Don't expect any 3G/LTE signal while you're up there. If you're going to be dependant on technology to get you to places, make sure that it can work offline. The website lets you download GPS maps as well.
 
 
-<img src="http://www.kaa.bz/uploads/2018/ab0aab89f5.jpg" width="450" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/ab0aab89f5.jpg" width="450" height="600" />
