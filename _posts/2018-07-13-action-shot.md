@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/07/13/action-shot.html
 ---
 Action shot!
 
-<img src="http://www.kaa.bz/uploads/2018/14402f839a.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/14402f839a.jpg" width="600" height="600" />
