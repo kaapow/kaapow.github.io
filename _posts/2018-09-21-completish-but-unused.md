@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/09/21/completish-but-unused.html
 ---
 Complet-ish but un-used art for my upcoming project. It was too busy for what I'm going for.
 
-<img src="http://www.kaa.bz/uploads/2018/7322c468e7.jpg" width="600" height="393" />
+<img src="https://www.kaa.bz/uploads/2018/7322c468e7.jpg" width="600" height="393" />
