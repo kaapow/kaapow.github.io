@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/03/this-weekends-mini.html",
+	      	
+			"content_html": "<p>This weekend’s mini project was making an <a href=\"https://www.lomography.com/magazine/336973-lomography-tutorials-adjustable-snake-knot-camera-strap\">adjustable snake knot camera strap</a>. Went for some funky colours as the paracord on offer had limited colours available.</p>\n",
+			"date_published": "2018-11-03T16:24:26+04:00",
+			"url": "https://www.kaa.bz/2018/11/03/this-weekends-mini.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/02/185738.html",
 	      	
 			"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2018/60d6ab54fd.jpg\" width=\"600\" height=\"398\" /></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>After listen to <em>The Minimalists</em> on the <a href=\"https://www.kevinrose.com\">Kevin Rose</a> show, I came to a realisation. In my persuit to determine which iPhone I should be buying this year, it turns out I really don’t need to get one after all.</p>\n\n<p>The reason for upgrading isn’t because the phone is slow, lacks some essential feature or that certain apps don’t run on it. Rather the <strong>only</strong> reason to upgrade is for the camera.</p>\n\n<p>Except I already own a pretty decent camera, the NEX-F3. I bought it just before Zane was born (so a little over 4 years ago now) and seem to have stopped using it 2 years ago. Why? I’m not sure. Maybe I bought into the whole ‘the best camera is the one on you’ ideaology?</p>\n\n<p>A quick read of a Wirecutter <a href=\"https://thewirecutter.com/reviews/first-sony-e-mount-lenses-to-buy/\">article I bookmarked in 2013</a>, led me to circling onto several Sigma lens that will help me get better photos. The bonus to all this is that they’re at a pretty reduced price point at the moment. And while we’re here, we might as well talk about one of <a href=\"https://prolost.com/blog/2013/12/11/how-to-take-good-photos-for-under-1000.html\">my favourite article</a> about photography to brush up on some things.</p>\n",
 			"date_published": "2018-10-10T21:55:55+04:00",
 			"url": "https://www.kaa.bz/2018/10/10/phones-and-cameras.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/08/netflix-has-seriously.html",
-	      	
-			"content_html": "<p>Netflix has seriously changed how I consume some of my entertainment. Thankfully <em>Better Call Saul</em> isn’t on that network which means I have to wait for a new episode every week. Somehow gives my week a little bit of relief as it’s the only show I’m watching these days.</p>\n",
-			"date_published": "2018-10-08T20:34:46+04:00",
-			"url": "https://www.kaa.bz/2018/10/08/netflix-has-seriously.html"
 		}
 		
 	]
