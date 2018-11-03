@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/09/13/because-one-sketch.html
 ---
 Because one sketch deserves another...
 
-<img src="http://www.kaa.bz/uploads/2018/b6abcbb8c1.jpg" width="600" height="450" />
+<img src="https://www.kaa.bz/uploads/2018/b6abcbb8c1.jpg" width="600" height="450" />
