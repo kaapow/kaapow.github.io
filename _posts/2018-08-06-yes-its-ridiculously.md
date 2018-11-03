@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/08/06/yes-its-ridiculously.html
 ---
 Yes it’s ridiculously hot and I’m an idiot but damn if this isn’t the best work out I’ve had in months.
 
-<img src="http://www.kaa.bz/uploads/2018/153b722477.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/153b722477.jpg" width="600" height="600" />
