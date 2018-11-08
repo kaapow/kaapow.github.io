@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2017/06/08/dubai-atlantis-checking.html
 ---
 #dubai #atlantis checking out some fish on a Friday morning
 
-<img src="https://micro.kaa.bz/uploads/2018/35970e0878.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/35970e0878.jpg" width="600" height="600" />
