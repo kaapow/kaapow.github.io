@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2017/12/17/crisp-cool-winter.html
 ---
 Crisp cool winter evening Dubai and my best friend and oldest son Zane
 
-<img src="https://micro.kaa.bz/uploads/2018/1c8ebf5d3e.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/1c8ebf5d3e.jpg" width="600" height="600" />
