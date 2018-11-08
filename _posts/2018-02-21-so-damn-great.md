@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/02/21/so-damn-great.html
 ---
 So. Damn. Great. 
 
-<img src="https://micro.kaa.bz/uploads/2018/2a0ab2fa72.jpg" width="600" height="337" />
+<img src="https://www.kaa.bz/uploads/2018/2a0ab2fa72.jpg" width="600" height="337" />
