@@ -6,7 +6,7 @@ audio:
 date: 2013-12-13 13:29:00 +0400
 guid: http://kaa.micro.blog/2013/12/13/chroma-script.html
 ---
-<p><img src="https://micro.kaa.bz/uploads/2018/7e8d5ea36b.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/7e8d5ea36b.jpg" alt="" /></p>
 
 <p>Earlier this year I completed rewriting the script I have been working on for many years now. I originally conceived of the idea in my 20s. Now in my early/mid-30s I&rsquo;ve finally completed the works in a fashion that I believe I can actually start making some progress on this idea by drawing it and eventually publishing it.</p>
 
