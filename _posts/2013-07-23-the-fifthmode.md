@@ -23,7 +23,7 @@ guid: http://kaa.micro.blog/2013/07/23/the-fifthmode.html
 
 <hr /><p>The first time Hyperloop was discussed was in this interview on <a href="http://pandodaily.com/2012/07/12/pandomonthly-presents-a-fireside-chat-with-elon-musk/">Pandodaily</a>, with Sarah Lacy. Based on the little that has been shared, one might think that Musk’s idea will be akin to something like the ‘tube’ transportation system in Futurama or The Jetsons. Many of the ideas (commercial space travel, commercial electric cars) that Musk discusses could have been taken straight out of science fiction novels. The reason you should take these ideas seriously, is because he makes those ideas a reality.</p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/db6ca643d4.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/db6ca643d4.jpg" alt="" /></p>
 
 <p>Musk’s idea doesn’t appear to be completely unique (as opposed to the science fictious world). <a href="http://couldthishappen.com/?p=381">Joelle Renstrom</a>, (who teachs at Boston University) has a good breakdown of the realities of this technology. One such reality is the Aeromovel. The other is the <a href="http://www.youtube.com/watch?v=McpWcn-1RZU">Evacuated Tube Transport</a> a system that has been proposed by the <a href="http://www.et3.com/">ET3 consortium</a>. The main question is therefore how does his proposed system differ.</p>
 
