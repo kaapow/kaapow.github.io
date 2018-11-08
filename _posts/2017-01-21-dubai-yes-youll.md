@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2017/01/21/dubai-yes-youll.html
 ---
 #dubai yes you'll find all sorts here one year after moving - every weekend
 
-<img src="https://micro.kaa.bz/uploads/2018/7b5aa7d9cf.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/7b5aa7d9cf.jpg" width="600" height="600" />
