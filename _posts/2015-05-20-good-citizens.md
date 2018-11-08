@@ -10,7 +10,7 @@ guid: http://kaa.micro.blog/2015/05/20/good-citizens.html
 
 <p>The problem is that Moon Racket strips don&rsquo;t really fall into either category. I could potentially use the panorama photos setting, but that would mean making things fit into a 500px height (which isn&rsquo;t great). Here&rsquo;s a look of what the panorma would look like using the <a href="http://moonracket.com/post/119418092109/in-plain-sight">latest weekly</a> (which dropped yesterday):</p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/a59360f369.jpg" alt="Panorama" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/a59360f369.jpg" alt="Panorama" /></p>
 
 <p>Alternatively I could upload the image as 1280px. On a retina display that works out to be a 640px image (which honestly is tiny). My website allows for a 960px width - on a retina display that&rsquo;s 1920px. If I do let Tumblr do it&rsquo;s thing, then my crisp black lines that I&rsquo;ve worked long and hard on, become this blurred mess.</p>
 
