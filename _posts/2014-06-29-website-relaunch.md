@@ -10,7 +10,7 @@ guid: http://kaa.micro.blog/2014/06/29/website-relaunch.html
 
 <p>After many months of the final mockup gathering dust in the project folder, I was able to buckle down over the weekend and put the site together.</p>
 
-<p><a href="http://moonracket.com"><img src="https://micro.kaa.bz/uploads/2018/2916501b8d.jpg" alt="" /></a></p>
+<p><a href="http://moonracket.com"><img src="https://www.kaa.bz/uploads/2018/2916501b8d.jpg" alt="" /></a></p>
 
 <p>The main aim for this design was to make sure that the focus of the site was on the strips themselves. This explains the gradual grade from the top and bottom bars to white and focusing on the strip. Not everything is perfect (It&rsquo;s not a fully responsive site or at least not in a meaningful way), however improvements will be ongoing now that the base is established.</p>
 
