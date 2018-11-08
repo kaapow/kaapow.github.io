@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2014/12/26/seaside-views-and.html
 ---
 Seaside views and walks in Beirut.
 
-<img src="https://micro.kaa.bz/uploads/2018/331d7dc7d0.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/331d7dc7d0.jpg" width="600" height="600" />
