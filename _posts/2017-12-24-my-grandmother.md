@@ -20,7 +20,7 @@ guid: http://kaa.micro.blog/2017/12/24/my-grandmother.html
 
 <p>Without a doubt, one of the highlights of my wedding (there were many that day), was seeing my grandmother attend — she was bedridden for several years by that stage, so her attendance never even crossed my mind as a possibility. It took a lot for her to be there, and thankfully her nurse made it a reality.</p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/d9bea902d4.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/d9bea902d4.jpg" alt="" /></p>
 
 <p>My grandmother at my wedding</p>
 
