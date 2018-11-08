@@ -12,11 +12,11 @@ guid: http://kaa.micro.blog/2017/08/09/then-andnow.html
 
 <p>What’s also clear to me, is that there is really no rush with these characters. This August marks 5 years since I first started working on Moon Racket! The below three images were created on an iPhone 4 as a way to use the Brushes app along with a <strong>really</strong> shitty stylus.</p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/d97975fb91.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/d97975fb91.jpg" alt="" /></p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/c70fd133dd.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/c70fd133dd.jpg" alt="" /></p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/2ecc72e8cd.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/2ecc72e8cd.jpg" alt="" /></p>
 
 <p>Evolution of Corgan — Created on an iPhone 4</p>
 
@@ -30,11 +30,11 @@ guid: http://kaa.micro.blog/2017/08/09/then-andnow.html
 
 <p>What I continue to be surprised by, is the fact that every time I create a new image, it adds something new and interesting to this world. I’ve only created two full images this year, but they basically added the orange colour which ties the art together, a new character (in Ison the rocket) and established a new vernacular for the type of buildings that I’d like to see throughout the Moon Racket! world (till now, I’d not shown the guys in the context of an actual physical place). Not bad for two images.</p>
 
-<p><img src="https://micro.kaa.bz/uploads/2018/e89a96e1c4.jpg" alt="" /></p>
+<p><img src="https://www.kaa.bz/uploads/2018/e89a96e1c4.jpg" alt="" /></p>
 
 <p>Black &amp; White artwork for header</p>
 
-<hr /><p><img src="https://micro.kaa.bz/uploads/2018/252800b7e8.jpg" alt="" /></p>
+<hr /><p><img src="https://www.kaa.bz/uploads/2018/252800b7e8.jpg" alt="" /></p>
 
 <p>Completed colour artwork for header</p>
 
