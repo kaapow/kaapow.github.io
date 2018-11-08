@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2015/03/21/breakfast-of-champions.html
 ---
 Breakfast of champions. Happy Mother's Day, Happy No Ruz, Happy first day of spring #noruz #mothersday #breakfast
 
-<img src="https://micro.kaa.bz/uploads/2018/be7cf1f823.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/be7cf1f823.jpg" width="600" height="600" />
