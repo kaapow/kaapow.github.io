@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2015/03/13/some-pearlqatar-action.html
 ---
 Some @pearlqatar action from earlier today
 
-<img src="https://micro.kaa.bz/uploads/2018/7e64f8accc.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/7e64f8accc.jpg" width="600" height="600" />
