@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2016/04/03/view-from-the.html
 ---
 View from the office. It've been here for 3 months and the view still doesn't get old. #Dubai
 
-<img src="https://micro.kaa.bz/uploads/2018/24a8387667.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/24a8387667.jpg" width="600" height="600" />
