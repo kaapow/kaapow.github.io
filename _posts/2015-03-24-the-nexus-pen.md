@@ -14,4 +14,4 @@ The #nexus pen finally arrived today. Initial thoughts.
 
 #nexus #namisu #fountainpen #pen #stationary
 
-<img src="https://micro.kaa.bz/uploads/2018/997347c379.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/997347c379.jpg" width="600" height="600" />
