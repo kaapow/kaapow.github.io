@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2010/10/06/from-my-desk.html
 ---
 From my desk where I draw every morning
 
-<img src="https://micro.kaa.bz/uploads/2018/e0b4c2100a.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/e0b4c2100a.jpg" width="600" height="600" />
