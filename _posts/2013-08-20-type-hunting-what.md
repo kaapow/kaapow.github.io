@@ -5,7 +5,7 @@ audio:
 date: 2013-08-20 09:41:00 +0400
 guid: http://kaa.micro.blog/2013/08/20/type-hunting-what.html
 ---
-<img src="https://micro.kaa.bz/uploads/2018/29ce3ebaf9.jpg" alt="" width="500" height="718" class="alignnone size-full wp-image-424" />
+<img src="https://www.kaa.bz/uploads/2018/29ce3ebaf9.jpg" alt="" width="500" height="718" class="alignnone size-full wp-image-424" />
 
 <strong><a href="http://typehunting.com/">Type Hunting</a></strong>
 
