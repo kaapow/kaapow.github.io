@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2016/08/24/hmmmmmm-keo.html
 ---
 Hmmmmmm, KEO....
 
-<img src="https://micro.kaa.bz/uploads/2018/fe3df215cf.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/fe3df215cf.jpg" width="600" height="600" />
