@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/04/03/morning-walk.html
 ---
 Morning walk.
 
-<img src="https://micro.kaa.bz/uploads/2018/95c0a750fa.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/95c0a750fa.jpg" width="600" height="600" />
