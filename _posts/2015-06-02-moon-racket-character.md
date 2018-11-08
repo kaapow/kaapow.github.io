@@ -5,7 +5,7 @@ audio:
 date: 2015-06-02 07:00:46 +0400
 guid: http://kaa.micro.blog/2015/06/02/moon-racket-character.html
 ---
-<img src="https://micro.kaa.bz/uploads/2018/f83ff2cc88.jpg" alt="" width="640" height="960" class="alignnone size-full wp-image-174" />
+<img src="https://www.kaa.bz/uploads/2018/f83ff2cc88.jpg" alt="" width="640" height="960" class="alignnone size-full wp-image-174" />
 
 Not sure how the idea came about, but this is effectively Alfie’s first appearance.
 
