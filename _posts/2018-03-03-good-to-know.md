@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/03/03/good-to-know.html
 ---
 Good to know there is a place nearby with Moroccan tea.
 
-<img src="https://micro.kaa.bz/uploads/2018/8282a506e9.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/8282a506e9.jpg" width="600" height="600" />
