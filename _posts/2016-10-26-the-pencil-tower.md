@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2016/10/26/the-pencil-tower.html
 ---
 The pencil tower - time to start taking photos around Dubai now that the weather is ok
 
-<img src="https://micro.kaa.bz/uploads/2018/f2c00dfdde.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/f2c00dfdde.jpg" width="600" height="600" />
