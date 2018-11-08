@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2015/01/27/fog-this-morning.html
 ---
 Fog this morning was insane going to work. Never seen anything like it
 
-<img src="https://micro.kaa.bz/uploads/2018/2448e14b42.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/2448e14b42.jpg" width="600" height="600" />
