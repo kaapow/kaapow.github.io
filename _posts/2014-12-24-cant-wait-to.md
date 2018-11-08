@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2014/12/24/cant-wait-to.html
 ---
 Can't wait to crack this open. Great presentation. #logos #christmas
 
-<img src="https://micro.kaa.bz/uploads/2018/3b2f72c57b.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/3b2f72c57b.jpg" width="600" height="600" />
