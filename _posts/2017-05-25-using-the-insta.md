@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2017/05/25/using-the-insta.html
 ---
 Using the Insta part of Instagram a little more
 
-<img src="https://micro.kaa.bz/uploads/2018/30a8c997fb.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/30a8c997fb.jpg" width="600" height="600" />
