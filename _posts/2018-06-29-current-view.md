@@ -7,4 +7,4 @@ guid: http://kaa.micro.blog/2018/06/29/current-view.html
 ---
 Current view.
 
-<img src="https://micro.kaa.bz/uploads/2018/ae4905f4b0.jpg" width="600" height="600" />
+<img src="https://www.kaa.bz/uploads/2018/ae4905f4b0.jpg" width="600" height="600" />
