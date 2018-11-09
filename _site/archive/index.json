@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/08/the-weekend-is.html",
+	      	
+			"content_text": "The weekend is finally upon us and as always I’m...",
+			"date_published": "2018-11-08T19:19:23+04:00",
+			"url": "https://www.kaa.bz/2018/11/08/the-weekend-is.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/08/121829.html",
+	      	
+			"content_text": "It’s been an exceptionally tough week, which is to be...",
+			"date_published": "2018-11-08T16:18:29+04:00",
+			"url": "https://www.kaa.bz/2018/11/08/121829.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/05/finding-your-niche.html",
+	      	
+			"content_text": "Finding your niche can feel like a life long struggle....",
+			"date_published": "2018-11-05T06:05:16+04:00",
+			"url": "https://www.kaa.bz/2018/11/05/finding-your-niche.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/03/this-weekends-mini.html",
 	      	
 			"content_text": "This weekend’s mini project was making an adjustable snake knot...",
