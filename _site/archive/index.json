@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/10/awesome-analysis-of.html",
+	      	
+			"content_text": "Awesome analysis of why tech companies are making custom typefaces....",
+			"date_published": "2018-11-10T17:48:19+04:00",
+			"url": "https://www.kaa.bz/2018/11/10/awesome-analysis-of.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/09/podcasts-for-november.html",
+	      	
+			"title": "Podcasts for November",
+			
+			"content_text": "🎙️ Seeing as I’m in the car for many hours...",
+			"date_published": "2018-11-09T23:13:54+04:00",
+			"url": "https://www.kaa.bz/2018/11/09/podcasts-for-november.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/09/park-season-is.html",
 	      	
 			"content_text": "Park season is upon us.\n\n\n",
