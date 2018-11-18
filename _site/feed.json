@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/18/the-new-smashing.html",
+	      	
+			"content_html": "<p>The new Smashing Pumpkins album is such a treat for us fans. <em>Solara</em>, <em>Alienation</em> and <em>Marchin’ On</em> being the stand out songs.</p>\n",
+			"date_published": "2018-11-18T17:48:52+04:00",
+			"url": "https://www.kaa.bz/2018/11/18/the-new-smashing.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/17/years-ago-while.html",
+	      	
+			"content_html": "<p>Years ago, while in London, I would often turn to the movie <em>Amelie</em> in an attempt to help me relax, try be more positive about the world and life in general. All these years later it still does the trick.</p>\n",
+			"date_published": "2018-11-17T22:29:23+04:00",
+			"url": "https://www.kaa.bz/2018/11/17/years-ago-while.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/17/im-kinda-over.html",
 	      	
 			"content_html": "<p>I’m <em>kinda</em> over stationary. Once you’ve tried a bunch of things and realised that you have what suits your needs (and more), the continued hunt becomes hoarding. I have <a href=\"https://www.penchalet.com/reviews/sailor_1911_black_luster_fountain_pen_review.html\">one big purchase</a> left before I close the book on this hobby for a while.</p>\n",
@@ -190,22 +206,6 @@
 			"content_html": "<p>If you’re struggling to write on your site, then consider a trick I’ve been using this year. I write for myself and  1 other person that doesn’t exist, except in my mind. He likes similar things as me, and my site is how I share small messages with him.</p>\n",
 			"date_published": "2018-10-24T05:24:30+04:00",
 			"url": "https://www.kaa.bz/2018/10/24/if-youre-struggling.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/23/inktober-continues.html",
-	      	
-			"content_html": "<p>Inktober #005 continues.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/956d937b9a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-23T16:33:37+04:00",
-			"url": "https://www.kaa.bz/2018/10/23/inktober-continues.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/23/inktober-is-nearly.html",
-	      	
-			"content_html": "<p>Inktober is nearly over. This one was done while I was on the phone.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/8f40d272ed.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-23T07:45:01+04:00",
-			"url": "https://www.kaa.bz/2018/10/23/inktober-is-nearly.html"
 		}
 		
 	]
