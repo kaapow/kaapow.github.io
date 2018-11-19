@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/19/missing-from-microblog.html",
+	      	
+			"title": "Missing from Micro.blog",
+			
+			"content_text": "I don’t like to write about the system I’m using...",
+			"date_published": "2018-11-19T06:35:22+04:00",
+			"url": "https://www.kaa.bz/2018/11/19/missing-from-microblog.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/18/the-new-smashing.html",
 	      	
 			"content_text": "The new Smashing Pumpkins album is such a treat for...",
