@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/6eca497aab.jpg
 date: 2013-08-12 11:35:50 +0400
 guid: http://kaa.micro.blog/2013/08/12/while-im-down.html
 ---
