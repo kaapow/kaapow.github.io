@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-04 06:44:40 +0400
 guid: http://kaa.micro.blog/2018/05/04/importing-my-data.html
 ---
