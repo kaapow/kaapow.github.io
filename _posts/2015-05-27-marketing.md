@@ -3,6 +3,7 @@ layout: post
 title: "Marketing"
 microblog: false
 audio: 
+photo: 
 date: 2015-05-27 07:00:37 +0400
 guid: http://kaa.micro.blog/2015/05/27/marketing.html
 ---
