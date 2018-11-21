@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-28 21:31:49 +0400
 guid: http://kaa.micro.blog/2018/02/28/ralph-breaks-the.html
 ---
