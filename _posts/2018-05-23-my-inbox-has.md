@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-23 14:30:52 +0400
 guid: http://kaa.micro.blog/2018/05/23/my-inbox-has.html
 ---
