@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-01 15:42:15 +0400
 guid: http://kaa.micro.blog/2018/09/01/ughhh-came-back.html
 ---
