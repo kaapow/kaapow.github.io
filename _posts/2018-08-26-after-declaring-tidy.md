@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-26 21:33:00 +0400
 guid: http://kaa.micro.blog/2018/08/26/after-declaring-tidy.html
 ---
