@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-27 22:45:52 +0400
 guid: http://kaa.micro.blog/2018/07/27/the-sons-of.html
 ---
