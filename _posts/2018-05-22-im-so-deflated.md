@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-22 07:27:35 +0400
 guid: http://kaa.micro.blog/2018/05/22/im-so-deflated.html
 ---
