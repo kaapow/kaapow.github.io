@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/380d30b646.jpg
 date: 2015-06-15 22:44:42 +0400
 guid: http://kaa.micro.blog/2015/06/15/im-super-excited.html
 ---
