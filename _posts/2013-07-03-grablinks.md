@@ -3,6 +3,7 @@ layout: post
 title: "GrabLinks"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-03 20:03:00 +0400
 guid: http://kaa.micro.blog/2013/07/03/grablinks.html
 ---
