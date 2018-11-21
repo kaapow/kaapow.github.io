@@ -3,6 +3,7 @@ layout: post
 title: "Omega Co-Axial Chronometer Advert"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-10 10:44:18 +0400
 guid: http://kaa.micro.blog/2013/08/10/omega-coaxial-chronometer.html
 ---
