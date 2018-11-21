@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-10 03:47:43 +0400
 guid: http://kaa.micro.blog/2018/03/09/sierra-leone-just.html
 ---
