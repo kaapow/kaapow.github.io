@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/6dd1195d41.jpg
 date: 2016-08-27 01:12:42 +0400
 guid: http://kaa.micro.blog/2016/08/26/dubai-sun-summer.html
 ---
