@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-17 06:28:07 +0400
 guid: http://kaa.micro.blog/2018/06/17/ive-been-going.html
 ---
