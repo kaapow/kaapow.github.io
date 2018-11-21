@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 18:42:39 +0400
 guid: http://kaa.micro.blog/2018/08/29/paul-turned-me.html
 ---
