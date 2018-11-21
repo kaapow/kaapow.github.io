@@ -3,6 +3,7 @@ layout: post
 title: "Priorities"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-09 18:40:02 +0400
 guid: http://kaa.micro.blog/2013/08/09/priorities.html
 ---
