@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-18 09:47:57 +0400
 guid: http://kaa.micro.blog/2018/05/18/after-nearly-years.html
 ---
