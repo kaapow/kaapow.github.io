@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-26 06:53:47 +0400
 guid: http://kaa.micro.blog/2018/03/26/there-was-a.html
 ---
