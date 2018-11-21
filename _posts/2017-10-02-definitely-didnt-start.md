@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/624f435d6f.jpg
 date: 2017-10-02 20:26:56 +0400
 guid: http://kaa.micro.blog/2017/10/02/definitely-didnt-start.html
 ---
