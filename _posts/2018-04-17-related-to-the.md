@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-17 11:44:38 +0400
 guid: http://kaa.micro.blog/2018/04/17/related-to-the.html
 ---
