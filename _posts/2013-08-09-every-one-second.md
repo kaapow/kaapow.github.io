@@ -3,6 +3,7 @@ layout: post
 title: "Every One Second on the Internet"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-10 00:56:00 +0400
 guid: http://kaa.micro.blog/2013/08/09/every-one-second.html
 ---
