@@ -3,6 +3,7 @@ layout: post
 title: "6 Bullet Points"
 microblog: false
 audio: 
+photo: 
 date: 2015-07-01 22:22:34 +0400
 guid: http://kaa.micro.blog/2015/07/01/bullet-points.html
 ---
