@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2016-12-24 16:05:30 +0400
 guid: http://kaa.micro.blog/2016/12/24/tofugu-a-japanese.html
 ---
