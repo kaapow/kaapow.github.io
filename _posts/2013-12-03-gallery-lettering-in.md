@@ -3,6 +3,7 @@ layout: post
 title: "Lettering"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-03 23:23:00 +0400
 guid: http://kaa.micro.blog/2013/12/03/gallery-lettering-in.html
 ---
