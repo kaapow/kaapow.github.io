@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-10 11:25:59 +0400
 guid: http://kaa.micro.blog/2018/07/10/ive-been-decompressing.html
 ---
