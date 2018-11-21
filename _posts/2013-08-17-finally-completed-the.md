@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/73e7eb95ca.jpg
 date: 2013-08-17 14:52:00 +0400
 guid: http://kaa.micro.blog/2013/08/17/finally-completed-the.html
 ---
