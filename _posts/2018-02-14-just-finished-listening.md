@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-14 20:35:19 +0400
 guid: http://kaa.micro.blog/2018/02/14/just-finished-listening.html
 ---
