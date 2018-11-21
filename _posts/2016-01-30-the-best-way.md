@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/969902dc18.jpg
 date: 2016-01-30 06:30:28 +0400
 guid: http://kaa.micro.blog/2016/01/30/the-best-way.html
 ---
