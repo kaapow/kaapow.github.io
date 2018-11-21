@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2015-05-29 09:14:29 +0400
 guid: http://kaa.micro.blog/2015/05/29/gallery-logo-for.html
 ---
