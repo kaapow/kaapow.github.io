@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/7e08d67cdb.jpg
 date: 2014-12-14 21:52:39 +0400
 guid: http://kaa.micro.blog/2014/12/14/twinkles-sometimes-you.html
 ---
