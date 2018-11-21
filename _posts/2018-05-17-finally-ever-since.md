@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-17 15:56:11 +0400
 guid: http://kaa.micro.blog/2018/05/17/finally-ever-since.html
 ---
