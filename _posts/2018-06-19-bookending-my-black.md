@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/3fa31b106b.jpg
 date: 2018-06-19 21:02:49 +0400
 guid: http://kaa.micro.blog/2018/06/19/bookending-my-black.html
 ---
