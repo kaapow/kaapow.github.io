@@ -3,6 +3,7 @@ layout: post
 title: "Autopilot"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-08 09:52:55 +0400
 guid: http://kaa.micro.blog/2013/05/08/autopilot.html
 ---
