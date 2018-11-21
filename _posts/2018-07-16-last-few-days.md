@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-16 18:49:28 +0400
 guid: http://kaa.micro.blog/2018/07/16/last-few-days.html
 ---
