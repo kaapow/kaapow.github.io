@@ -3,6 +3,7 @@ layout: post
 title: "Amazon Comment"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-19 22:51:00 +0400
 guid: http://kaa.micro.blog/2015/02/19/amazon-comment.html
 ---
