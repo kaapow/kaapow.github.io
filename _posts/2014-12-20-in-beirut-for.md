@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/c47c0b4270.jpg
 date: 2014-12-21 01:14:11 +0400
 guid: http://kaa.micro.blog/2014/12/20/in-beirut-for.html
 ---
