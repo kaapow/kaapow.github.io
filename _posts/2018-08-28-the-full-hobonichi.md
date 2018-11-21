@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-28 08:02:35 +0400
 guid: http://kaa.micro.blog/2018/08/28/the-full-hobonichi.html
 ---
