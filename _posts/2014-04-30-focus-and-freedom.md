@@ -3,6 +3,7 @@ layout: post
 title: "Focus and Freedom"
 microblog: false
 audio: 
+photo: 
 date: 2014-04-30 14:33:27 +0400
 guid: http://kaa.micro.blog/2014/04/30/focus-and-freedom.html
 ---
