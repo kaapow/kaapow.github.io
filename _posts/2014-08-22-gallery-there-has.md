@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2014-08-22 21:02:00 +0400
 guid: http://kaa.micro.blog/2014/08/22/gallery-there-has.html
 ---
