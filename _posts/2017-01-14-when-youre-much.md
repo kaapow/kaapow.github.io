@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/78559f713f.jpg
 date: 2017-01-14 08:24:24 +0400
 guid: http://kaa.micro.blog/2017/01/14/when-youre-much.html
 ---
