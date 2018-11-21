@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 22:12:30 +0400
 guid: http://kaa.micro.blog/2018/10/15/discovered-burro-blanco.html
 ---
