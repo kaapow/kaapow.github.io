@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 10:50:57 +0400
 guid: http://kaa.micro.blog/2018/02/17/finally-after-years.html
 ---
