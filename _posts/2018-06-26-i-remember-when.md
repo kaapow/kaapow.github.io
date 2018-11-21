@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-26 06:48:16 +0400
 guid: http://kaa.micro.blog/2018/06/26/i-remember-when.html
 ---
