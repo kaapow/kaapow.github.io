@@ -3,6 +3,7 @@ layout: post
 title: "My thoughts on Brexit"
 microblog: false
 audio: 
+photo: 
 date: 2017-01-04 09:00:00 +0400
 guid: http://kaa.micro.blog/2017/01/04/my-thoughts-onbrexit.html
 ---
