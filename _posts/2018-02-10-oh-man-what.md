@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/374b929cb7.jpg
 date: 2018-02-10 13:34:11 +0400
 guid: http://kaa.micro.blog/2018/02/10/oh-man-what.html
 ---
