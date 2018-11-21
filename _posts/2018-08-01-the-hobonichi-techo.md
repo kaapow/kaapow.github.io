@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-01 13:11:18 +0400
 guid: http://kaa.micro.blog/2018/08/01/the-hobonichi-techo.html
 ---
