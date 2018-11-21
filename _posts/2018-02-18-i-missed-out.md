@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-18 06:23:14 +0400
 guid: http://kaa.micro.blog/2018/02/18/i-missed-out.html
 ---
