@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/e038b79d66.jpg
 date: 2015-03-09 22:42:13 +0400
 guid: http://kaa.micro.blog/2015/03/09/best-shave-ive.html
 ---
