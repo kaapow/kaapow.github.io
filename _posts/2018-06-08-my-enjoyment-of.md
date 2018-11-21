@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-08 05:55:34 +0400
 guid: http://kaa.micro.blog/2018/06/08/my-enjoyment-of.html
 ---
