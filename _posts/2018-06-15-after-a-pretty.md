@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 21:57:46 +0400
 guid: http://kaa.micro.blog/2018/06/15/after-a-pretty.html
 ---
