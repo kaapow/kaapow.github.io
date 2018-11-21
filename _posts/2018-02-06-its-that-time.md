@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 22:12:52 +0400
 guid: http://kaa.micro.blog/2018/02/06/its-that-time.html
 ---
