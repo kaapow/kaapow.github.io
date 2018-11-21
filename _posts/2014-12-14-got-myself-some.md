@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/5735187b73.jpg
 date: 2014-12-14 08:42:55 +0400
 guid: http://kaa.micro.blog/2014/12/14/got-myself-some.html
 ---
