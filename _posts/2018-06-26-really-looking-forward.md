@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-26 21:59:31 +0400
 guid: http://kaa.micro.blog/2018/06/26/really-looking-forward.html
 ---
