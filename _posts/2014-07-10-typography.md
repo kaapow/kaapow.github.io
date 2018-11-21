@@ -3,6 +3,7 @@ layout: post
 title: "Typography"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/477125df31.jpg
 date: 2014-07-10 12:50:28 +0400
 guid: http://kaa.micro.blog/2014/07/10/typography.html
 ---
