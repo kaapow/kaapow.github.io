@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/bd3b461ca2.jpg
 date: 2015-11-25 20:17:31 +0400
 guid: http://kaa.micro.blog/2015/11/25/doha-international-airport.html
 ---
