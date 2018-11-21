@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/26e3c6db04.jpg
 date: 2014-12-13 11:27:43 +0400
 guid: http://kaa.micro.blog/2014/12/13/meet-the-twinkles.html
 ---
