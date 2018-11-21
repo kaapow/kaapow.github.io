@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-13 02:52:19 +0400
 guid: http://kaa.micro.blog/2018/03/12/lost-in-spacehttpswwwyoutubecomwatchvfzmmabqqts.html
 ---
