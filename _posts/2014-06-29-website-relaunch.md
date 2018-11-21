@@ -3,6 +3,7 @@ layout: post
 title: "Website Relaunch"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/2916501b8d.jpg
 date: 2014-06-30 01:05:00 +0400
 guid: http://kaa.micro.blog/2014/06/29/website-relaunch.html
 ---
