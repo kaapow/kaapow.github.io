@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-03 19:41:26 +0400
 guid: http://kaa.micro.blog/2018/10/03/happy-inktober-everyone.html
 ---
