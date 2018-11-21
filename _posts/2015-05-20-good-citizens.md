@@ -3,6 +3,7 @@ layout: post
 title: "Good Citizens"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/a59360f369.jpg
 date: 2015-05-20 08:35:56 +0400
 guid: http://kaa.micro.blog/2015/05/20/good-citizens.html
 ---
