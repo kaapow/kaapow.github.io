@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-21 05:57:06 +0400
 guid: http://kaa.micro.blog/2018/03/21/first-day-of.html
 ---
