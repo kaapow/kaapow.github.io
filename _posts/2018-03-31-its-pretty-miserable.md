@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-31 20:52:48 +0400
 guid: http://kaa.micro.blog/2018/03/31/its-pretty-miserable.html
 ---
