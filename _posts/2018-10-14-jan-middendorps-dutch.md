@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-14 22:27:16 +0400
 guid: http://kaa.micro.blog/2018/10/14/jan-middendorps-dutch.html
 ---
