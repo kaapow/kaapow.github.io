@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/b05a24cb16.jpg
 date: 2017-04-23 08:31:21 +0400
 guid: http://kaa.micro.blog/2017/04/23/decided-im-going.html
 ---
