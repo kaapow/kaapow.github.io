@@ -3,6 +3,7 @@ layout: post
 title: "Fresh Starts"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-20 19:47:00 +0400
 guid: http://kaa.micro.blog/2013/11/20/fresh-starts.html
 ---
