@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/967f03489a.jpg
 date: 2015-07-08 09:38:07 +0400
 guid: http://kaa.micro.blog/2015/07/08/latest-episode-of.html
 ---
