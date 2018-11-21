@@ -3,6 +3,7 @@ layout: post
 title: "My Grandmother"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/d9bea902d4.jpg
 date: 2017-12-24 09:00:00 +0400
 guid: http://kaa.micro.blog/2017/12/24/my-grandmother.html
 ---
