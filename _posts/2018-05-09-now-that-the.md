@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-09 12:52:41 +0400
 guid: http://kaa.micro.blog/2018/05/09/now-that-the.html
 ---
