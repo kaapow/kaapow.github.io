@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to RMO"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-13 09:48:12 +0400
 guid: http://kaa.micro.blog/2018/02/13/welcome-to-rmo.html
 ---
