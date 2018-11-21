@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-19 20:40:19 +0400
 guid: http://kaa.micro.blog/2018/09/19/my-favourite-feeling.html
 ---
