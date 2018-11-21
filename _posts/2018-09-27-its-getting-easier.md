@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/da6232bd17.jpg
 date: 2018-09-27 19:47:16 +0400
 guid: http://kaa.micro.blog/2018/09/27/its-getting-easier.html
 ---
