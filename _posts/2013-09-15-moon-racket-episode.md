@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/f38896d69d.jpg
 date: 2013-09-15 09:35:37 +0400
 guid: http://kaa.micro.blog/2013/09/15/moon-racket-episode.html
 ---
