@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 21:21:11 +0400
 guid: http://kaa.micro.blog/2018/10/30/this-new-ipad.html
 ---
