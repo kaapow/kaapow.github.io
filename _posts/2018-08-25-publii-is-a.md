@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-25 20:47:34 +0400
 guid: http://kaa.micro.blog/2018/08/25/publii-is-a.html
 ---
