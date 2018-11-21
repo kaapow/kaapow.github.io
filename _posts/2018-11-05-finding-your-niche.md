@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-05 06:05:16 +0400
 guid: http://kaa.micro.blog/2018/11/05/finding-your-niche.html
 ---
