@@ -3,6 +3,7 @@ layout: post
 title: "Tumbling Tips"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-30 11:21:45 +0400
 guid: http://kaa.micro.blog/2013/07/30/tumbling-tips.html
 ---
