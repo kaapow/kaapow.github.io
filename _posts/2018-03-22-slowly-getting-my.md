@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-22 13:12:45 +0400
 guid: http://kaa.micro.blog/2018/03/22/slowly-getting-my.html
 ---
