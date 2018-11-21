@@ -3,6 +3,7 @@ layout: post
 title: "Pinboard as Linklog"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-07 08:41:24 +0400
 guid: http://kaa.micro.blog/2018/02/07/pinboard-as-linklog.html
 ---
