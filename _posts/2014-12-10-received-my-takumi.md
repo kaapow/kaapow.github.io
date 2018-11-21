@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/b7d6463de6.jpg
 date: 2014-12-10 07:34:06 +0400
 guid: http://kaa.micro.blog/2014/12/10/received-my-takumi.html
 ---
