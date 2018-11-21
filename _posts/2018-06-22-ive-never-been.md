@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-22 08:39:07 +0400
 guid: http://kaa.micro.blog/2018/06/22/ive-never-been.html
 ---
