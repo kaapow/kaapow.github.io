@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/ebe14f058c.jpg
 date: 2015-05-28 12:00:55 +0400
 guid: http://kaa.micro.blog/2015/05/28/since-i-did.html
 ---
