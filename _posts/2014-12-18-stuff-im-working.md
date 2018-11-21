@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/81e966585c.jpg
 date: 2014-12-18 20:51:58 +0400
 guid: http://kaa.micro.blog/2014/12/18/stuff-im-working.html
 ---
