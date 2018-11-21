@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-29 12:14:06 +0400
 guid: http://kaa.micro.blog/2018/03/29/i-think-ive.html
 ---
