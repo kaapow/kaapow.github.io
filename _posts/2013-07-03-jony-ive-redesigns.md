@@ -3,6 +3,7 @@ layout: post
 title: "Jony Ive Redesigns Things"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-03 22:43:01 +0400
 guid: http://kaa.micro.blog/2013/07/03/jony-ive-redesigns.html
 ---
