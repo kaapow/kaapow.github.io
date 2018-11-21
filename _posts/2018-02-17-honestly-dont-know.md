@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 21:37:28 +0400
 guid: http://kaa.micro.blog/2018/02/17/honestly-dont-know.html
 ---
