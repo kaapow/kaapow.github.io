@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-30 08:01:34 +0400
 guid: http://kaa.micro.blog/2018/05/30/today-is-zanes.html
 ---
