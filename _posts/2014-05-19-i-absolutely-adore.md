@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/00629db0da.jpg
 date: 2014-05-19 10:16:00 +0400
 guid: http://kaa.micro.blog/2014/05/19/i-absolutely-adore.html
 ---
