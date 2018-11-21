@@ -3,6 +3,7 @@ layout: post
 title: "Internet Life"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-07 20:47:33 +0400
 guid: http://kaa.micro.blog/2018/02/07/internet-life.html
 ---
