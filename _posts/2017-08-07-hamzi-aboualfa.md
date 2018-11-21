@@ -3,6 +3,7 @@ layout: post
 title: "Hamzi Abou Alfa"
 microblog: false
 audio: 
+photo: 
 date: 2017-08-07 08:00:00 +0400
 guid: http://kaa.micro.blog/2017/08/07/hamzi-aboualfa.html
 ---
