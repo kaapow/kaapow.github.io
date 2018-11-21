@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 20:36:14 +0400
 guid: http://kaa.micro.blog/2018/10/31/first-proper-halloween.html
 ---
