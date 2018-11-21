@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/bf461b09f8.jpg
 date: 2018-10-20 09:46:51 +0400
 guid: http://kaa.micro.blog/2018/10/20/autumn-reading-second.html
 ---
