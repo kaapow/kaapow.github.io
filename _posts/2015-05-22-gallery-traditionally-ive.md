@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2015-05-22 07:00:50 +0400
 guid: http://kaa.micro.blog/2015/05/22/gallery-traditionally-ive.html
 ---
