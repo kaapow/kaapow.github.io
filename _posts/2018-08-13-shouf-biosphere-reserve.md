@@ -3,6 +3,7 @@ layout: post
 title: "Shouf Biosphere Reserve"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/ab0aab89f5.jpg
 date: 2018-08-13 07:53:58 +0400
 guid: http://kaa.micro.blog/2018/08/13/shouf-biosphere-reserve.html
 ---
