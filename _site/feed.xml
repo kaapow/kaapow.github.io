@@ -4,8 +4,17 @@
     <title>Khaled Abou Alfa</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/kaa&quot;&gt;@kaa on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.kaa.bz/</link>
-    <pubDate>Mon, 19 Nov 2018 06:35:59 +0400</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 06:35:59 +0400</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 03:03:46 +0400</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 03:03:46 +0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://prospect.org/article/brexit-mess-will-go-on-years&quot;&gt;Depressing but astute assessment&lt;/a&gt; of the current state of Brexit. The surprising stat is the 700,000 older/young people change per year.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Nov 2018 02:49:03 +0400</pubDate>
+        <link>https://www.kaa.bz/2018/11/20/depressing-but-astute.html</link>
+        <guid isPermaLink="true">http://kaa.micro.blog/2018/11/19/depressing-but-astute.html</guid>
+      </item>
     
       <item>
       	
@@ -26,7 +35,7 @@
 
 &lt;p&gt;I think that Micro.blog handles many issues in a wonderfully elegant fashion. However there is plenty of room for improvement. While I’m aware that &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt; is but one person who is already doing a lot, it’s important to recognise that the sustainable thing is to have more than one person involved in the ongoing development of the platform, dare I say &lt;em&gt;multiple&lt;/em&gt; people. To help him get to that ideal, the hosted option &lt;strong&gt;needs&lt;/strong&gt; to become more appealing.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-canonical-app&quot;&gt;The Canonical App&lt;/h3&gt;
+&lt;h2 id=&quot;the-canonical-app&quot;&gt;The Canonical App&lt;/h2&gt;
 &lt;p&gt;I’m not going to focus on any of the apps that have been made for Micro.blog (official or third party), as I see these as nice to haves. For me the canonical view is the one presented at the website. This is the view that &lt;em&gt;everyone&lt;/em&gt; on the platform shares (regardless of operating system). I think overall the simplicity of this interface is what makes things work.&lt;/p&gt;
 
 &lt;p&gt;Items that I would like to see included at some point:&lt;/p&gt;
@@ -38,12 +47,12 @@
   &lt;li&gt;Highlight the emojis that are supported on the platform directly underneath and allow you to insert them from there.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;photos&quot;&gt;Photos&lt;/h3&gt;
+&lt;h2 id=&quot;photos&quot;&gt;Photos&lt;/h2&gt;
 &lt;p&gt;Photos should be showcased on a grid of three squares across. Ideally this should be another standard page found at &lt;em&gt;mydomain/photos&lt;/em&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Micro.blog already is able to distinguish photos pretty well. Let me see my photos in a gallery. It’s one of the feature that made me stick with Instagram for as long as I did.&lt;/p&gt;
 
-&lt;h3 id=&quot;stats&quot;&gt;Stats&lt;/h3&gt;
+&lt;h2 id=&quot;stats&quot;&gt;Stats&lt;/h2&gt;
 &lt;p&gt;Micro.blog does not, by design, show the number of users that follow you. My view on stats is that as this site is focused on my words and pictures, then my stats should also focus on this output.&lt;/p&gt;
 
 &lt;p&gt;I would love to see a yearly view of the number of posts I’ve made on a month by month basis. Each month could have two bars showing how much stuff gets posted to my site and how much stuff is interaction with others.&lt;/p&gt;
@@ -52,25 +61,25 @@
 
 &lt;p&gt;The reason for this is simple. It’s gamifying the experience. Except I’m now in competition with my previous self.&lt;/p&gt;
 
-&lt;h3 id=&quot;subscription&quot;&gt;Subscription&lt;/h3&gt;
+&lt;h2 id=&quot;subscription&quot;&gt;Subscription&lt;/h2&gt;
 &lt;p&gt;This is &lt;a href=&quot;https://micro.blog/manton/1057209&quot;&gt;finally being offered&lt;/a&gt;, but not &lt;em&gt;officially&lt;/em&gt; (blink that reply and it’s gone)? I’d like to see a yearly subscription to the service become official.&lt;/p&gt;
 
-&lt;h3 id=&quot;two-streams&quot;&gt;Two Streams&lt;/h3&gt;
+&lt;h2 id=&quot;two-streams&quot;&gt;Two Streams&lt;/h2&gt;
 &lt;p&gt;Micro.blog by it’s nature has two streams. The first is your website stream, and only includes your posts, while the second stream is the social one that includes everyone you follow and your posts starting with an @ symbol. As a user both are important, yet they are given wildly different treatment.&lt;/p&gt;
 
 &lt;p&gt;Your contributions to the conversation are still your words. These are currently only found in &lt;em&gt;micro.blog/yourusername.&lt;/em&gt; I would say that these should either be allowed to be ‘published’ to your blog as part of your stream or captured in a separate page with a link back to the original conversation.&lt;/p&gt;
 
-&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
 &lt;p&gt;I initially used to love the fact that I was limited in what I could do which was to play around with the CSS and that was it. Since then the addition of updating the footer has been added. A great additions for sure, but I want full control of my site. I’m paying for hosting, eventually I’d like to be allowed to control the whole look of my site.&lt;/p&gt;
 
 &lt;p&gt;I recognise that this is likely a much more involved design change, but it’s one that I think is important to provide as an option, so that there isn’t a pretty fundamental reason to go self host and attach an RSS feed in.&lt;/p&gt;
 
-&lt;h3 id=&quot;categories&quot;&gt;Categories&lt;/h3&gt;
+&lt;h2 id=&quot;categories&quot;&gt;Categories&lt;/h2&gt;
 &lt;p&gt;There are currently 9 categories that you can contribute towards. It’s a good start, but hardly what I’d call comprehensive. I’d like to see a great deal more categories. Architecture, Engineering, Comics, Stationary, Country-specific-categories, and the list goes on.&lt;/p&gt;
 
 &lt;p&gt;Clearly part of a much larger project, which may require the recruitment of moderators in this space, but again it needs to expand to allow people to huddle around the digital campfire.&lt;/p&gt;
 
-&lt;h3 id=&quot;expectations&quot;&gt;Expectations&lt;/h3&gt;
+&lt;h2 id=&quot;expectations&quot;&gt;Expectations&lt;/h2&gt;
 &lt;p&gt;I absolutely understand how things have improved over the last 10 months since using the service and that I’m effectively providing some ideas/thoughts about how the service would become even more enjoyable for me.&lt;/p&gt;
 
 </description>
@@ -556,17 +565,6 @@
         <pubDate>Mon, 24 Sep 2018 22:46:02 +0400</pubDate>
         <link>https://www.kaa.bz/2018/09/24/ok-ive-not.html</link>
         <guid isPermaLink="true">http://kaa.micro.blog/2018/09/24/ok-ive-not.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;These three &lt;a href=&quot;http://f1.com/2021&quot;&gt;F1 2021&lt;/a&gt; concepts as revealed on the F1 website show a future of motosport that &lt;em&gt;looks&lt;/em&gt; exciting. They’re also meant delivers to deliver closer driving and wheel to wheel action.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.kaa.bz/uploads/2018/3333774548.jpg&quot; width=&quot;600&quot; height=&quot;337&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Sep 2018 17:44:24 +0400</pubDate>
-        <link>https://www.kaa.bz/2018/09/23/these-f-concepts.html</link>
-        <guid isPermaLink="true">http://kaa.micro.blog/2018/09/23/these-f-concepts.html</guid>
       </item>
     
   </channel>
