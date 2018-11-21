@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2015-06-01 07:00:55 +0400
 guid: http://kaa.micro.blog/2015/06/01/gallery-zanes-birthday.html
 ---
