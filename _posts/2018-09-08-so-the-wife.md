@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-08 06:55:22 +0400
 guid: http://kaa.micro.blog/2018/09/08/so-the-wife.html
 ---
