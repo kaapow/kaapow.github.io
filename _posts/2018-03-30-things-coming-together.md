@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-30 14:51:04 +0400
 guid: http://kaa.micro.blog/2018/03/30/things-coming-together.html
 ---
