@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/e69d382a7e.jpg
 date: 2018-02-20 20:09:09 +0400
 guid: http://kaa.micro.blog/2018/02/20/so-ive-written.html
 ---
