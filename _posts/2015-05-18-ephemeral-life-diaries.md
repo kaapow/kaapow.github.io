@@ -3,6 +3,7 @@ layout: post
 title: "Ephemeral Life Diaries"
 microblog: false
 audio: 
+photo: 
 date: 2015-05-18 14:53:21 +0400
 guid: http://kaa.micro.blog/2015/05/18/ephemeral-life-diaries.html
 ---
