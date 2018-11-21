@@ -3,6 +3,7 @@ layout: post
 title: "Le Fabuleux Destin D'Amélie Poulin"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-19 20:56:57 +0400
 guid: http://kaa.micro.blog/2018/01/19/le-fabuleux-destin.html
 ---
