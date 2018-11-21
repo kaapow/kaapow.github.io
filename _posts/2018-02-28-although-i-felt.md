@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/4957d6dbb5.jpg
 date: 2018-02-28 20:21:58 +0400
 guid: http://kaa.micro.blog/2018/02/28/although-i-felt.html
 ---
