@@ -3,6 +3,7 @@ layout: post
 title: "Consolidate"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-02 13:22:27 +0400
 guid: http://kaa.micro.blog/2018/04/02/consolidate.html
 ---
