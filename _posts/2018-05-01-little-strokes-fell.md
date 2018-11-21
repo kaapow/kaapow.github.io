@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-01 22:42:06 +0400
 guid: http://kaa.micro.blog/2018/05/01/little-strokes-fell.html
 ---
