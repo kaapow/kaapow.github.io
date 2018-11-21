@@ -3,6 +3,7 @@ layout: post
 title: "For yourself"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-09 19:35:22 +0400
 guid: http://kaa.micro.blog/2018/08/09/for-yourself.html
 ---
