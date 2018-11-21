@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-18 23:35:31 +0400
 guid: http://kaa.micro.blog/2018/07/18/i-didnt-know.html
 ---
