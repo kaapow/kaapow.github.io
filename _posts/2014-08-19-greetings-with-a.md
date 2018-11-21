@@ -3,6 +3,7 @@ layout: post
 title: "Greetings with a smile"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-19 22:21:00 +0400
 guid: http://kaa.micro.blog/2014/08/19/greetings-with-a.html
 ---
