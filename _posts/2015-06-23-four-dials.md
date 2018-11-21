@@ -3,6 +3,7 @@ layout: post
 title: "Four Dials"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-23 15:15:11 +0400
 guid: http://kaa.micro.blog/2015/06/23/four-dials.html
 ---
