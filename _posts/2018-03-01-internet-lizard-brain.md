@@ -3,6 +3,7 @@ layout: post
 title: "Internet Lizard Brain"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-01 21:54:51 +0400
 guid: http://kaa.micro.blog/2018/03/01/internet-lizard-brain.html
 ---
