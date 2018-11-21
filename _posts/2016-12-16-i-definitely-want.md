@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/11d2f25a31.jpg
 date: 2016-12-16 23:03:10 +0400
 guid: http://kaa.micro.blog/2016/12/16/i-definitely-want.html
 ---
