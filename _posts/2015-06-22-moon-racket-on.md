@@ -3,6 +3,7 @@ layout: post
 title: "Moon Racket! on Medium"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-22 21:10:54 +0400
 guid: http://kaa.micro.blog/2015/06/22/moon-racket-on.html
 ---
