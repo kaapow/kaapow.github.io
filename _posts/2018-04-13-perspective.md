@@ -3,6 +3,7 @@ layout: post
 title: "Perspective"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-13 10:30:08 +0400
 guid: http://kaa.micro.blog/2018/04/13/perspective.html
 ---
