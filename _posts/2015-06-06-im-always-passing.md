@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/231e9de98e.jpg
 date: 2015-06-06 09:07:36 +0400
 guid: http://kaa.micro.blog/2015/06/06/im-always-passing.html
 ---
