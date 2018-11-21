@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-23 07:58:56 +0400
 guid: http://kaa.micro.blog/2018/06/23/that-quote-from.html
 ---
