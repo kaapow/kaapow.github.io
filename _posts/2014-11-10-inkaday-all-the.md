@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/f99075059e.jpg
 date: 2014-11-10 23:49:05 +0400
 guid: http://kaa.micro.blog/2014/11/10/inkaday-all-the.html
 ---
