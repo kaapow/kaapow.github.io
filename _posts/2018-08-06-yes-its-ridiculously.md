@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/153b722477.jpg
 date: 2018-08-06 21:35:44 +0400
 guid: http://kaa.micro.blog/2018/08/06/yes-its-ridiculously.html
 ---
