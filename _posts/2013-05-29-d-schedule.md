@@ -3,6 +3,7 @@ layout: post
 title: "D11 Schedule"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-29 23:32:59 +0400
 guid: http://kaa.micro.blog/2013/05/29/d-schedule.html
 ---
