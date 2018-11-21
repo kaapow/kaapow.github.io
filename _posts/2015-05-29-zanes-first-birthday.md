@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/cb9970eb02.jpg
 date: 2015-05-29 09:26:31 +0400
 guid: http://kaa.micro.blog/2015/05/29/zanes-first-birthday.html
 ---
