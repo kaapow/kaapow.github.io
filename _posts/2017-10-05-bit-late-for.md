@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/2dc7caf906.jpg
 date: 2017-10-06 03:28:48 +0400
 guid: http://kaa.micro.blog/2017/10/05/bit-late-for.html
 ---
