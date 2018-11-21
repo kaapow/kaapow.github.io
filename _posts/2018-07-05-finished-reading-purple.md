@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-05 23:48:20 +0400
 guid: http://kaa.micro.blog/2018/07/05/finished-reading-purple.html
 ---
