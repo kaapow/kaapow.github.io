@@ -3,6 +3,7 @@ layout: post
 title: "Podcasts for November"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-09 23:13:54 +0400
 guid: http://kaa.micro.blog/2018/11/09/podcasts-for-november.html
 ---
