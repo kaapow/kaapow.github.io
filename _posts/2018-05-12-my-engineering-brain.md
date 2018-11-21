@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-12 16:04:18 +0400
 guid: http://kaa.micro.blog/2018/05/12/my-engineering-brain.html
 ---
