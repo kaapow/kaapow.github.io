@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2014-08-29 14:03:00 +0400
 guid: http://kaa.micro.blog/2014/08/29/gallery-hobonichi-planner.html
 ---
