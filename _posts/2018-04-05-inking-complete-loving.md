@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/459def88b0.jpg
 date: 2018-04-05 20:10:23 +0400
 guid: http://kaa.micro.blog/2018/04/05/inking-complete-loving.html
 ---
