@@ -3,6 +3,7 @@ layout: post
 title: "Consistent & Incremental"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-27 07:17:44 +0400
 guid: http://kaa.micro.blog/2018/07/27/consistent-incremental.html
 ---
