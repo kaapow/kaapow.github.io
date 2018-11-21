@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/32e6df487f.jpg
 date: 2013-08-10 11:55:00 +0400
 guid: http://kaa.micro.blog/2013/08/10/i-hadnt-realised.html
 ---
