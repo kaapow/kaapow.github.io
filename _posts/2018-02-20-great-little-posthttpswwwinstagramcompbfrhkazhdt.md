@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-20 21:03:25 +0400
 guid: http://kaa.micro.blog/2018/02/20/great-little-posthttpswwwinstagramcompbfrhkazhdt.html
 ---
