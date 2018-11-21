@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/f93440ae88.jpg
 date: 2015-01-09 22:23:47 +0400
 guid: http://kaa.micro.blog/2015/01/09/tools-used-this.html
 ---
