@@ -3,6 +3,7 @@ layout: post
 title: "The Fifth Mode"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/db6ca643d4.jpg
 date: 2013-07-23 08:00:00 +0400
 guid: http://kaa.micro.blog/2013/07/23/the-fifthmode.html
 ---
