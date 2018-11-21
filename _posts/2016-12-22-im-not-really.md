@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/c9017cf177.jpg
 date: 2016-12-22 06:43:53 +0400
 guid: http://kaa.micro.blog/2016/12/22/im-not-really.html
 ---
