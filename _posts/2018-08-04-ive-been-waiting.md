@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 16:08:43 +0400
 guid: http://kaa.micro.blog/2018/08/04/ive-been-waiting.html
 ---
