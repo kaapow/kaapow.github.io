@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-10 10:39:33 +0400
 guid: http://kaa.micro.blog/2018/02/10/finally-using-deseatmehttpdesertme.html
 ---
