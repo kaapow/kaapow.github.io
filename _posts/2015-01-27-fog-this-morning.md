@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/2448e14b42.jpg
 date: 2015-01-27 22:39:00 +0400
 guid: http://kaa.micro.blog/2015/01/27/fog-this-morning.html
 ---
