@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-30 08:43:38 +0400
 guid: http://kaa.micro.blog/2018/03/30/after-a-failed.html
 ---
