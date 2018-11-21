@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 21:48:47 +0400
 guid: http://kaa.micro.blog/2018/07/26/just-watched-logan.html
 ---
