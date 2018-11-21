@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-20 20:23:56 +0400
 guid: http://kaa.micro.blog/2018/02/20/oh-just-found.html
 ---
