@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-06 22:00:35 +0400
 guid: http://kaa.micro.blog/2018/03/06/in-case-anyone.html
 ---
