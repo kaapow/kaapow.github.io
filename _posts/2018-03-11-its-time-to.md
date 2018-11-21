@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-11 21:01:22 +0400
 guid: http://kaa.micro.blog/2018/03/11/its-time-to.html
 ---
