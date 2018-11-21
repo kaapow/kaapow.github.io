@@ -3,6 +3,7 @@ layout: post
 title: "Supply Shaving"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-07 07:32:43 +0400
 guid: http://kaa.micro.blog/2018/02/07/supply-shaving.html
 ---
