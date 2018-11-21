@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-20 20:15:01 +0400
 guid: http://kaa.micro.blog/2018/06/20/these-latest-iteration.html
 ---
