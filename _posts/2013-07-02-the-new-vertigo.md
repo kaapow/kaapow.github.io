@@ -3,6 +3,7 @@ layout: post
 title: "The New Vertigo Comics"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-02 19:56:00 +0400
 guid: http://kaa.micro.blog/2013/07/02/the-new-vertigo.html
 ---
