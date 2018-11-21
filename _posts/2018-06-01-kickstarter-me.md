@@ -3,6 +3,7 @@ layout: post
 title: "Kickstarter & Me"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-01 15:25:50 +0400
 guid: http://kaa.micro.blog/2018/06/01/kickstarter-me.html
 ---
