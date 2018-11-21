@@ -3,6 +3,7 @@ layout: post
 title: "Toyota efficiency"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-30 10:29:34 +0400
 guid: http://kaa.micro.blog/2013/07/30/toyota-efficiency.html
 ---
