@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/8f40d272ed.jpg
 date: 2018-10-23 07:45:01 +0400
 guid: http://kaa.micro.blog/2018/10/23/inktober-is-nearly.html
 ---
