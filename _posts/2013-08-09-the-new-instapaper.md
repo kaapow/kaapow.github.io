@@ -3,6 +3,7 @@ layout: post
 title: "The new Instapaper web beta"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-10 01:04:00 +0400
 guid: http://kaa.micro.blog/2013/08/09/the-new-instapaper.html
 ---
