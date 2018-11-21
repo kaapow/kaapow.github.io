@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 17:39:43 +0400
 guid: http://kaa.micro.blog/2018/08/30/affinity-publisher-beta.html
 ---
