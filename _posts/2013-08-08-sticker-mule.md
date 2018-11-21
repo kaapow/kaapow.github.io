@@ -3,6 +3,7 @@ layout: post
 title: "Sticker Mule"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-08 09:56:14 +0400
 guid: http://kaa.micro.blog/2013/08/08/sticker-mule.html
 ---
