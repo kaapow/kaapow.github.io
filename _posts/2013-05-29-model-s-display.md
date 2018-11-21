@@ -3,6 +3,7 @@ layout: post
 title: "Model S Display Font"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-29 11:09:00 +0400
 guid: http://kaa.micro.blog/2013/05/29/model-s-display.html
 ---
