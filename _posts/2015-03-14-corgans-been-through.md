@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/1ab58914cf.jpg
 date: 2015-03-14 23:24:47 +0400
 guid: http://kaa.micro.blog/2015/03/14/corgans-been-through.html
 ---
