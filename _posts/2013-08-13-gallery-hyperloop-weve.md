@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2013-08-13 11:37:00 +0400
 guid: http://kaa.micro.blog/2013/08/13/gallery-hyperloop-weve.html
 ---
