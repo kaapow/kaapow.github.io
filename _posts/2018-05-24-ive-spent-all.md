@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 20:28:23 +0400
 guid: http://kaa.micro.blog/2018/05/24/ive-spent-all.html
 ---
