@@ -3,6 +3,7 @@ layout: post
 title: "Phones and Cameras"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-10 21:55:55 +0400
 guid: http://kaa.micro.blog/2018/10/10/phones-and-cameras.html
 ---
