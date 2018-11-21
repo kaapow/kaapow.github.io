@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-18 07:58:40 +0400
 guid: http://kaa.micro.blog/2018/08/18/still-deciding-whether.html
 ---
