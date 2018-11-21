@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-30 17:10:44 +0400
 guid: http://kaa.micro.blog/2018/04/30/it-appears-that.html
 ---
