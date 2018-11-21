@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-26 19:24:15 +0400
 guid: http://kaa.micro.blog/2018/03/26/i-decided-to.html
 ---
