@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 19:07:25 +0400
 guid: http://kaa.micro.blog/2018/09/06/testing-the-new.html
 ---
