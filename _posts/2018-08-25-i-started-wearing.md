@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-25 17:23:00 +0400
 guid: http://kaa.micro.blog/2018/08/25/i-started-wearing.html
 ---
