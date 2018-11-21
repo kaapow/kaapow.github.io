@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/35f115b2b3.jpg
 date: 2018-10-04 21:09:51 +0400
 guid: http://kaa.micro.blog/2018/10/04/i-stumbled-upon.html
 ---
