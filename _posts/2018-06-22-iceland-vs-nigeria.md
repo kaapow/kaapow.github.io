@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-22 20:36:28 +0400
 guid: http://kaa.micro.blog/2018/06/22/iceland-vs-nigeria.html
 ---
