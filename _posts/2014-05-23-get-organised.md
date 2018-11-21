@@ -3,6 +3,7 @@ layout: post
 title: "Get Organised"
 microblog: false
 audio: 
+photo: 
 date: 2014-05-23 14:32:00 +0400
 guid: http://kaa.micro.blog/2014/05/23/get-organised.html
 ---
