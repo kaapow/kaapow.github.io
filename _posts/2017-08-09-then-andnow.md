@@ -3,6 +3,7 @@ layout: post
 title: "Then and Now"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/252800b7e8.jpg
 date: 2017-08-09 08:00:00 +0400
 guid: http://kaa.micro.blog/2017/08/09/then-andnow.html
 ---
