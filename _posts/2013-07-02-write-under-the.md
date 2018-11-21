@@ -3,6 +3,7 @@ layout: post
 title: "Write under the influence"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-02 23:04:00 +0400
 guid: http://kaa.micro.blog/2013/07/02/write-under-the.html
 ---
