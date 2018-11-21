@@ -3,6 +3,7 @@ layout: post
 title: "Soundgarden & Kids"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-07 07:08:35 +0400
 guid: http://kaa.micro.blog/2018/03/07/soundgarden-kids.html
 ---
