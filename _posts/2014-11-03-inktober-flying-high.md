@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/fdd8ea1a9b.jpg
 date: 2014-11-03 15:59:00 +0400
 guid: http://kaa.micro.blog/2014/11/03/inktober-flying-high.html
 ---
