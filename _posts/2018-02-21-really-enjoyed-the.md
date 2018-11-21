@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-21 19:59:40 +0400
 guid: http://kaa.micro.blog/2018/02/21/really-enjoyed-the.html
 ---
