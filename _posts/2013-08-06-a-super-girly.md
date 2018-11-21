@@ -3,6 +3,7 @@ layout: post
 title: "A Super Girly Top Secret Comic Diary"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-06 12:33:00 +0400
 guid: http://kaa.micro.blog/2013/08/06/a-super-girly.html
 ---
