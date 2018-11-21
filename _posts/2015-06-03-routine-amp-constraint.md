@@ -3,6 +3,7 @@ layout: post
 title: "Routine &amp; Constraint"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-03 07:00:00 +0400
 guid: http://kaa.micro.blog/2015/06/03/routine-amp-constraint.html
 ---
