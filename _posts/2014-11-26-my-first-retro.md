@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/b3c6f0fd6d.jpg
 date: 2014-11-27 02:09:03 +0400
 guid: http://kaa.micro.blog/2014/11/26/my-first-retro.html
 ---
