@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-13 20:20:56 +0400
 guid: http://kaa.micro.blog/2018/03/13/really-great-interview.html
 ---
