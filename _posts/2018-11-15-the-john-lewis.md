@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-15 19:43:34 +0400
 guid: http://kaa.micro.blog/2018/11/15/the-john-lewis.html
 ---
