@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/d4bdda7669.jpg
 date: 2015-04-10 11:08:23 +0400
 guid: http://kaa.micro.blog/2015/04/10/and-the-other.html
 ---
