@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 23:25:04 +0400
 guid: http://kaa.micro.blog/2018/06/15/this-match-is.html
 ---
