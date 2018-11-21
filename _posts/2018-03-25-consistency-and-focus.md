@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-25 18:44:24 +0400
 guid: http://kaa.micro.blog/2018/03/25/consistency-and-focus.html
 ---
