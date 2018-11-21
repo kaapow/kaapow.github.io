@@ -3,6 +3,7 @@ layout: post
 title: "How to keep going"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-30 21:11:45 +0400
 guid: http://kaa.micro.blog/2018/03/30/how-to-keep.html
 ---
