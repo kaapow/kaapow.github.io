@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/f9489e24dd.jpg
 date: 2015-05-28 11:56:53 +0400
 guid: http://kaa.micro.blog/2015/05/28/practicing-in-the.html
 ---
