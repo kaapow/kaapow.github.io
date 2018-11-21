@@ -3,6 +3,7 @@ layout: post
 title: "Perseverance"
 microblog: false
 audio: 
+photo: 
 date: 2013-10-25 12:58:00 +0400
 guid: http://kaa.micro.blog/2013/10/25/perseverance.html
 ---
