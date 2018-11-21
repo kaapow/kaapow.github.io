@@ -3,6 +3,7 @@ layout: post
 title: "Chris Porritt"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-07 08:23:00 +0400
 guid: http://kaa.micro.blog/2013/05/07/chris-porritt.html
 ---
