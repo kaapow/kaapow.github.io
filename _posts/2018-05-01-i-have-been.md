@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-01 19:13:11 +0400
 guid: http://kaa.micro.blog/2018/05/01/i-have-been.html
 ---
