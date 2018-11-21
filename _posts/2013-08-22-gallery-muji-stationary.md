@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2013-08-23 00:37:00 +0400
 guid: http://kaa.micro.blog/2013/08/22/gallery-muji-stationary.html
 ---
