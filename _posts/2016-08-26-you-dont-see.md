@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/9508833fc2.jpg
 date: 2016-08-26 11:37:11 +0400
 guid: http://kaa.micro.blog/2016/08/26/you-dont-see.html
 ---
