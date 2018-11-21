@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-15 03:49:00 +0400
 guid: http://kaa.micro.blog/2018/02/14/every-subject-has.html
 ---
