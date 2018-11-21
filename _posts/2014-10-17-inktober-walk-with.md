@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/5215fcab08.jpg
 date: 2014-10-17 14:28:15 +0400
 guid: http://kaa.micro.blog/2014/10/17/inktober-walk-with.html
 ---
