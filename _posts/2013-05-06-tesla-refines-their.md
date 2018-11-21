@@ -3,6 +3,7 @@ layout: post
 title: "Tesla refines their finance markerting"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-06 12:52:00 +0400
 guid: http://kaa.micro.blog/2013/05/06/tesla-refines-their.html
 ---
