@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/e22d792d67.jpg
 date: 2018-04-27 20:50:36 +0400
 guid: http://kaa.micro.blog/2018/04/27/oddmar-for-ios.html
 ---
