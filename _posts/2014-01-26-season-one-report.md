@@ -3,6 +3,7 @@ layout: post
 title: "Season One Report Card"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/ae9a7dd334.jpg
 date: 2014-01-26 17:12:00 +0400
 guid: http://kaa.micro.blog/2014/01/26/season-one-report.html
 ---
