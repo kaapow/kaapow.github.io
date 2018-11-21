@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 07:05:25 +0400
 guid: http://kaa.micro.blog/2018/08/30/finally-pressed-the.html
 ---
