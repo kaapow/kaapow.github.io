@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/4473d78925.jpg
 date: 2014-04-30 08:55:00 +0400
 guid: http://kaa.micro.blog/2014/04/30/two-things-i.html
 ---
