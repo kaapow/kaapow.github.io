@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-07 19:53:47 +0400
 guid: http://kaa.micro.blog/2018/09/07/hadnt-realised-the.html
 ---
