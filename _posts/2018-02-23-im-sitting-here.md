@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-23 20:26:53 +0400
 guid: http://kaa.micro.blog/2018/02/23/im-sitting-here.html
 ---
