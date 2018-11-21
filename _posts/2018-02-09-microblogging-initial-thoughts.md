@@ -3,6 +3,7 @@ layout: post
 title: "Micro.blog Initial Thoughts"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-09 21:08:59 +0400
 guid: http://kaa.micro.blog/2018/02/09/microblogging-initial-thoughts.html
 ---
