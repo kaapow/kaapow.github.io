@@ -3,6 +3,7 @@ layout: post
 title: "Manhood for Amateurs"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-12 22:39:07 +0400
 guid: http://kaa.micro.blog/2018/06/12/manhood-for-amateurs.html
 ---
