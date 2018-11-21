@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/61cccd5943.jpg
 date: 2014-12-21 12:51:46 +0400
 guid: http://kaa.micro.blog/2014/12/21/examples-of-cultural.html
 ---
