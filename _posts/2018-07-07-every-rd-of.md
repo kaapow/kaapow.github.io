@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-07 14:09:01 +0400
 guid: http://kaa.micro.blog/2018/07/07/every-rd-of.html
 ---
