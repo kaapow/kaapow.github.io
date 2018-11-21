@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/2f7d6340f8.jpg
 date: 2018-08-20 13:57:48 +0400
 guid: http://kaa.micro.blog/2018/08/20/crowdtrying-something-a.html
 ---
