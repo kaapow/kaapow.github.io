@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/435e163e00.jpg
 date: 2015-05-05 08:26:10 +0400
 guid: http://kaa.micro.blog/2015/05/05/the-inking-has.html
 ---
