@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2014-10-02 12:29:31 +0400
 guid: http://kaa.micro.blog/2014/10/02/gallery-super-excited.html
 ---
