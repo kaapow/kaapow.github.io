@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-23 16:43:35 +0400
 guid: http://kaa.micro.blog/2018/06/23/the-latest-version.html
 ---
