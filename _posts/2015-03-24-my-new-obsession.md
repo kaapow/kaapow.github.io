@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/4dd972394e.jpg
 date: 2015-03-24 12:25:13 +0400
 guid: http://kaa.micro.blog/2015/03/24/my-new-obsession.html
 ---
