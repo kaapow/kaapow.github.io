@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/425bb7be6f.jpg
 date: 2017-03-08 02:04:03 +0400
 guid: http://kaa.micro.blog/2017/03/07/my-first-rmo.html
 ---
