@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/c2d1bfad4f.jpg
 date: 2013-09-07 09:10:41 +0400
 guid: http://kaa.micro.blog/2013/09/07/at-berts-in.html
 ---
