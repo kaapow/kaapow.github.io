@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/323e031ffd.jpg
 date: 2017-09-27 20:31:35 +0400
 guid: http://kaa.micro.blog/2017/09/27/love-it-when.html
 ---
