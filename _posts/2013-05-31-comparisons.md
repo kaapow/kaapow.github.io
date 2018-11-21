@@ -3,6 +3,7 @@ layout: post
 title: "Comparisons"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-31 23:16:00 +0400
 guid: http://kaa.micro.blog/2013/05/31/comparisons.html
 ---
