@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-27 21:44:51 +0400
 guid: http://kaa.micro.blog/2018/03/27/my-experience-with.html
 ---
