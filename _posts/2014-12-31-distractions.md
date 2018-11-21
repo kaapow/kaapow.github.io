@@ -3,6 +3,7 @@ layout: post
 title: "Distractions"
 microblog: false
 audio: 
+photo: 
 date: 2014-12-31 10:31:27 +0400
 guid: http://kaa.micro.blog/2014/12/31/distractions.html
 ---
