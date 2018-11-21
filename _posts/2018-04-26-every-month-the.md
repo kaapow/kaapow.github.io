@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-26 20:41:43 +0400
 guid: http://kaa.micro.blog/2018/04/26/every-month-the.html
 ---
