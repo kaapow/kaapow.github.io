@@ -3,6 +3,7 @@ layout: post
 title: "Missing from Micro.blog"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-19 06:35:22 +0400
 guid: http://kaa.micro.blog/2018/11/19/missing-from-microblog.html
 ---
@@ -19,7 +20,7 @@ Micro.blog is a personal online publishing platform with a social layer built in
 
 I think that Micro.blog handles many issues in a wonderfully elegant fashion. However there is plenty of room for improvement. While I’m aware that [@manton](https://micro.blog/manton) is but one person who is already doing a lot, it’s important to recognise that the sustainable thing is to have more than one person involved in the ongoing development of the platform, dare I say *multiple* people. To help him get to that ideal, the hosted option **needs** to become more appealing.
 
-### The Canonical App
+## The Canonical App
 I’m not going to focus on any of the apps that have been made for Micro.blog (official or third party), as I see these as nice to haves. For me the canonical view is the one presented at the website. This is the view that *everyone* on the platform shares (regardless of operating system). I think overall the simplicity of this interface is what makes things work. 
 
 Items that I would like to see included at some point:
@@ -29,12 +30,12 @@ Items that I would like to see included at some point:
 3. Allow more than one photo to be uploaded at a time.
 4. Highlight the emojis that are supported on the platform directly underneath and allow you to insert them from there.
 
-### Photos
+## Photos
 Photos should be showcased on a grid of three squares across. Ideally this should be another standard page found at *mydomain/photos***.**
 
 Micro.blog already is able to distinguish photos pretty well. Let me see my photos in a gallery. It’s one of the feature that made me stick with Instagram for as long as I did. 
 
-### Stats
+## Stats
 Micro.blog does not, by design, show the number of users that follow you. My view on stats is that as this site is focused on my words and pictures, then my stats should also focus on this output. 
 
 I would love to see a yearly view of the number of posts I’ve made on a month by month basis. Each month could have two bars showing how much stuff gets posted to my site and how much stuff is interaction with others.
@@ -43,24 +44,24 @@ Additional stats could highlight the total number of photos, posts and interacti
 
 The reason for this is simple. It’s gamifying the experience. Except I’m now in competition with my previous self.
 
-### Subscription
+## Subscription
 This is [finally being offered](https://micro.blog/manton/1057209), but not *officially* (blink that reply and it’s gone)? I’d like to see a yearly subscription to the service become official. 
 
-### Two Streams
+## Two Streams
 Micro.blog by it’s nature has two streams. The first is your website stream, and only includes your posts, while the second stream is the social one that includes everyone you follow and your posts starting with an @ symbol. As a user both are important, yet they are given wildly different treatment. 
 
 Your contributions to the conversation are still your words. These are currently only found in *micro.blog/yourusername.* I would say that these should either be allowed to be ‘published’ to your blog as part of your stream or captured in a separate page with a link back to the original conversation.
 
-### Design
+## Design
 I initially used to love the fact that I was limited in what I could do which was to play around with the CSS and that was it. Since then the addition of updating the footer has been added. A great additions for sure, but I want full control of my site. I’m paying for hosting, eventually I’d like to be allowed to control the whole look of my site.
 
 I recognise that this is likely a much more involved design change, but it’s one that I think is important to provide as an option, so that there isn’t a pretty fundamental reason to go self host and attach an RSS feed in.
 
-### Categories
+## Categories
 There are currently 9 categories that you can contribute towards. It’s a good start, but hardly what I’d call comprehensive. I’d like to see a great deal more categories. Architecture, Engineering, Comics, Stationary, Country-specific-categories, and the list goes on. 
 
 Clearly part of a much larger project, which may require the recruitment of moderators in this space, but again it needs to expand to allow people to huddle around the digital campfire.
 
-### Expectations
+## Expectations
 I absolutely understand how things have improved over the last 10 months since using the service and that I’m effectively providing some ideas/thoughts about how the service would become even more enjoyable for me.
 
