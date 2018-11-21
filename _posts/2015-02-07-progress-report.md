@@ -3,6 +3,7 @@ layout: post
 title: "Progress Report #1"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-07 20:06:00 +0400
 guid: http://kaa.micro.blog/2015/02/07/progress-report.html
 ---
