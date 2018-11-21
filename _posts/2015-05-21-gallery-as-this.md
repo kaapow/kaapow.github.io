@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2015-05-21 07:00:38 +0400
 guid: http://kaa.micro.blog/2015/05/21/gallery-as-this.html
 ---
