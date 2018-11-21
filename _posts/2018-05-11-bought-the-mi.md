@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-11 21:48:35 +0400
 guid: http://kaa.micro.blog/2018/05/11/bought-the-mi.html
 ---
