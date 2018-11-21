@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-08 19:19:23 +0400
 guid: http://kaa.micro.blog/2018/11/08/the-weekend-is.html
 ---
