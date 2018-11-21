@@ -3,6 +3,7 @@ layout: post
 title: "Inking Tools"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/a6e0e965e6.jpg
 date: 2014-01-13 20:15:27 +0400
 guid: http://kaa.micro.blog/2014/01/13/inking-tools.html
 ---
