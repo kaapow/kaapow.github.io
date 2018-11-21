@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 21:23:45 +0400
 guid: http://kaa.micro.blog/2018/09/05/a-month-ago.html
 ---
