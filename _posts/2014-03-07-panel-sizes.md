@@ -3,6 +3,7 @@ layout: post
 title: "Panel Sizes"
 microblog: false
 audio: 
+photo: https://www.kaa.bz/uploads/2018/1eeee5b7cd.jpg
 date: 2014-03-07 14:09:00 +0400
 guid: http://kaa.micro.blog/2014/03/07/panel-sizes.html
 ---
