@@ -3,6 +3,7 @@ layout: post
 title: "10 Minutes Per Year"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-19 19:36:29 +0400
 guid: http://kaa.micro.blog/2013/05/19/minutes-per-year.html
 ---
