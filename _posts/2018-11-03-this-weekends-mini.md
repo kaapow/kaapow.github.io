@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-03 16:24:26 +0400
 guid: http://kaa.micro.blog/2018/11/03/this-weekends-mini.html
 ---
