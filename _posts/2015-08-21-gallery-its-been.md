@@ -3,6 +3,7 @@ layout: post
 title: "Hobonichi Techo 2016"
 microblog: false
 audio: 
+photo: 
 date: 2015-08-22 00:58:39 +0400
 guid: http://kaa.micro.blog/2015/08/21/gallery-its-been.html
 ---
