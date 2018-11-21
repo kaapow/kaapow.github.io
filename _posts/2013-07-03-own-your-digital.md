@@ -3,6 +3,7 @@ layout: post
 title: "Own your Digital Image Comics"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-03 09:31:00 +0400
 guid: http://kaa.micro.blog/2013/07/03/own-your-digital.html
 ---
