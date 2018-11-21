@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/adb6adc0e5.jpg
 date: 2018-02-25 21:36:43 +0400
 guid: http://kaa.micro.blog/2018/02/25/found-this-via.html
 ---
