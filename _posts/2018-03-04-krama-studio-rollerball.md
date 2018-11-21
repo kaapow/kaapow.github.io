@@ -3,6 +3,7 @@ layout: post
 title: "Krama Studio Rollerball"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-04 21:22:23 +0400
 guid: http://kaa.micro.blog/2018/03/04/krama-studio-rollerball.html
 ---
