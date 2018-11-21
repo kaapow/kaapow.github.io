@@ -3,6 +3,7 @@ layout: post
 title: "Moon Racket Website Update"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-09 11:26:20 +0400
 guid: http://kaa.micro.blog/2015/06/09/gallery-moon-racket.html
 ---
