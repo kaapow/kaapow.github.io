@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/b7ea26b46b.jpg
 date: 2013-08-23 21:05:00 +0400
 guid: http://kaa.micro.blog/2013/08/23/look-what-i.html
 ---
