@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/9c515eb88c.jpg
 date: 2016-03-19 10:22:35 +0400
 guid: http://kaa.micro.blog/2016/03/19/sometimes-the-hidden.html
 ---
