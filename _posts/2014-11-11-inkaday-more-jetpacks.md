@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/6b26a44455.jpg
 date: 2014-11-11 16:16:47 +0400
 guid: http://kaa.micro.blog/2014/11/11/inkaday-more-jetpacks.html
 ---
