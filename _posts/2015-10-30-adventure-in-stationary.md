@@ -3,6 +3,7 @@ layout: post
 title: "Adventure in Stationary"
 microblog: false
 audio: 
+photo: 
 date: 2015-10-30 23:50:06 +0400
 guid: http://kaa.micro.blog/2015/10/30/adventure-in-stationary.html
 ---
