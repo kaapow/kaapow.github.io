@@ -3,6 +3,7 @@ layout: post
 title: "Writing on the web"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-31 21:09:34 +0400
 guid: http://kaa.micro.blog/2018/03/31/writing-on-the.html
 ---
