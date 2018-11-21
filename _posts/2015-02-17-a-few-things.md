@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/68f912f2e1.jpg
 date: 2015-02-17 08:56:16 +0400
 guid: http://kaa.micro.blog/2015/02/17/a-few-things.html
 ---
