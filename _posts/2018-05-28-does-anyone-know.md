@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/645cc14611.jpg
 date: 2018-05-28 17:46:34 +0400
 guid: http://kaa.micro.blog/2018/05/28/does-anyone-know.html
 ---
