@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-25 06:45:45 +0400
 guid: http://kaa.micro.blog/2018/02/25/published-nearly-years.html
 ---
