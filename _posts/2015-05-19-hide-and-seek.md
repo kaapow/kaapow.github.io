@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/9ae3cd988a.jpg
 date: 2015-05-19 22:49:46 +0400
 guid: http://kaa.micro.blog/2015/05/19/hide-and-seek.html
 ---
