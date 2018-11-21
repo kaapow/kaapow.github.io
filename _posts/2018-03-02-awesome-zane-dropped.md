@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-02 15:08:16 +0400
 guid: http://kaa.micro.blog/2018/03/02/awesome-zane-dropped.html
 ---
