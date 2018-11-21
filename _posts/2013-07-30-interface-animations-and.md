@@ -3,6 +3,7 @@ layout: post
 title: "Interface Animations and Transitions"
 microblog: false
 audio: 
+photo: 
 date: 2013-07-30 10:23:56 +0400
 guid: http://kaa.micro.blog/2013/07/30/interface-animations-and.html
 ---
