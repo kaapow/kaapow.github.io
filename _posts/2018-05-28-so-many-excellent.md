@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-28 20:23:54 +0400
 guid: http://kaa.micro.blog/2018/05/28/so-many-excellent.html
 ---
