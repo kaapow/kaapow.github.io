@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/9a64d8322c.jpg
 date: 2015-04-21 12:58:01 +0400
 guid: http://kaa.micro.blog/2015/04/21/trying-something-new.html
 ---
