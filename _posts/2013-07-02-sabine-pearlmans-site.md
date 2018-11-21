@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/3437c9850f.jpg
 date: 2013-07-02 09:10:07 +0400
 guid: http://kaa.micro.blog/2013/07/02/sabine-pearlmans-site.html
 ---
