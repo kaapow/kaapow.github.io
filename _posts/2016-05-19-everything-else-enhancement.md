@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/0568b45586.jpg
 date: 2016-05-19 07:32:37 +0400
 guid: http://kaa.micro.blog/2016/05/19/everything-else-enhancement.html
 ---
