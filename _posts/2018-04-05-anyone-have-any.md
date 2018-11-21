@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-05 09:53:37 +0400
 guid: http://kaa.micro.blog/2018/04/05/anyone-have-any.html
 ---
