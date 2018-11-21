@@ -3,6 +3,7 @@ layout: post
 title: "Fantagraphics Co-Publisher Kim Thompson Passes Away"
 microblog: false
 audio: 
+photo: 
 date: 2013-06-20 21:16:53 +0400
 guid: http://kaa.micro.blog/2013/06/20/fantagraphics-copublisher-kim.html
 ---
