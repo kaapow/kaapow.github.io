@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-12 03:43:11 +0400
 guid: http://kaa.micro.blog/2018/02/11/you-know-when.html
 ---
