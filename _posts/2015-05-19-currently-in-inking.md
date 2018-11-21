@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/b3b0539704.jpg
 date: 2015-05-19 14:58:00 +0400
 guid: http://kaa.micro.blog/2015/05/19/currently-in-inking.html
 ---
