@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/cbec48886c.jpg
 date: 2013-08-07 10:30:19 +0400
 guid: http://kaa.micro.blog/2013/08/07/and-here-is.html
 ---
