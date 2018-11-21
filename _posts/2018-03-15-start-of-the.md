@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-15 17:33:59 +0400
 guid: http://kaa.micro.blog/2018/03/15/start-of-the.html
 ---
