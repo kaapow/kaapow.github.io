@@ -3,6 +3,7 @@ layout: post
 title: "Opens Flat"
 microblog: false
 audio: 
+photo: 
 date: 2014-10-05 23:06:55 +0400
 guid: http://kaa.micro.blog/2014/10/05/opens-flat.html
 ---
