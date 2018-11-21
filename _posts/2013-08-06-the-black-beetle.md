@@ -3,6 +3,7 @@ layout: post
 title: "The Black Beetle, Anatomy of a Font"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-06 22:36:08 +0400
 guid: http://kaa.micro.blog/2013/08/06/the-black-beetle.html
 ---
