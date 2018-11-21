@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.kaa.bz/uploads/2018/8a86628a0e.jpg
 date: 2017-01-01 06:18:45 +0400
 guid: http://kaa.micro.blog/2017/01/01/newest-of-photos.html
 ---
