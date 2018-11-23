@@ -1,7 +1,7 @@
 /* 
-micro.kaa.bz Version 1.0
+micro.kaa.bz Version 1.1
 Used Primrose as a base. 
-Last Update: 27th July 2018.
+Last Update: 22nd November 2018.
 */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|Archivo+Narrow:700');
@@ -88,7 +88,7 @@ body.single main.main__content table 		{ width: 90%;}
 
 body.single main.main__content p, body.single main.main__content ol, body.single main.main__content ul, body.single main.main__content h1, body.single main.main__content h2 , body.single main.main__content h3 , body.single main.main__content footer.footer footer--single { max-width: 680px; margin: 0 auto;}
 
-body.single main.main__content h1   { margin: 6rem auto 0 auto; width: 90%;}
+body.single main.main__content h1   { margin: 0 auto; width: 90%; visibility: hidden;}
 body.single main.main__content h2   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content h3   { margin: 3rem auto 0 auto; width: 90%;}
 body.single main.main__content table 	{ margin: 20px auto; }
@@ -97,41 +97,18 @@ body.single main.main__content h1.p-name,  body.single main.main__content div#on
 
 body.single main.main__content .post--single h2 {margin: 3rem 0 0 0 ; width: 100%;}
 
-.onoffswitch {
-    position: relative; width: 40px;
-    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
-}
-.onoffswitch-checkbox {
-    display: none;
-}
-.onoffswitch-label {
-    display: block; overflow: hidden; cursor: pointer;
-    height: 21px; padding: 0; line-height: 21px;
-    border: 2px solid #E3E3E3; border-radius: 21px;
-    background-color: #FFFFFF;
-    transition: background-color 0.3s ease-in;
-}
-.onoffswitch-label:before {
-    content: "";
-    display: block; width: 21px; margin: 0px;
-    background: #FFFFFF;
-    position: absolute; top: 0; bottom: 0;
-    right: 17px;
-    border: 2px solid #E3E3E3; border-radius: 21px;
-    transition: all 0.3s ease-in 0s; 
-}
-.onoffswitch-checkbox:checked + .onoffswitch-label {
-    background-color: #194EEC;
-}
-.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
-   border-color: #194EEC;
-}
-.onoffswitch-checkbox:checked + .onoffswitch-label:before {
-    right: 0px; 
+/* Interesting new value, vw=view window*/
+#microgram div.photo { width: 90vw; height: 90vw; float: left; margin: 0 0 25px 0;}
+#microgram {margin: 0 auto;  width: 90%; overflow: hidden;}
+#microgram div.photo:hover {  cursor: pointer;  opacity: 0.75;}
+
+ /*Responsive design - effective only for large screens.*/
+@media all and (max-width: 1024px) and (min-width: 700px) {
+#microgram div.photo { width: 270px;  height: 270px;   float: left; margin: 0 0 25px 25px;}
+#microgram { max-width: 1000px; margin: 0 auto;  width: 90%; overflow: hidden;}
 }
 
-/*Responsive design - effective only for large screens.*/
-@media only screen and (min-width:34rem) {
+@media all and (min-width: 1025px) {
 ol li								{ margin-left: -20px; }
 ul li 								{ margin-left: -23px; text-indent: -1em; padding-left: 1em;}
 figure.avatar 						{ width: 100px; padding: 0; margin: -0.2em 0 0 -8em; float: left;}
@@ -142,6 +119,8 @@ nav.NavFooter 						{ float: right;    width: 100px;    text-align: right;}
 ul.External li a img 				{ height: 3rem;}
 ul.External li.MoonRacket a img 	{ height: 5rem;}
 .NewCopyright 						{ margin: 8rem 0 1rem 0;    }
+#microgram div.photo { width: 300px;  height: 300px;   float: left; margin: 0 0 25px 25px;}
+#microgram { max-width: 1000px; margin: 0 auto;  width: 90%; overflow: hidden;}
 }
 
 /* Ensure that the background image used for retina displays is the correct size.*/
