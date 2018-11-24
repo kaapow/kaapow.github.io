@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/24/ive-not-specifically.html",
+	      	
+			"content_text": "I’ve not specifically sought out any Black Friday deals, but...",
+			"date_published": "2018-11-24T14:55:41+04:00",
+			"url": "https://www.kaa.bz/2018/11/24/ive-not-specifically.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/23/now-that-one.html",
+	      	
+			"content_text": "Now that one of my most requested features for Micro.blog...",
+			"date_published": "2018-11-23T11:12:06+04:00",
+			"url": "https://www.kaa.bz/2018/11/23/now-that-one.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/19/depressing-but-astute.html",
 	      	
 			"content_text": "Depressing but astute assessment of the current state of Brexit....",
