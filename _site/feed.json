@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/11/24/ive-not-specifically.html",
+	      	
+			"content_html": "<p>I’ve not specifically sought out any Black Friday deals, but I did benefit from the 50% offer over at Proton Mail. Was going to get a paid account anyway, this came as a great and welcome surprise.</p>\n",
+			"date_published": "2018-11-24T14:55:41+04:00",
+			"url": "https://www.kaa.bz/2018/11/24/ive-not-specifically.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/23/now-that-one.html",
+	      	
+			"content_html": "<p>Now that one of my most requested features for Micro.blog has been made (a <a href=\"http://kaa.bz/photo\">gallery of photos</a>), I can finally kick my Instagram habit. The only thing that still ties me to Facebook is WhatsApp.</p>\n",
+			"date_published": "2018-11-23T11:12:06+04:00",
+			"url": "https://www.kaa.bz/2018/11/23/now-that-one.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/19/depressing-but-astute.html",
 	      	
 			"content_html": "<p><a href=\"http://prospect.org/article/brexit-mess-will-go-on-years\">Depressing but astute assessment</a> of the current state of Brexit. The surprising stat is the 700,000 older/young people change per year.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>As much as I love October, really glad it’s finally over and can look forward to what November has to bring. Winter is finally upon us and I’m looking forward to enjoying the outdoors a little bit more. With both boys in tow I’m hoping for a bunch of fun over the next 6 months.</p>\n",
 			"date_published": "2018-11-01T20:24:33+04:00",
 			"url": "https://www.kaa.bz/2018/11/01/as-much-as.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/31/first-proper-halloween.html",
-	      	
-			"content_html": "<p>First proper halloween experience for Zane, which he absolutely loved. Got dressed as a pterodactyl, hunted for houses with their lights on and then stuffing his bucket with goodies. I’ve never been into Halloween, but starting to enjoy it through my kid’s eyes.</p>\n",
-			"date_published": "2018-10-31T20:36:14+04:00",
-			"url": "https://www.kaa.bz/2018/10/31/first-proper-halloween.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/10/30/this-new-ipad.html",
-	      	
-			"content_html": "<p>This new iPad Pro is a great way to finally get into the iPad lifestyle. Glad I waited out for this version (rather than getting one last year). Hopefully it’ll be my upgraded computing device for the next five years.</p>\n",
-			"date_published": "2018-10-30T21:21:11+04:00",
-			"url": "https://www.kaa.bz/2018/10/30/this-new-ipad.html"
 		}
 		
 	]
