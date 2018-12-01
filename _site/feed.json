@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/12/01/usually-i-love.html",
+	      	
+			"content_html": "<p>Usually I love it when both boys are fast asleep in their beds, this evening is very different. Zane is battling through a 7-10 day flu, while Ryan was ok but now developed a fever suddenly…it’s been a long week. I hope the worst is over.</p>\n",
+			"date_published": "2018-12-01T19:16:34+04:00",
+			"url": "https://www.kaa.bz/2018/12/01/usually-i-love.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/11/29/so-its-been.html",
+	      	
+			"content_html": "<p>So it’s been three long years since we moved to Dubai. At the time I’d just read Marie Kondo’s book and it was amazingly eye opening. We have a four day weekend ahead of us and it seems it’s likely going to be a miserable affair on account of the kids and wife having caught the flu. Mission to make this place lighter will begin tomorrow. Inbetween making the family as comfortable as I can, I’ll be throwing things out.</p>\n",
+			"date_published": "2018-11-29T19:26:41+04:00",
+			"url": "https://www.kaa.bz/2018/11/29/so-its-been.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/11/29/drove-for-min.html",
 	      	
 			"content_html": "<p>Drove for 5min this morning and a dreaded yellow warning signal comes up that oil is low. On the long drive down, a quick visit to the lube-me-up section of the petrol station and before coffee had been brewed, oil is topped up. Sometimes things come together.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>It’s been an exceptionally tough week, which is to be expected as everyone is working on overdrive towards the imminent opening for Qasr Al Hosn in Abu Dhabi. <a href=\"https://twitter.com/QasrAlHosn/status/1059785724113883137\">Great video</a> on the Twitter feed.</p>\n",
 			"date_published": "2018-11-08T16:18:29+04:00",
 			"url": "https://www.kaa.bz/2018/11/08/121829.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/05/finding-your-niche.html",
-	      	
-			"content_html": "<p>Finding your niche can feel like a life long struggle. Some discover it early on and continue to build on that discovery. Others meander through life until they settle. While other due to circumstance or ability never reach that discovery. You have one life. Go. Discover.</p>\n",
-			"date_published": "2018-11-05T06:05:16+04:00",
-			"url": "https://www.kaa.bz/2018/11/05/finding-your-niche.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/03/this-weekends-mini.html",
-	      	
-			"content_html": "<p>This weekend’s mini project was making an <a href=\"https://www.lomography.com/magazine/336973-lomography-tutorials-adjustable-snake-knot-camera-strap\">adjustable snake knot camera strap</a>. Went for some funky colours as the paracord on offer had limited colours available. If you have to go bold, go all the way.</p>\n",
-			"date_published": "2018-11-03T16:24:26+04:00",
-			"url": "https://www.kaa.bz/2018/11/03/this-weekends-mini.html"
 		}
 		
 	]
