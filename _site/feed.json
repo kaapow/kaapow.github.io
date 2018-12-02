@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/12/02/i-hardly-ever.html",
+	      	
+			"content_html": "<p>🍿 I hardly ever get the chance to watch movies but on the latest <a href=\"http://recomendo.com/issues/free-blog-domains-habits-of-a-happy-brain-explore-org-147031\">Recomendo</a> issue, I was gifted a couple of hours today and decided to watch <a href=\"https://en.wikipedia.org/wiki/Icarus_(2017_film)\">Icarus</a>, one of the best documentaries I’ve seen in a long time complete with engaging protagonists, story and music.</p>\n",
+			"date_published": "2018-12-02T21:05:28+04:00",
+			"url": "https://www.kaa.bz/2018/12/02/i-hardly-ever.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/12/01/when-i-started.html",
+	      	
+			"content_html": "<p>When I started using Micro.blog I decided to keep <em>syndicating</em> my words over to Twitter. Over this last year what this has done is created two urls on the internet with the exact same content which provided completely different experiences. Twitter is Vegas, while my site is more Bauhaus?</p>\n\n<p><img src=\"http://www.kaa.bz/uploads/2018/4b9d6eaf12.png\" alt=\"Vegas\" />\n<img src=\"http://www.kaa.bz/uploads/2018/19e73c143b.png\" alt=\"my site\" /></p>\n\n",
+			"date_published": "2018-12-01T20:22:49+04:00",
+			"url": "https://www.kaa.bz/2018/12/01/when-i-started.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/12/01/usually-i-love.html",
 	      	
 			"content_html": "<p>Usually I love it when both boys are fast asleep in their beds, this evening is very different. Zane is battling through a 7-10 day flu, while Ryan was ok but now developed a fever suddenly…it’s been a long week. I hope the worst is over.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>Park season is upon us.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/27d0648f37.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-11-09T17:47:27+04:00",
 			"url": "https://www.kaa.bz/2018/11/09/park-season-is.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/08/the-weekend-is.html",
-	      	
-			"content_html": "<p>The weekend is finally upon us and as always I’m hopeful of filling it with good activities for both myself and the rest of the family. It’s not so much living for the weekend as it making the most of the weekends which offer more time than the week.</p>\n",
-			"date_published": "2018-11-08T19:19:23+04:00",
-			"url": "https://www.kaa.bz/2018/11/08/the-weekend-is.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/08/121829.html",
-	      	
-			"content_html": "<p>It’s been an exceptionally tough week, which is to be expected as everyone is working on overdrive towards the imminent opening for Qasr Al Hosn in Abu Dhabi. <a href=\"https://twitter.com/QasrAlHosn/status/1059785724113883137\">Great video</a> on the Twitter feed.</p>\n",
-			"date_published": "2018-11-08T16:18:29+04:00",
-			"url": "https://www.kaa.bz/2018/11/08/121829.html"
 		}
 		
 	]
