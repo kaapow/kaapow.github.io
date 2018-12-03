@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://kaa.micro.blog/2018/12/03/110957.html",
+	      	
+			"content_html": "<p>It’s all about throwing rocks.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/2819eebc28.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-03T15:09:57+04:00",
+			"url": "https://www.kaa.bz/2018/12/03/110957.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/12/02/having-cut-the.html",
+	      	
+			"content_html": "<p>Having cut the cord on cable TV, there are two things I miss. Live sports and <strong>great</strong> adverts (I know). Thankfully <a href=\"https://sandwichvideo.com\">Sandwich video</a> has me sorted on the second of those. Their latest <a href=\"https://sandwichvideo.com/projects/how-to-vote\">Vote.org</a> and <a href=\"https://sandwichvideo.com/projects/picture-your-life\">Fracture</a> videos are great.</p>\n",
+			"date_published": "2018-12-02T21:34:30+04:00",
+			"url": "https://www.kaa.bz/2018/12/02/having-cut-the.html"
+		},
+		
+		{
 			"id": "http://kaa.micro.blog/2018/12/02/i-hardly-ever.html",
 	      	
 			"content_html": "<p>🍿 I hardly ever get the chance to watch movies but on the latest <a href=\"http://recomendo.com/issues/free-blog-domains-habits-of-a-happy-brain-explore-org-147031\">Recomendo</a> issue, I was gifted a couple of hours today and decided to watch <a href=\"https://en.wikipedia.org/wiki/Icarus_(2017_film)\">Icarus</a>, one of the best documentaries I’ve seen in a long time complete with engaging protagonists, story and music.</p>\n",
@@ -190,24 +206,6 @@
 			"content_html": "<p>Awesome analysis of <a href=\"https://www.arun.is/blog/custom-typefaces/\">why tech companies are making custom typefaces.</a></p>\n",
 			"date_published": "2018-11-10T17:48:19+04:00",
 			"url": "https://www.kaa.bz/2018/11/10/awesome-analysis-of.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/09/podcasts-for-november.html",
-	      	
-			"title": "Podcasts for November",
-			
-			"content_html": "<p>🎙️ Seeing as I’m in the car for many hours of the day (travelling up and down to Abu Dhabi), I’ve been listening to a ton of podcasts recently….a metric ton in fact. Here are some of the highlight episodes:</p>\n<ol>\n  <li><a href=\"https://podtail.com/podcast/unfiltered-with-james-o-brien-joe/sir-nick-clegg-live-by-the-sword-die-by-the-sword/\">Unfiltered interview with Sir Nick Clegg</a> - essential listening if you’re looking to understand Brexit more.</li>\n  <li><a href=\"https://serialpodcast.org/season-three/about\">Serial Season Three</a> - I missed season 2, but this season has been very good.</li>\n  <li><a href=\"http://songexploder.net/halloween\">Song Exploder - John Carpenter Halloween Theme</a> - Was made even better as we drove in pitch darkness on a moonless night.</li>\n  <li><a href=\"https://cms.megaphone.fm/channel/broken-record\">Broken Record</a> - Hey, it’s Malcolm Gladwell.</li>\n</ol>\n",
-			"date_published": "2018-11-09T23:13:54+04:00",
-			"url": "https://www.kaa.bz/2018/11/09/podcasts-for-november.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/09/park-season-is.html",
-	      	
-			"content_html": "<p>Park season is upon us.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/27d0648f37.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-11-09T17:47:27+04:00",
-			"url": "https://www.kaa.bz/2018/11/09/park-season-is.html"
 		}
 		
 	]
