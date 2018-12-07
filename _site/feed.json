@@ -7,11 +7,27 @@
 	"items": [
 		
 		{
-			"id": "http://kaa.micro.blog/2018/12/05/dubai-skies.html",
+			"id": "http://kaa.micro.blog/2018/12/07/snowflakes.html",
 	      	
-			"content_html": "<p>Dubai skies…</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/b70af56d28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-			"date_published": "2018-12-05T18:10:45+04:00",
-			"url": "https://www.kaa.bz/2018/12/05/dubai-skies.html"
+			"content_html": "<p>Snowflakes.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/f40162b2c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-07T11:56:17+04:00",
+			"url": "https://www.kaa.bz/2018/12/07/snowflakes.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/12/05/partially-unused-image.html",
+	      	
+			"content_html": "<p><em>Partially</em> unused image for my upcoming project, hopefully launching in 2019.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/2001cc011a.jpg\" width=\"600\" height=\"424\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-05T23:10:40+04:00",
+			"url": "https://www.kaa.bz/2018/12/05/partially-unused-image.html"
+		},
+		
+		{
+			"id": "http://kaa.micro.blog/2018/12/05/i-found-out.html",
+	      	
+			"content_html": "<p>I found out about <a href=\"https://www.youtube.com/user/JamieOliver\">Food Tube</a> when I was looking how to make <a href=\"https://www.youtube.com/watch?v=s9r-CxnCXkg\">eggs</a>. After Jamie blew my mind I’ve jumped into making <a href=\"https://www.youtube.com/watch?v=ewQqC0vursc\">hot sauce</a>, <a href=\"https://www.youtube.com/watch?v=bJeUb8ToRIw\">chicken</a> and <a href=\"https://www.youtube.com/watch?v=-9p31reoSD8\">salads</a>.</p>\n",
+			"date_published": "2018-12-05T22:22:22+04:00",
+			"url": "https://www.kaa.bz/2018/12/05/i-found-out.html"
 		},
 		
 		{
@@ -81,7 +97,7 @@
 		{
 			"id": "http://kaa.micro.blog/2018/11/26/exceptionally-fun-pixelated.html",
 	      	
-			"content_html": "<p><a href=\"https://www.dezeen.com/2018/11/26/buro-ole-scheeren-mahanakhon-second-tallest-building-thailand/\">Exceptionally fun <em>pixelated</em> tower from Ole Scheeren in Bangkok</a>. I love when an idea is executed well. This tower could have been completely pedestrian, but instead it looks amazing.</p>\n",
+			"content_html": "<p><a href=\"https://www.dezeen.com/2018/11/26/buro-ole-scheeren-mahanakhon-second-tallest-building-thailand/\">Exceptionally fun pixelated tower from Ole Scheeren in Bangkok</a>. I love when an idea is executed well. This tower could have been completely pedestrian, but instead it looks amazing.</p>\n",
 			"date_published": "2018-11-26T19:13:33+04:00",
 			"url": "https://www.kaa.bz/2018/11/26/exceptionally-fun-pixelated.html"
 		},
@@ -190,22 +206,6 @@
 			"content_html": "<p>He had a <strong>great</strong> run, but alas  <a href=\"http://www.comicsbeat.com/stan-lee-has-died/\">Stan Lee has died</a>.</p>\n",
 			"date_published": "2018-11-12T23:33:57+04:00",
 			"url": "https://www.kaa.bz/2018/11/12/he-has-a.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/11/first-rain-have.html",
-	      	
-			"content_html": "<p>First rain have come with thunder and lightning. It’s been such a long time since we’ve had any rainfall in the Gulf.</p>\n",
-			"date_published": "2018-11-11T20:51:02+04:00",
-			"url": "https://www.kaa.bz/2018/11/11/first-rain-have.html"
-		},
-		
-		{
-			"id": "http://kaa.micro.blog/2018/11/10/the-creacent.html",
-	      	
-			"content_html": "<p>The Crescent.</p>\n\n<p><img src=\"https://www.kaa.bz/uploads/2018/5a54739555.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-11-10T18:04:59+04:00",
-			"url": "https://www.kaa.bz/2018/11/10/the-creacent.html"
 		}
 		
 	]
